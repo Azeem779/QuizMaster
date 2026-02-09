@@ -1,0 +1,295 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Test your knowledge with our interactive quiz app!"
+    />
+    <title>QuizMaster - Test Your Knowledge</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="icon"
+      href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🧠</text></svg>"
+    />
+  </head>
+  <body>
+    <div class="app-container">
+      <button class="btn btn-icon btn-secondary theme-toggle" id="themeToggle">
+        🌙
+      </button>
+      <button class="btn btn-icon btn-secondary sound-toggle" id="soundToggle">
+        🔊
+      </button>
+      <div class="streak-indicator" id="streakIndicator">
+        <span class="icon">🔥</span>
+        <span class="streak-count" id="streakCount">0</span>
+        <span class="streak-label">Streak</span>
+      </div>
+      <div class="confetti-container" id="confettiContainer"></div>
+      
+      <!-- USER INFO BADGE -->
+      <div class="user-badge hidden" id="userBadge">
+        <span class="user-avatar" id="userAvatar">👤</span>
+        <span class="user-name" id="userName">User</span>
+        <button class="btn-logout" id="logoutBtn" title="Logout">🚪</button>
+      </div>
+
+      <!-- LOGIN SCREEN -->
+      <div class="glass-card login-screen" id="loginScreen">
+        <div class="login-icon">🔐</div>
+        <h1>Welcome to QuizMaster</h1>
+        <p class="subtitle">Please login to continue</p>
+        
+        <form class="login-form" id="loginForm">
+          <div class="form-group">
+            <label for="userId">👤 User ID</label>
+            <input type="text" id="userId" placeholder="Enter your user ID" autocomplete="username" required />
+          </div>
+          <div class="form-group">
+            <label for="password">🔒 Password</label>
+            <input type="password" id="password" placeholder="Enter your password" autocomplete="current-password" required />
+          </div>
+          <div class="login-error hidden" id="loginError">
+            ⚠️ Invalid credentials. Please try again.
+          </div>
+          <button type="submit" class="btn btn-primary btn-login">🚀 Login</button>
+        </form>
+        
+
+      </div>
+
+      <!-- START SCREEN -->
+      <div class="glass-card start-screen hidden" id="startScreen">
+        <h1>🧠 QuizMaster</h1>
+        <p class="subtitle">
+          Select a topic and test your knowledge!
+        </p>
+        
+        <!-- Topic Selector -->
+        <div class="topic-selector">
+          <label for="topicSelect">📚 Choose Topic:</label>
+          <select id="topicSelect" class="topic-dropdown">
+            <option value="" disabled>Loading topics...</option>
+          </select>
+        </div>
+        <div class="features-grid">
+          <div class="feature-item">
+            <span class="icon">⏱️</span><span>Timed Questions</span>
+          </div>
+          <div class="feature-item">
+            <span class="icon">📊</span><span>Score Analytics</span>
+          </div>
+          <div class="feature-item">
+            <span class="icon">🔥</span><span>Streak Bonus</span>
+          </div>
+          <div class="feature-item">
+            <span class="icon">💡</span><span>Explanations</span>
+          </div>
+        </div>
+        <div class="settings-row">
+          <div class="toggle-container">
+            <span>🔀 Shuffle</span>
+            <div class="toggle active" id="shuffleToggle"></div>
+          </div>
+          <div class="toggle-container">
+            <span>⏱️ Timer</span>
+            <div class="toggle active" id="timerToggle"></div>
+          </div>
+        </div>
+        <button class="btn btn-primary" id="startBtn">🚀 Start Quiz</button>
+        <button class="btn btn-secondary" id="dashboardBtn" style="margin-top: var(--spacing-md); width: 100%;">📊 View Dashboard</button>
+        <p
+          class="subtitle"
+          style="margin-top: var(--spacing-lg); font-size: 0.9rem"
+        >
+          Your Topic High Score: <strong id="highScoreDisplay">0</strong>
+        </p>
+      </div>
+
+      <!-- QUIZ SCREEN -->
+      <div class="glass-card quiz-screen" id="quizScreen">
+        <div class="quiz-header">
+          <button class="btn btn-quit" id="quitBtn" title="Quit Quiz">✕ Quit</button>
+          <div class="question-counter">
+            Question <span id="currentQuestion">1</span> /
+            <span id="totalQuestions">20</span>
+          </div>
+          <div class="score-display">
+            <span class="icon">⭐</span
+            ><span class="score-value" id="currentScore">0</span>
+          </div>
+        </div>
+        <div class="progress-container">
+          <div class="progress-bar">
+            <div class="progress-fill" id="progressFill"></div>
+          </div>
+        </div>
+        <div class="timer-container" id="timerContainer">
+          <div class="timer-circle">
+            <svg width="60" height="60">
+              <circle class="timer-bg" cx="30" cy="30" r="26"></circle>
+              <circle
+                class="timer-progress"
+                id="timerProgress"
+                cx="30"
+                cy="30"
+                r="26"
+                stroke-dasharray="163.36"
+                stroke-dashoffset="0"
+              ></circle>
+            </svg>
+            <span class="timer-text" id="timerText">15</span>
+          </div>
+        </div>
+        <div class="question-container fade-in" id="questionContainer">
+          <h2 class="question-text" id="questionText">Loading...</h2>
+          <div class="options-container" id="optionsContainer"></div>
+          <div class="explanation-box" id="explanationBox">
+            <div class="explanation-title">💡 Did you know?</div>
+            <p id="explanationText"></p>
+          </div>
+        </div>
+        <div class="next-btn-container">
+          <button class="btn btn-primary hidden" id="nextBtn">
+            Next Question →
+          </button>
+        </div>
+      </div>
+
+      <!-- RESULTS SCREEN -->
+      <div class="glass-card results-screen" id="resultsScreen">
+        <div class="results-icon" id="resultsIcon">🏆</div>
+        <h2 class="results-title" id="resultsTitle">Congratulations!</h2>
+        <p class="results-subtitle" id="resultsSubtitle">
+          You've completed the quiz!
+        </p>
+        <div class="score-breakdown">
+          <div class="score-item highlight">
+            <span class="value" id="finalScore">0</span
+            ><span class="label">Total Score</span>
+          </div>
+          <div class="score-item">
+            <span class="value" id="correctAnswers">0/20</span
+            ><span class="label">Correct</span>
+          </div>
+          <div class="score-item">
+            <span class="value" id="accuracy">0%</span
+            ><span class="label">Accuracy</span>
+          </div>
+          <div class="score-item">
+            <span class="value" id="bestStreak">0</span
+            ><span class="label">Best Streak 🔥</span>
+          </div>
+          <div class="score-item">
+            <span class="value" id="timeTaken">0:00</span
+            ><span class="label">Time</span>
+          </div>
+          <div class="score-item">
+            <span class="value" id="avgTime">0s</span
+            ><span class="label">Avg/Question</span>
+          </div>
+        </div>
+        <div class="results-actions">
+          <button class="btn btn-primary" id="restartBtn">🔄 Play Again</button>
+          <button class="btn btn-secondary" id="reviewBtn">📚 Review Mistakes</button>
+          <button class="btn btn-secondary" id="shareBtn">📤 Share</button>
+          <button class="btn btn-secondary" id="homeBtn">🏠 Main Menu</button>
+        </div>
+      </div>
+      
+      <!-- DASHBOARD SCREEN -->
+      <div class="glass-card dashboard-screen hidden" id="dashboardScreen">
+        <div class="dashboard-header">
+          <div class="dashboard-user">
+            <span class="user-avatar-large" id="dashAvatar">👤</span>
+            <div class="user-info-text">
+              <h2 id="dashName">User Name</h2>
+              <span class="user-level" id="dashLevel">Level 1 Novice</span>
+            </div>
+          </div>
+          <button class="btn btn-secondary btn-icon" id="dashHomeBtn">🏠</button>
+        </div>
+
+        <div class="stats-grid">
+          <div class="stat-card">
+            <span class="value" id="statXP">0</span>
+            <span class="label">Total XP</span>
+          </div>
+          <div class="stat-card">
+            <span class="value" id="statQuizzes">0</span>
+            <span class="label">Quizzes Played</span>
+          </div>
+          <div class="stat-card">
+            <span class="value" id="statAccuracy">0%</span>
+            <span class="label">Best Accuracy</span>
+          </div>
+        </div>
+
+        <div class="dashboard-section">
+          <h3>🎖️ Achievements</h3>
+          <div class="badges-grid" id="badgesGrid">
+            <!-- Badges will be injected here -->
+          </div>
+        </div>
+
+        <div class="dashboard-section">
+          <h3>⏳ Recent Activity</h3>
+          <div class="history-list" id="historyList">
+            <!-- History items will be injected here -->
+          </div>
+        </div>
+      </div>
+
+      <!-- REVIEW SCREEN -->
+      <div class="glass-card review-screen hidden" id="reviewScreen">
+        <div class="dashboard-header" style="display: flex; justify-content: space-between; align-items: center; margin-bottom: var(--spacing-xl);">
+          <h2 style="margin:0;">📚 Mistake Review</h2>
+          <button class="btn btn-secondary btn-icon" id="reviewBackBtn">🏠</button>
+        </div>
+        <p class="subtitle" style="margin-bottom: var(--spacing-lg);">
+          Look over the questions you missed to sharpen your knowledge!
+        </p>
+        <div class="review-list" id="reviewList" style="display: flex; flex-direction: column; gap: var(--spacing-lg); max-height: 400px; overflow-y: auto; padding-right: var(--spacing-sm);">
+          <!-- Missed questions will be injected here -->
+        </div>
+        <div class="results-actions" style="margin-top: var(--spacing-xl);">
+          <button class="btn btn-primary" id="reviewPlayAgainBtn">🔄 Try Quiz Again</button>
+        </div>
+      </div>
+
+      <!-- QUIT MODAL -->
+      <div class="modal-overlay hidden" id="quitModal">
+        <div class="glass-card modal-content">
+          <h2>⏸️ Quiz Paused</h2>
+          <p class="modal-subtitle">Are you sure you want to quit?</p>
+          <div class="modal-stats">
+            <div class="modal-stat">
+              <span class="value" id="modalScore">0</span>
+              <span class="label">Current Score</span>
+            </div>
+            <div class="modal-stat">
+              <span class="value" id="modalCorrect">0</span>
+              <span class="label">Correct</span>
+            </div>
+            <div class="modal-stat">
+              <span class="value" id="modalProgress">0%</span>
+              <span class="label">Progress</span>
+            </div>
+          </div>
+          <div class="modal-actions">
+            <button class="btn btn-primary" id="resumeBtn">▶️ Resume</button>
+            <button class="btn btn-danger" id="confirmQuitBtn">🚪 Quit & See Results</button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script type="module" src="/src/main.js"></script>
+  </body>
+</html>

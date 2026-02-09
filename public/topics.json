@@ -1,0 +1,25 @@
+{
+  "topics": [
+    {
+      "id": "desert_hindi",
+      "name": "Desert - Hindi",
+      "file": "desert_hindi.json",
+      "icon": "🏜️",
+      "questionCount": 20
+    },
+    {
+      "id": "technology",
+      "name": "Technology & Programming",
+      "file": "technology.json",
+      "icon": "💻",
+      "questionCount": 10
+    },
+    {
+      "id": "science",
+      "name": "Science & Nature",
+      "file": "science.json",
+      "icon": "🔬",
+      "questionCount": 10
+    }
+  ]
+}

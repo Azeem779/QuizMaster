@@ -1,0 +1,62 @@
+[
+  {
+    "question": "What does HTML stand for?",
+    "options": ["Hyper Text Markup Language", "High Tech Modern Language", "Hyper Transfer Markup Language", "Home Tool Markup Language"],
+    "correct": 0,
+    "explanation": "HTML stands for HyperText Markup Language, the standard markup language for creating web pages."
+  },
+  {
+    "question": "Which programming language is known as the 'language of the web'?",
+    "options": ["Python", "Java", "JavaScript", "C++"],
+    "correct": 2,
+    "explanation": "JavaScript is the primary programming language used for web development, running in all modern browsers."
+  },
+  {
+    "question": "What does CSS stand for?",
+    "options": ["Computer Style Sheets", "Cascading Style Sheets", "Creative Style System", "Colorful Style Sheets"],
+    "correct": 1,
+    "explanation": "CSS stands for Cascading Style Sheets, used to style and layout web pages."
+  },
+  {
+    "question": "In what year was the first iPhone released?",
+    "options": ["2005", "2006", "2007", "2008"],
+    "correct": 2,
+    "explanation": "The first iPhone was announced by Steve Jobs on January 9, 2007, and released on June 29, 2007."
+  },
+  {
+    "question": "How many bits are in a byte?",
+    "options": ["4", "8", "16", "32"],
+    "correct": 1,
+    "explanation": "A byte consists of 8 bits. This is a fundamental unit of digital information."
+  },
+  {
+    "question": "What does API stand for?",
+    "options": ["Application Programming Interface", "Advanced Program Integration", "Automatic Protocol Interface", "Application Process Integration"],
+    "correct": 0,
+    "explanation": "API stands for Application Programming Interface, a set of protocols for building software applications."
+  },
+  {
+    "question": "Which company developed the Python programming language?",
+    "options": ["Microsoft", "Google", "Guido van Rossum", "Apple"],
+    "correct": 2,
+    "explanation": "Python was created by Guido van Rossum and first released in 1991."
+  },
+  {
+    "question": "What is the main function of a CPU?",
+    "options": ["Store data", "Display graphics", "Execute instructions", "Connect to internet"],
+    "correct": 2,
+    "explanation": "The CPU (Central Processing Unit) executes program instructions and performs calculations."
+  },
+  {
+    "question": "What does URL stand for?",
+    "options": ["Universal Resource Locator", "Uniform Resource Locator", "United Resource Link", "Uniform Reference Link"],
+    "correct": 1,
+    "explanation": "URL stands for Uniform Resource Locator, the address of a resource on the internet."
+  },
+  {
+    "question": "Which data structure uses LIFO (Last In First Out)?",
+    "options": ["Queue", "Stack", "Array", "Linked List"],
+    "correct": 1,
+    "explanation": "A Stack uses LIFO - the last element added is the first one to be removed."
+  }
+]

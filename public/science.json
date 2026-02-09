@@ -1,0 +1,62 @@
+[
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+    "correct": 1,
+    "explanation": "Mars is called the Red Planet because of its reddish appearance due to iron oxide on its surface."
+  },
+  {
+    "question": "What is the largest mammal in the world?",
+    "options": ["African Elephant", "Blue Whale", "Giraffe", "Polar Bear"],
+    "correct": 1,
+    "explanation": "The Blue Whale is the largest mammal, reaching lengths of up to 100 feet and weighing up to 200 tons."
+  },
+  {
+    "question": "What is the chemical symbol for Gold?",
+    "options": ["Go", "Gd", "Au", "Ag"],
+    "correct": 2,
+    "explanation": "Au comes from the Latin word 'Aurum' meaning gold."
+  },
+  {
+    "question": "What is the speed of light in a vacuum (approximately)?",
+    "options": ["300,000 km/s", "150,000 km/s", "500,000 km/s", "1,000,000 km/s"],
+    "correct": 0,
+    "explanation": "Light travels at approximately 299,792 kilometers per second in a vacuum."
+  },
+  {
+    "question": "What is the largest organ in the human body?",
+    "options": ["Heart", "Liver", "Skin", "Lungs"],
+    "correct": 2,
+    "explanation": "The skin is the largest organ, covering about 20 square feet in an average adult."
+  },
+  {
+    "question": "Which element has the atomic number 1?",
+    "options": ["Helium", "Hydrogen", "Oxygen", "Carbon"],
+    "correct": 1,
+    "explanation": "Hydrogen is the lightest and most abundant element in the universe with atomic number 1."
+  },
+  {
+    "question": "What is the hardest natural substance on Earth?",
+    "options": ["Gold", "Iron", "Diamond", "Platinum"],
+    "correct": 2,
+    "explanation": "Diamond is the hardest known natural material, rating 10 on the Mohs hardness scale."
+  },
+  {
+    "question": "Which gas do plants absorb from the atmosphere?",
+    "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+    "correct": 2,
+    "explanation": "Plants absorb carbon dioxide during photosynthesis and release oxygen."
+  },
+  {
+    "question": "What is the powerhouse of the cell?",
+    "options": ["Nucleus", "Mitochondria", "Ribosome", "Golgi Body"],
+    "correct": 1,
+    "explanation": "Mitochondria are called the powerhouse of the cell because they generate most of the cell's ATP energy."
+  },
+  {
+    "question": "How many bones are in the adult human body?",
+    "options": ["186", "206", "226", "256"],
+    "correct": 1,
+    "explanation": "The adult human body has 206 bones."
+  }
+]
