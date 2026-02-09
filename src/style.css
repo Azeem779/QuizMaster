@@ -4,10 +4,10 @@
 
 /* CSS Custom Properties */
 :root {
-  /* Colors - Light Mode */
-  --bg-gradient-1: #4facfe;
-  --bg-gradient-2: #00f2fe;
-  --bg-gradient-3: #43e97b;
+  /* Colors - Light Mode (Updated to Midnight Slate) */
+  --bg-gradient-1: #232526;  /* Gunmetal Grey */
+  --bg-gradient-2: #414345;  /* Slate Grey */
+  --bg-gradient-3: #2c3e50;  /* Midnight Blue-Grey */
 
   /* Glass Effect */
   --glass-bg: rgba(255, 255, 255, 0.15);
@@ -15,19 +15,19 @@
   --glass-shadow: 0 8px 32px rgba(0, 0, 0, 0.2);
 
   /* Text Colors */
-  --text-primary: #ffffff;
-  --text-secondary: rgba(255, 255, 255, 0.8);
-  --text-muted: rgba(255, 255, 255, 0.6);
+  --text-primary: #f8f9fa;
+  --text-secondary: rgba(255, 255, 255, 0.75);
+  --text-muted: rgba(255, 255, 255, 0.5);
 
-  /* Accent Colors */
-  --accent-success: #00d68f;
-  --accent-error: #ff6b6b;
-  --accent-warning: #ffd93d;
-  --accent-info: #6bcfff;
+  /* Accent Colors (Neon Pop) */
+  --accent-success: #2ecc71; /* Emerald Green */
+  --accent-error: #e74c3c;   /* Alizarin Red */
+  --accent-warning: #f1c40f; /* Sunflower Yellow */
+  --accent-info: #3498db;    /* Peter River Blue */
 
-  /* Option Colors */
-  --option-bg: rgba(255, 255, 255, 0.1);
-  --option-hover: rgba(255, 255, 255, 0.25);
+  /* Option Colors (Darker Translucency) */
+  --option-bg: rgba(0, 0, 0, 0.3);
+  --option-hover: rgba(255, 255, 255, 0.1);
   --option-selected: rgba(255, 255, 255, 0.3);
 
   /* Timer */
@@ -1155,7 +1155,23 @@ h3 {
 
 .btn-login {
   width: 100%;
-  padding: var(--spacing-md) var(--spacing-xl);
+  padding: var(--spacing-md);
+  font-size: 1.1rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  background: linear-gradient(135deg, #00c6ff, #0072ff); /* Neon Cyan-Blue */
+  box-shadow: 0 4px 15px rgba(0, 198, 255, 0.4);
+  color: #fff;
+  border: none;
+  border-radius: var(--radius-md);
+  cursor: pointer;
+  transition: all var(--transition-normal);
+}
+
+.btn-login:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(0, 198, 255, 0.6);
 }
 
 
