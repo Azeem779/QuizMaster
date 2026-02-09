@@ -5,9 +5,9 @@
 /* CSS Custom Properties */
 :root {
   /* Colors - Light Mode */
-  --bg-gradient-1: #667eea;
-  --bg-gradient-2: #ec2da6;
-  --bg-gradient-3: #f093fb;
+  --bg-gradient-1: #4facfe;
+  --bg-gradient-2: #00f2fe;
+  --bg-gradient-3: #43e97b;
 
   /* Glass Effect */
   --glass-bg: rgba(255, 255, 255, 0.15);

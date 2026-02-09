@@ -20,6 +20,48 @@
       "file": "science.json",
       "icon": "🔬",
       "questionCount": 10
+    },
+    {
+      "id": "plates",
+      "name": "Plates Tectonics - Hindi",
+      "file": "plates.json",
+      "icon": "🌍",
+      "questionCount": 20
+    },
+    {
+      "id": "weathering",
+      "name": "Weathering - Hindi",
+      "file": "weathering.json",
+      "icon": "☁️",
+      "questionCount": 20
+    },
+    {
+      "id": "fluvial_landforms",
+      "name": "Fluvial landforms - Hindi",
+      "file": "fluvial_landforms.json",
+      "icon": "🌊",
+      "questionCount": 20
+    },
+    {
+      "id": "wind_landforms",
+      "name": "Wind Landforms - Hindi",
+      "file": "wind_landforms.json",
+      "icon": "🌬️",
+      "questionCount": 20
+    },
+    {
+      "id": "glacial_landforms",
+      "name": "Glacial Landforms - Hindi",
+      "file": "glacial_landforms.json",
+      "icon": "🏔️",
+      "questionCount": 20
+    },
+    {
+      "id": "erosion_cycle",
+      "name": "Erosion Cycle - Hindi",
+      "file": "erosion.json",
+      "icon": "⛰️",
+      "questionCount": 20
     }
   ]
 }
