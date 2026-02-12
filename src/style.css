@@ -5,9 +5,9 @@
 /* CSS Custom Properties */
 :root {
   /* Colors - Light Mode (Updated to Midnight Slate) */
-  --bg-gradient-1: #232526;  /* Gunmetal Grey */
-  --bg-gradient-2: #414345;  /* Slate Grey */
-  --bg-gradient-3: #2c3e50;  /* Midnight Blue-Grey */
+  --bg-gradient-1: #232526; /* Gunmetal Grey */
+  --bg-gradient-2: #414345; /* Slate Grey */
+  --bg-gradient-3: #2c3e50; /* Midnight Blue-Grey */
 
   /* Glass Effect */
   --glass-bg: rgba(255, 255, 255, 0.15);
@@ -21,9 +21,9 @@
 
   /* Accent Colors (Neon Pop) */
   --accent-success: #2ecc71; /* Emerald Green */
-  --accent-error: #e74c3c;   /* Alizarin Red */
+  --accent-error: #e74c3c; /* Alizarin Red */
   --accent-warning: #f1c40f; /* Sunflower Yellow */
-  --accent-info: #3498db;    /* Peter River Blue */
+  --accent-info: #3498db; /* Peter River Blue */
 
   /* Option Colors (Darker Translucency) */
   --option-bg: rgba(0, 0, 0, 0.3);
@@ -533,6 +533,17 @@ h3 {
 }
 
 /* Option States */
+.option-btn.selected {
+  background: var(--option-selected);
+  border-color: var(--accent-info);
+  transform: translateX(5px);
+}
+
+.option-btn.selected .option-letter {
+  background: var(--accent-info);
+  color: var(--text-primary);
+}
+
 .option-btn.correct {
   background: rgba(0, 214, 143, 0.2);
   border-color: var(--accent-success);
@@ -1060,11 +1071,11 @@ h3 {
   .modal-stats {
     grid-template-columns: 1fr;
   }
-  
+
   .modal-actions {
     flex-direction: column;
   }
-  
+
   .modal-actions .btn {
     width: 100%;
   }
@@ -1174,8 +1185,6 @@ h3 {
   box-shadow: 0 6px 20px rgba(0, 198, 255, 0.6);
 }
 
-
-
 /* ================================
    USER BADGE
    ================================ */
@@ -1242,7 +1251,7 @@ h3 {
     left: var(--spacing-sm);
     padding: var(--spacing-xs) var(--spacing-sm);
   }
-  
+
   .user-name {
     display: none;
   }
@@ -1488,4 +1497,3 @@ h3 {
   background: var(--glass-border);
   border-radius: 10px;
 }
-

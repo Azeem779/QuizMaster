@@ -1,9 +1,19 @@
-import { state, resetQuizState } from './state.js';
-import { $, shuffle, formatTime } from './utils.js';
-import { playSound } from './audio.js';
-import { createConfetti } from './confetti.js';
-import { startTimer, stopTimer, setTimeoutCallback, getTimerDuration } from './timer.js';
-import { saveHighScore, loadHighScore, getUserStats, saveUserStats } from './storage.js';
+import { state, resetQuizState } from "./state.js";
+import { $, shuffle, formatTime } from "./utils.js";
+import { playSound } from "./audio.js";
+import { createConfetti } from "./confetti.js";
+import {
+  startTimer,
+  stopTimer,
+  setTimeoutCallback,
+  getTimerDuration,
+} from "./timer.js";
+import {
+  saveHighScore,
+  loadHighScore,
+  getUserStats,
+  saveUserStats,
+} from "./storage.js";
 
 // ============ QUIZ MODULE ============
 
@@ -39,13 +49,15 @@ export async function loadTopics() {
     populateTopicDropdown();
   } catch (error) {
     console.error("Failed to load topics:", error);
-    topicSelect.innerHTML = '<option value="" disabled selected>Failed to load topics</option>';
+    topicSelect.innerHTML =
+      '<option value="" disabled selected>Failed to load topics</option>';
   }
 }
 
 function populateTopicDropdown() {
-  topicSelect.innerHTML = '<option value="" disabled selected>-- Select a topic --</option>';
-  
+  topicSelect.innerHTML =
+    '<option value="" disabled selected>-- Select a topic --</option>';
+
   state.topics.forEach((topic) => {
     const option = document.createElement("option");
     option.value = topic.id;
@@ -64,7 +76,7 @@ async function loadQuestions() {
   try {
     const topic = state.topics.find((t) => t.id === state.selectedTopic);
     if (!topic) throw new Error("Topic not found");
-    
+
     const response = await fetch(`/${topic.file}`);
     let questions = await response.json();
     if (state.shuffleEnabled) {
@@ -84,25 +96,25 @@ export async function startQuiz() {
   if (!state.selectedTopic) {
     topicSelect.focus();
     topicSelect.style.borderColor = "var(--accent-error)";
-    setTimeout(() => topicSelect.style.borderColor = "", 2000);
+    setTimeout(() => (topicSelect.style.borderColor = ""), 2000);
     return;
   }
-  
+
   resetQuizState();
   currentScore.textContent = "0";
   progressFill.style.width = "0%";
   updateStreakDisplay();
-  
+
   startScreen.classList.add("hidden");
   resultsScreen.classList.remove("active");
   quizScreen.classList.add("active");
 
   state.startTime = Date.now();
   await loadQuestions();
-  
+
   // Set timeout callback
   setTimeoutCallback(handleTimeout);
-  
+
   showQuestion();
 }
 
@@ -113,7 +125,8 @@ function showQuestion() {
 
   questionText.textContent = question.question;
   currentQuestion.textContent = state.currentIndex + 1;
-  progressFill.style.width = (state.currentIndex / state.questions.length) * 100 + "%";
+  progressFill.style.width =
+    (state.currentIndex / state.questions.length) * 100 + "%";
 
   optionsContainer.innerHTML = "";
   const letters = ["A", "B", "C", "D"];
@@ -126,14 +139,42 @@ function showQuestion() {
       <span class="option-text">${option}</span>
       <span class="option-icon">✓</span>
     `;
-    btn.addEventListener("click", () => handleAnswer(index));
+    btn.addEventListener("click", () => handleOptionClick(index));
     optionsContainer.appendChild(btn);
   });
 
-  explanationBox.classList.remove("show");
-  nextBtn.classList.add("hidden");
+  // Disable the next button initially, used as submit now
+  nextBtn.textContent = "Submit Answer";
+  nextBtn.disabled = true;
+  nextBtn.classList.remove("hidden");
 
   startTimer();
+}
+
+function handleOptionClick(index) {
+  if (state.answered) return;
+
+  const options = optionsContainer.querySelectorAll(".option-btn");
+  options.forEach((opt, i) => {
+    if (i === index) {
+      opt.classList.add("selected");
+      state.selectedAnswerIndex = index;
+    } else {
+      opt.classList.remove("selected");
+    }
+  });
+
+  nextBtn.disabled = false;
+
+  // Update submit handler
+  nextBtn.onclick = () => submitAnswer();
+}
+
+function submitAnswer() {
+  if (state.answered || state.selectedAnswerIndex === null) return;
+
+  const selectedIndex = state.selectedAnswerIndex;
+  handleAnswer(selectedIndex);
 }
 
 function handleAnswer(selectedIndex) {
@@ -178,13 +219,16 @@ function handleAnswer(selectedIndex) {
     // Track missed question
     state.missedQuestions.push({
       ...question,
-      userAnswer: selectedIndex
+      userAnswer: selectedIndex,
     });
   }
 
   updateStreakDisplay();
   showExplanation(question.explanation);
-  nextBtn.classList.remove("hidden");
+
+  nextBtn.textContent = "Next Question";
+  nextBtn.disabled = false;
+  nextBtn.onclick = nextQuestion;
 }
 
 function handleTimeout() {
@@ -207,11 +251,11 @@ function handleTimeout() {
   showExplanation(question.explanation);
   nextBtn.classList.remove("hidden");
   state.questionTimes.push(getTimerDuration());
-  
+
   // Track missed question (timeout)
   state.missedQuestions.push({
     ...question,
-    userAnswer: -1 // -1 means timeout/no answer
+    userAnswer: -1, // -1 means timeout/no answer
   });
 }
 
@@ -249,13 +293,16 @@ export function showResults(wasQuit = false) {
   resultsScreen.classList.add("active");
   quitModal.classList.add("hidden");
 
-  const answeredCount = wasQuit 
-    ? (state.currentIndex + (state.answered ? 1 : 0))
+  const answeredCount = wasQuit
+    ? state.currentIndex + (state.answered ? 1 : 0)
     : state.questions.length;
-  
+
   const totalTime = state.questionTimes.reduce((a, b) => a + b, 0);
   const avgTime = answeredCount > 0 ? Math.round(totalTime / answeredCount) : 0;
-  const accuracy = answeredCount > 0 ? Math.round((state.correctCount / answeredCount) * 100) : 0;
+  const accuracy =
+    answeredCount > 0
+      ? Math.round((state.correctCount / answeredCount) * 100)
+      : 0;
 
   $("finalScore").textContent = state.score;
   $("correctAnswers").textContent = `${state.correctCount}/${answeredCount}`;
@@ -267,7 +314,8 @@ export function showResults(wasQuit = false) {
   if (wasQuit) {
     $("resultsIcon").textContent = "🚪";
     $("resultsTitle").textContent = "Quiz Ended Early";
-    $("resultsSubtitle").textContent = `You completed ${answeredCount} of ${state.questions.length} questions`;
+    $("resultsSubtitle").textContent =
+      `You completed ${answeredCount} of ${state.questions.length} questions`;
   } else if (accuracy >= 80) {
     $("resultsIcon").textContent = "🏆";
     $("resultsTitle").textContent = "Outstanding!";
@@ -289,30 +337,31 @@ export function showResults(wasQuit = false) {
 
   // Save basic high score
   saveHighScore();
-  
+
   // Save advanced stats
   const stats = getUserStats();
   if (stats) {
     stats.xp += state.score;
     stats.totalQuizzes += 1;
     if (accuracy > stats.bestAccuracy) stats.bestAccuracy = accuracy;
-    
+
     // Add to history (keep last 10)
-    const topicName = state.topics.find(t => t.id === state.selectedTopic)?.name || "Unknown";
+    const topicName =
+      state.topics.find((t) => t.id === state.selectedTopic)?.name || "Unknown";
     stats.history.unshift({
       topic: topicName,
       score: state.score,
       accuracy: accuracy,
-      date: new Date().toLocaleDateString()
+      date: new Date().toLocaleDateString(),
     });
     if (stats.history.length > 10) stats.history.pop();
-    
+
     // Check for new badges
     checkBadges(stats, accuracy);
-    
-      saveUserStats(stats);
+
+    saveUserStats(stats);
   }
-  
+
   // Toggle Review Mistakes button
   const reviewBtn = $("reviewBtn");
   if (state.missedQuestions.length > 0) {
@@ -320,7 +369,7 @@ export function showResults(wasQuit = false) {
   } else {
     reviewBtn.classList.add("hidden");
   }
-  
+
   updateHighScoreDisplay();
 }
 
@@ -344,7 +393,7 @@ function renderMistakes() {
   state.missedQuestions.forEach((q, index) => {
     const item = document.createElement("div");
     item.className = "review-item";
-    
+
     item.innerHTML = `
       <div class="review-question">${index + 1}. ${q.question}</div>
       <div class="review-answers">
@@ -365,10 +414,9 @@ function renderMistakes() {
   });
 }
 
-
 function checkBadges(stats, accuracy) {
   if (!stats.badges) stats.badges = [];
-  
+
   const unlock = (id) => {
     if (!stats.badges.includes(id)) {
       stats.badges.push(id);
@@ -376,26 +424,24 @@ function checkBadges(stats, accuracy) {
   };
 
   // Badge: First Quiz
-  unlock('first_quiz');
+  unlock("first_quiz");
 
   // Badge: Perfect 100
-  if (accuracy === 100) unlock('perfect_accuracy');
+  if (accuracy === 100) unlock("perfect_accuracy");
 
   // Badge: Streak 5
-  if (state.bestStreak >= 5) unlock('streak_5');
+  if (state.bestStreak >= 5) unlock("streak_5");
 
   // Badge: Speed Demon (Any question answered in < 3s)
-  if (state.questionTimes.some(t => t < 3)) unlock('speed_demon');
+  if (state.questionTimes.some((t) => t < 3)) unlock("speed_demon");
 
   // Badge: Loyal Player
-  if (stats.totalQuizzes >= 5) unlock('loyal_user');
+  if (stats.totalQuizzes >= 5) unlock("loyal_user");
 
   // Badge: Night Owl (Played after 10 PM)
   const hour = new Date().getHours();
-  if (hour >= 22 || hour < 5) unlock('night_owl');
+  if (hour >= 22 || hour < 5) unlock("night_owl");
 }
-
-
 
 // ============ NAVIGATION ============
 
@@ -414,10 +460,10 @@ export function goToHome() {
 export function showQuitModal() {
   state.quizPaused = true;
   quitModal.classList.remove("hidden");
-  
+
   const answeredCount = state.currentIndex + (state.answered ? 1 : 0);
   const progress = Math.round((answeredCount / state.questions.length) * 100);
-  
+
   modalScore.textContent = state.score;
   modalCorrect.textContent = state.correctCount;
   modalProgress.textContent = `${progress}%`;
@@ -436,9 +482,13 @@ export function confirmQuit() {
 
 export function shareResults() {
   const answeredCount = state.currentIndex + (state.answered ? 1 : 0);
-  const accuracy = answeredCount > 0 ? Math.round((state.correctCount / answeredCount) * 100) : 0;
-  const topicName = state.topics.find(t => t.id === state.selectedTopic)?.name || "Quiz";
-  
+  const accuracy =
+    answeredCount > 0
+      ? Math.round((state.correctCount / answeredCount) * 100)
+      : 0;
+  const topicName =
+    state.topics.find((t) => t.id === state.selectedTopic)?.name || "Quiz";
+
   const text = `🧠 QuizMaster Results!\n📚 Topic: ${topicName}\n\n⭐ Score: ${state.score}\n✅ Correct: ${state.correctCount}/${answeredCount}\n📊 Accuracy: ${accuracy}%\n🔥 Best Streak: ${state.bestStreak}\n\nCan you beat my score?`;
 
   if (navigator.share) {

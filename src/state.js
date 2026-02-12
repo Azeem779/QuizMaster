@@ -31,6 +31,7 @@ export const state = {
 export function resetQuizState() {
   state.currentIndex = 0;
   state.score = 0;
+  state.selectedAnswerIndex = null;
   state.streak = 0;
   state.bestStreak = 0;
   state.correctCount = 0;
