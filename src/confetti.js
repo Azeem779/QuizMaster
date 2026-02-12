@@ -6,6 +6,7 @@ const CONFETTI_COLORS = ["#667eea", "#764ba2", "#f093fb", "#00d68f", "#ffd93d", 
 
 export function createConfetti() {
   const container = $("confettiContainer");
+  if (!container) return;
   
   for (let i = 0; i < 50; i++) {
     const confetti = document.createElement("div");

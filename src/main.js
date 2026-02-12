@@ -59,7 +59,7 @@ function applySettings() {
 
 // Quiz controls
 startBtn.addEventListener("click", startQuiz);
-nextBtn.addEventListener("click", nextQuestion);
+// nextBtn listener is now handled dynamically in quiz.js
 restartBtn.addEventListener("click", startQuiz);
 homeBtn.addEventListener("click", goToHome);
 

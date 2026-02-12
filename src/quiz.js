@@ -147,6 +147,7 @@ function showQuestion() {
   nextBtn.textContent = "Submit Answer";
   nextBtn.disabled = true;
   nextBtn.classList.remove("hidden");
+  nextBtn.onclick = submitAnswer;
 
   startTimer();
 }
@@ -249,7 +250,13 @@ function handleTimeout() {
 
   playSound("wrong");
   showExplanation(question.explanation);
+  
+  // Update Next Button for Timeout
+  nextBtn.textContent = "Next Question";
+  nextBtn.disabled = false;
   nextBtn.classList.remove("hidden");
+  nextBtn.onclick = nextQuestion;
+
   state.questionTimes.push(getTimerDuration());
 
   // Track missed question (timeout)
