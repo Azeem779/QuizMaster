@@ -1,4 +1,54 @@
 import { state } from './state.js';
+import { supabase } from './supabase.js';
+
+// ============ SUPABASE STORAGE ============
+
+export async function saveScoreToSupabase(correctCount, totalCount) {
+  if (!state.selectedTopic || !state.currentUser) return;
+  
+  const { data, error } = await supabase
+    .from('scores')
+    .insert([
+      { 
+        username: state.currentUser.name, 
+        score: state.score, 
+        topic: state.selectedTopic,
+        correct_count: correctCount,
+        total_questions: totalCount
+      }
+    ]);
+
+  if (error) {
+    console.error("Error saving score to Supabase:", error);
+  } else {
+    console.log("Score saved successfully to Supabase!");
+  }
+}
+
+export async function getLeaderboard(limit = 10) {
+  const { data, error } = await supabase
+    .from('scores')
+    .select('*')
+    .order('score', { ascending: false });
+
+  if (error) {
+    console.error("Error fetching leaderboard:", error);
+    return [];
+  }
+
+  // Filter to only show the highest score for each topic
+  const champions = [];
+  const seenTopics = new Set();
+
+  for (const entry of data) {
+    if (!seenTopics.has(entry.topic)) {
+      champions.push(entry);
+      seenTopics.add(entry.topic);
+    }
+  }
+
+  return champions.slice(0, limit);
+}
 
 // ============ LOCAL STORAGE ============
 

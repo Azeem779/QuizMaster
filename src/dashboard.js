@@ -1,6 +1,6 @@
 import { state } from './state.js';
 import { $ } from './utils.js';
-import { getUserStats } from './storage.js';
+import { getUserStats, getLeaderboard } from './storage.js';
 
 // ============ DASHBOARD MODULE ============
 
@@ -44,6 +44,41 @@ export function updateDashboardUI() {
 
   // History
   renderHistory(stats.history || []);
+
+  // Global Leaderboard
+  renderLeaderboard();
+}
+
+async function renderLeaderboard() {
+  const leaderboard = await getLeaderboard(5);
+  const container = $('leaderboardList');
+  if (!container) return;
+
+  container.innerHTML = '';
+  
+  if (leaderboard.length === 0) {
+    container.innerHTML = '<p class="subtitle" style="text-align: center;">No scores yet.</p>';
+    return;
+  }
+
+  leaderboard.forEach((item, index) => {
+    const div = document.createElement('div');
+    div.className = 'history-item leaderboard-item';
+    
+    // Capitalize topic name (e.g., 'science' -> 'Science')
+    const formattedTopic = item.topic.charAt(0).toUpperCase() + item.topic.slice(1);
+    
+    div.innerHTML = `
+      <div class="history-info">
+        <span class="topic-name">#${index + 1} ${item.username}</span>
+        <span class="date">${formattedTopic}</span>
+      </div>
+      <div class="history-stats">
+        <span class="score">${item.score} PTS</span>
+      </div>
+    `;
+    container.appendChild(div);
+  });
 }
 
 function renderBadges(unlockedBadgeIds) {

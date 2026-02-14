@@ -13,6 +13,7 @@ import {
   loadHighScore,
   getUserStats,
   saveUserStats,
+  saveScoreToSupabase
 } from "./storage.js";
 
 // ============ QUIZ MODULE ============
@@ -142,6 +143,10 @@ function showQuestion() {
     btn.addEventListener("click", () => handleOptionClick(index));
     optionsContainer.appendChild(btn);
   });
+
+  // Reset UI states
+  explanationBox.classList.remove("show");
+  state.selectedAnswerIndex = null;
 
   // Disable the next button initially, used as submit now
   nextBtn.textContent = "Submit Answer";
@@ -344,6 +349,9 @@ export function showResults(wasQuit = false) {
 
   // Save basic high score
   saveHighScore();
+
+  // Save to Supabase (Global score tracking)
+  saveScoreToSupabase(state.correctCount, answeredCount);
 
   // Save advanced stats
   const stats = getUserStats();
