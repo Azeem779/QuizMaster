@@ -72,43 +72,43 @@
     },
     {
       "id": "ocean_temperature",
-      "name": "Ocean Temp",
-      "file": "Ocean_Temperature_PGT_Exam_Level.json",
+      "name": "Ocean Temperature",
+      "file": "Ocean_Temperature_PGT_Proper.json",
       "icon": "🌡️",
       "questionCount": 30
     },
     {
       "id": "ocean_salinity",
       "name": "Ocean Salinity",
-      "file": "Ocean_Salinity_PGT_Exam_Level.json",
+      "file": "Ocean_Salinity_PGT_Proper.json",
       "icon": "🧂",
       "questionCount": 30
     },
     {
       "id": "ocean_currents",
       "name": "Ocean Currents",
-      "file": "Ocean_Currents_PGT_Exam_Level.json",
+      "file": "Ocean_Currents_PGT_Proper.json",
       "icon": "🌀",
       "questionCount": 30
     },
     {
       "id": "ocean_tides",
       "name": "Ocean Tides",
-      "file": "Ocean_Tides_PGT_Exam_Level.json",
+      "file": "Ocean_Tides_PGT_Proper.json",
       "icon": "🌖",
       "questionCount": 30
     },
     {
       "id": "coral_reefs",
       "name": "Coral Reefs",
-      "file": "Coral_Reefs_PGT_Exam_Level.json",
+      "file": "Coral_Reefs_PGT_Proper.json",
       "icon": "🪸",
       "questionCount": 30
     },
     {
       "id": "marine_resources",
       "name": "Marine Resources",
-      "file": "Marine_Resources_PGT_Exam_Level.json",
+      "file": "Marine_Resources_PGT_Proper.json",
       "icon": "💎",
       "questionCount": 30
     }
