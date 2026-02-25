@@ -1,0 +1,150 @@
+✈️ JET STREAMS
+
+(PGT Climatology – Advanced Concept Notes)
+
+🟢 1️⃣ Jet Stream – Definition
+
+Jet Stream =
+Upper troposphere (≈ 8–15 km) me high-speed, narrow air current.
+
+Speed:
+👉 120–400 km/h (kabhi-kabhi 500 km/h se bhi zyada)
+
+Location:
+👉 Tropopause ke paas
+
+🔵 2️⃣ Formation Mechanism (Most Important 🔥)
+
+Jet stream ka relation hai:
+
+👉 Horizontal Temperature Gradient
+👉 Thermal Wind Concept
+
+Concept:
+
+Jahan temperature contrast zyada hota hai (warm vs cold air)
+Wahan upper level par strong wind develop hoti hai.
+
+Isliye:
+
+Polar Front ke paas strong jet banti hai.
+
+🟡 3️⃣ Major Types of Jet Streams
+1️⃣ Polar Front Jet (PFJ)
+
+40°–60° latitude
+
+Cold polar air + warm mid-latitude air boundary
+
+Temperate cyclones ko steer karta hai
+
+Highly meandering
+
+2️⃣ Subtropical Jet (STJ)
+
+25°–35° latitude
+
+Hadley Cell ke upper limb se related
+
+Winter me strong
+
+India ke winter weather me important
+
+3️⃣ Tropical Easterly Jet (TEJ)
+
+Summer season
+
+Indian Monsoon se linked
+
+Tibetan Plateau heating ke baad form hoti hai
+
+🔥 4️⃣ Rossby Waves (Planetary Waves)
+
+Jet streams straight nahi hoti
+Ye meander karti hain → called Rossby waves
+
+Features:
+
+Trough = low pressure dip
+
+Ridge = high pressure bulge
+
+Impact:
+
+Cold wave
+
+Heat wave
+
+Blocking pattern
+
+🧠 5️⃣ Jet Streak Concept
+
+Jet stream ke andar localized high-speed region
+Called: Jet Streak
+
+Important because:
+
+Divergence create karta hai
+
+Cyclogenesis ko trigger kar sakta hai
+
+🌍 6️⃣ Jet Stream & Cyclones
+
+Upper level divergence = Surface low intensify
+
+Jet streak exit region = Cyclone development
+
+🇮🇳 7️⃣ Jet Stream & Indian Monsoon
+Winter:
+
+STJ India ke upar hota hai
+
+Western Disturbances laata hai
+
+Summer:
+
+STJ north shift karta hai
+
+TEJ develop hota hai
+
+Monsoon onset me help karta hai
+
+🔴 8️⃣ Blocking High
+
+Kabhi-kabhi jet stream stationary ho jata hai
+Isse prolonged weather pattern bante hain:
+
+Europe heatwave
+
+Cold spell
+
+Drought
+
+⚠ PGT Exam Traps
+
+Jet stream surface par nahi hoti
+
+Strong temperature gradient → Strong jet
+
+PFJ and STJ same nahi hain
+
+TEJ summer phenomenon hai
+
+Jet stream meandering climate variability ka major factor hai
+
+🔥 High-Level Analytical Connections
+
+Pressure Gradient (Upper level)
+→ Jet Stream
+→ Cyclone Steering
+→ Monsoon Behavior
+→ Climate Extremes
+
+📌 Ultra Important Concept Chain
+
+Temperature Gradient
+→ Thermal Wind
+→ Jet Stream
+→ Rossby Wave
+→ Blocking
+→ Extreme Weather

@@ -1,0 +1,95 @@
+🌪 CYCLONES & ANTICYCLONES
+
+(PGT Climatology – Concept Core Notes)
+
+🟢 1️⃣ Cyclone – Definition
+
+Cyclone =
+Low pressure system jisme hawa converge karke upward rise karti hai.
+
+Core Feature:
+
+Northern Hemisphere → Anti-clockwise rotation
+
+Southern Hemisphere → Clockwise rotation
+
+(Coriolis effect)
+
+🔥 2️⃣ Types of Cyclones
+1️⃣ Tropical Cyclone
+
+Warm core system
+
+Energy from latent heat
+
+5°–20° latitude
+
+No fronts
+
+Eye present
+
+Weak vertical wind shear required
+
+2️⃣ Temperate Cyclone (Extratropical)
+
+Cold core system
+
+Front based system
+
+Polar front theory
+
+Strong baroclinic instability
+
+Larger size
+
+🌀 3️⃣ Polar Front Theory (Bjerknes Model)
+
+Stages:
+
+Stationary Front
+
+Wave Formation
+
+Open Wave Cyclone
+
+Mature Stage (Occlusion)
+
+Dissipation
+
+🌡 4️⃣ Warm Core vs Cold Core
+Feature	Tropical	Temperate
+Core	Warm	Cold
+Energy	Latent heat	Temperature gradient
+Fronts	Absent	Present
+Size	Smaller	Larger
+🌀 5️⃣ Eye & Eye Wall (Tropical)
+
+Eye = Calm, descending air
+
+Eye wall = Most intense convection
+
+Strongest winds here
+
+🧊 6️⃣ Anticyclone
+
+High pressure system
+
+Diverging winds
+
+Descending air
+
+Clear sky
+
+Northern Hemisphere:
+
+Clockwise rotation
+
+⚠ PGT Traps
+
+Tropical cyclone = Warm core
+
+Temperate cyclone = Cold core
+
+Tropical cyclone weakens over land
+
+Anticyclone = Subsidence

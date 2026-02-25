@@ -111,6 +111,70 @@
       "file": "Marine_Resources_PGT_Proper.json",
       "icon": "💎",
       "questionCount": 30
+    },
+    {
+      "id": "pressure_belt_wind",
+      "name": "Pressure Belt & Wind",
+      "file": "Pressure_Belt_And_Wind.json",
+      "icon": "🌬️",
+      "questionCount": 45,
+      "notes": "Pressure_Notes.txt"
+    },
+    {
+      "id": "air_masses_front",
+      "name": "Air Masses & Front",
+      "file": "Air_Masses_And_Front.json",
+      "icon": "🌫️",
+      "questionCount": 30,
+      "notes": "Air_Masses_And_Front.txt"
+    },
+    {
+      "id": "cyclones_anticyclones",
+      "name": "Cyclones & AntiCyclones",
+      "file": "Cyclones_And_AntiCyclones.json",
+      "icon": "🌪️",
+      "questionCount": 30,
+      "notes": "Cyclones_And_AntiCyclones.txt"
+    },
+    {
+      "id": "jet_streams",
+      "name": "Jet Streams",
+      "file": "Jet_Streams.json",
+      "icon": "✈️",
+      "questionCount": 30,
+      "notes": "Jet_Streams.txt"
+    },
+    {
+      "id": "enso",
+      "name": "ENSO",
+      "file": "Enso.json",
+      "icon": "🌊",
+      "questionCount": 30,
+      "notes": "Enso.txt"
+    },
+    {
+      "id": "indian_monsoon",
+      "name": "Indian Monsoon",
+      "file": "Indian_Mansoon.json",
+      "icon": "🇮🇳",
+      "questionCount": 50,
+      "notes": "Indian_Mansoon.txt"
+    },
+    {
+      "id": "koppen_climate",
+      "name": "Köppen Climate",
+      "file": "Köppen_Climate.json",
+      "icon": "🌍",
+      "questionCount": 30,
+      "notes": "Köppen_Climate.txt"
+    },
+    {
+      "id": "climate_changes",
+      "name": "Climate Changes",
+      "file": "Climate_Changes.json",
+      "icon": "🌡️",
+      "questionCount": 30,
+      "notes": "Climate_Changes.txt"
     }
   ]
 }

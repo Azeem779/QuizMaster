@@ -6,6 +6,7 @@ export const state = {
   
   // Quiz
   topics: [],
+  topicsList: [],
   selectedTopic: null,
   questions: [],
   currentIndex: 0,

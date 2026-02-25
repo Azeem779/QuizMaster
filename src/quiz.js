@@ -47,6 +47,7 @@ export async function loadTopics() {
     const response = await fetch("/topics.json");
     const data = await response.json();
     state.topics = data.topics;
+    state.topicsList = data.topics;
     populateTopicDropdown();
   } catch (error) {
     console.error("Failed to load topics:", error);

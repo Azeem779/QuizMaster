@@ -21,6 +21,7 @@ import {
   hideReview
 } from './quiz.js';
 import { showDashboard, hideDashboard } from './dashboard.js';
+import { showNotes, hideNotes } from './notes.js';
 
 // ============ DOM ELEMENTS ============
 const themeToggle = $("themeToggle");
@@ -43,6 +44,9 @@ const userBadge = $("userBadge");
 const reviewBtn = $("reviewBtn");
 const reviewBackBtn = $("reviewBackBtn");
 const reviewPlayAgainBtn = $("reviewPlayAgainBtn");
+const notesBtn = $("notesBtn");
+const notesBackBtn = $("notesBackBtn");
+const notesStartQuizBtn = $("notesStartQuizBtn");
 
 // ============ THEME & SETTINGS ============
 function applySettings() {
@@ -84,10 +88,26 @@ reviewPlayAgainBtn.addEventListener("click", () => {
   startQuiz();
 });
 
+// Notes
+notesBtn.addEventListener("click", showNotes);
+notesBackBtn.addEventListener("click", hideNotes);
+notesStartQuizBtn.addEventListener("click", () => {
+  hideNotes();
+  startQuiz();
+});
+
 // Topic selection
 topicSelect.addEventListener("change", (e) => {
   state.selectedTopic = e.target.value;
   updateHighScoreDisplay();
+
+  // Show/hide notes button based on topic
+  const topic = state.topicsList?.find(t => t.id === state.selectedTopic);
+  if (topic && topic.notes) {
+    notesBtn.classList.remove("hidden");
+  } else {
+    notesBtn.classList.add("hidden");
+  }
 });
 
 // Theme toggle

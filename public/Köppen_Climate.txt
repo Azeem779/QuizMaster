@@ -1,0 +1,151 @@
+🌍 KÖPPEN CLIMATE CLASSIFICATION
+
+(PGT Advanced Notes – Concept + Analytical Angle)
+
+🟢 1️⃣ Introduction
+
+Proposed by: Wladimir Köppen
+
+Basis:
+👉 Temperature
+👉 Precipitation
+👉 Vegetation relation
+
+Ye empirical classification hai (data-based).
+
+🔥 2️⃣ Main Climate Groups (Capital Letters)
+Code	Climate Type
+A	Tropical
+B	Dry
+C	Warm Temperate
+D	Cold Continental
+E	Polar
+🟡 3️⃣ Group A – Tropical Climates
+
+Condition:
+
+All months avg temp > 18°C
+
+Types:
+
+Af → Tropical Rainforest
+Am → Tropical Monsoon
+Aw → Tropical Savanna
+
+🔹 Af (Rainforest)
+
+No dry season
+
+Heavy rainfall throughout year
+
+Example: Amazon
+
+🔹 Am (Monsoon)
+
+Short dry season
+
+Heavy summer rain
+
+🔹 Aw (Savanna)
+
+Clear dry winter
+
+Seasonal rainfall
+
+🟠 4️⃣ Group B – Dry Climates
+
+Based on:
+👉 Precipitation < Evapotranspiration
+
+Types:
+
+BW → Desert
+BS → Steppe
+
+Further:
+BWh → Hot Desert
+BWk → Cold Desert
+
+Key formula involved:
+P = (2T + 14) etc. (Exam me analytical aa sakta hai)
+
+🔵 5️⃣ Group C – Warm Temperate
+
+Condition:
+
+Coldest month between -3°C to 18°C
+
+At least one month > 10°C
+
+Examples:
+
+Cfa → Humid Subtropical
+Cfb → Marine West Coast
+
+🟣 6️⃣ Group D – Cold Continental
+
+Coldest month < -3°C
+
+Warmest month > 10°C
+
+Severe winters
+
+❄ 7️⃣ Group E – Polar
+
+Warmest month < 10°C
+
+Types:
+
+ET → Tundra
+EF → Ice Cap
+
+🔥 8️⃣ Second Letter Meaning
+
+f → No dry season
+w → Dry winter
+s → Dry summer
+m → Monsoon
+
+🔥 9️⃣ Third Letter (Temperature Detail)
+
+a → Hot summer
+b → Warm summer
+c → Cool summer
+d → Severe winter
+
+🧠 10️⃣ Important Analytical Points
+
+B climate purely precipitation-based
+
+Af vs Am difference rainfall distribution
+
+Cfa vs Cfb difference summer temp
+
+India me multiple types present
+
+🇮🇳 India in Köppen
+
+Am → Western Coast
+Aw → Deccan Plateau
+BWh → Thar Desert
+Cwb → Himalayan region
+
+⚠ PGT Exam Traps
+
+B climate threshold formula-based
+
+-3°C boundary sometimes debated (-3 vs 0°C)
+
+Monsoon climate ≠ always Aw
+
+Köppen vegetation linkage ignore nahi karna
+
+📌 Concept Chain
+
+Latitude
+→ Insolation
+→ Temperature
+→ Pressure
+→ Rainfall
+→ Vegetation
+→ Climate Type

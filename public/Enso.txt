@@ -1,0 +1,133 @@
+🌊 ENSO SYSTEM
+
+(Ocean–Atmosphere Interaction – Advanced PGT Notes)
+
+🟢 1️⃣ ENSO – Meaning
+
+ENSO = El Niño Southern Oscillation
+
+Ye ek coupled ocean–atmosphere phenomenon hai
+Jo tropical Pacific Ocean me develop hota hai
+Aur global climate ko impact karta hai.
+
+🔵 2️⃣ Normal Pacific Condition
+🔥 Normal State me:
+
+Trade winds strong hoti hain
+
+Warm water west Pacific (Indonesia side) me accumulate hota hai
+
+East Pacific (Peru coast) me upwelling hota hai
+
+Cold water surface par aata hai
+
+Walker circulation active hoti hai
+
+Walker Circulation:
+
+West Pacific → Low pressure → Rising air
+
+East Pacific → High pressure → Descending air
+
+Surface trade winds east → west
+
+🔴 3️⃣ El Niño (Warm Phase)
+Mechanism:
+
+Trade winds weak ho jaati hain
+
+Warm water east Pacific ki taraf shift karta hai
+
+Peru coast par upwelling kam ho jaata hai
+
+Surface temperature increase hota hai
+
+Impact:
+
+Indian Monsoon weak
+
+Peru me heavy rainfall
+
+Australia me drought
+
+🔵 4️⃣ La Niña (Cold Phase)
+Mechanism:
+
+Trade winds strong ho jaati hain
+
+Warm water aur west ki taraf push hota hai
+
+East Pacific me stronger upwelling
+
+Surface water aur cold ho jata hai
+
+Impact:
+
+Indian Monsoon strong
+
+Australia me heavy rainfall
+
+South America west coast dry
+
+🧠 5️⃣ Southern Oscillation (Atmospheric Part)
+
+Southern Oscillation =
+Pressure difference between:
+
+Tahiti (East Pacific)
+
+Darwin (West Pacific)
+
+📊 6️⃣ SOI (Southern Oscillation Index)
+
+SOI = Pressure difference index
+
+Negative SOI → El Niño
+
+Positive SOI → La Niña
+
+🔥 7️⃣ ENSO & Indian Monsoon
+
+El Niño:
+
+Weak monsoon
+
+Drought probability high
+
+La Niña:
+
+Strong monsoon
+
+Flood probability high
+
+🌍 8️⃣ ENSO Teleconnections
+
+ENSO ka effect:
+
+North America winter
+
+African rainfall
+
+Jet stream shift
+
+Cyclone frequency change
+
+⚠ PGT Exam Traps
+
+El Niño = Sirf ocean phenomenon nahi, coupled system hai
+
+SOI negative matlab El Niño
+
+La Niña always flood nahi laata
+
+ENSO irregular cycle (2–7 years)
+
+ENSO ≠ Climate change
+
+🔥 High-Level Concept Chain
+
+Trade Wind Weakening
+→ Warm Water East Shift
+→ Walker Circulation Collapse
+→ Pressure Reversal
+→ Global Teleconnection

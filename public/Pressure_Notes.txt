@@ -1,0 +1,169 @@
+🟢 1️⃣ Thermal vs Dynamic Pressure
+🔥 Thermal Pressure (Temperature based)
+
+Garam hawa → expand → density kam → upar uthti → Low Pressure
+
+Thandi hawa → dense → niche baithti → High Pressure
+
+📌 Example:
+
+Equatorial Low (ITCZ) → thermal low
+
+Polar High → thermal high
+
+🔵 Dynamic Pressure (Circulation based)
+
+Direct temperature se nahi
+
+Vertical air movement + global circulation se
+
+📌 Example:
+
+Subtropical High (30°) → descending air from Hadley cell
+
+Subpolar Low (60°) → convergence zone
+
+⚠ Exam trap:
+Har low thermal nahi hota.
+Har high cold se nahi banta.
+
+🟡 2️⃣ Global Pressure Belts (7 Belts Model)
+Latitude	Type	Nature
+0°	Equatorial Low	Thermal
+30° N/S	Subtropical High	Dynamic
+60° N/S	Subpolar Low	Dynamic
+90° N/S	Polar High	Thermal
+
+👉 Total 7 belts (1 equatorial + 2 subtropical + 2 subpolar + 2 polar)
+
+🌀 3️⃣ Three Cell Model (Planetary Circulation)
+1️⃣ Hadley Cell (0°–30°)
+
+Warm air rises at ITCZ
+
+Moves poleward aloft
+
+Descends at 30°
+
+Forms Subtropical High
+
+👉 Responsible for Trade Winds
+
+2️⃣ Ferrel Cell (30°–60°)
+
+Indirect cell
+
+Driven by Hadley & Polar cell interaction
+
+Westerlies originate here
+
+3️⃣ Polar Cell (60°–90°)
+
+Cold dense air sinks at poles
+
+Moves toward 60°
+
+Meets warm air → Polar Front
+
+🌪 4️⃣ Coriolis Force (PGT Level Logic)
+
+Due to Earth’s rotation
+
+Deflects:
+
+Right in Northern Hemisphere
+
+Left in Southern Hemisphere
+
+📌 Important:
+
+Zero at Equator
+
+Maximum at Poles
+
+Affects direction, not speed
+
+⚠ Mathematical angle:
+Coriolis ∝ sin(latitude)
+
+🌬 5️⃣ Ferrel’s Law
+
+Statement:
+Wind is deflected:
+
+Right in Northern Hemisphere
+
+Left in Southern Hemisphere
+
+Exam trick:
+
+Law = direction logic
+
+Cause = Coriolis force
+
+🌍 6️⃣ ITCZ (Inter Tropical Convergence Zone)
+
+Low pressure belt near equator
+
+Trade winds converge
+
+Strong convection
+
+Heavy rainfall
+
+Seasonal Shift:
+
+Moves north in July
+
+Moves south in January
+
+👉 Indian Monsoon ka base yahi hai
+
+🐎 7️⃣ Horse Latitudes (30°)
+
+Subtropical High region
+
+Descending dry air
+
+Major deserts located here
+
+WHY?
+Because descending air suppresses cloud formation.
+
+🌧 8️⃣ Subpolar Low (60°)
+
+Warm westerlies meet cold polar easterlies
+
+Polar front formation
+
+Temperate cyclones originate here
+
+🔥 Analytical Connections (Very Important)
+Concept	Linked To
+ITCZ shift	Monsoon
+Subtropical High	Desert formation
+Polar Front	Temperate Cyclones
+Coriolis	Wind direction
+Pressure Gradient	Wind speed
+🧠 High-Level Concept Chain
+
+Insolation → Temperature → Pressure → Wind → Circulation → Climate
+
+⚠ PGT Exam Traps
+
+Ferrel Cell is thermally indirect.
+
+Subtropical high is dynamic, not thermal.
+
+ITCZ is not fixed at equator.
+
+Coriolis does not act at equator.
+
+Polar high is thermal high.
+
+🎯 Conceptual Understanding Question
+
+Why are deserts located around 30° latitude?
+
+Answer:
+Descending limb of Hadley cell → Adiabatic warming → Dry stable air → No rainfall.

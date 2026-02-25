@@ -1,0 +1,172 @@
+🇮🇳 INDIAN MONSOON MECHANISM
+
+(High Weightage – PGT Advanced Notes)
+
+🟢 1️⃣ Monsoon – Basic Concept
+
+Monsoon = Seasonal reversal of winds
+
+Summer → Sea to Land
+
+Winter → Land to Sea
+
+Ye sirf temperature difference nahi hai —
+Ye global circulation + ITCZ shift + Jet dynamics + ENSO linkage ka result hai.
+
+🔥 2️⃣ Traditional Thermal Concept (Old Theory)
+Mechanism:
+
+Summer me India heat hota hai
+
+NW India me Low pressure develop
+
+Indian Ocean comparatively cool → High pressure
+
+Moist winds land ki taraf
+
+📌 Limitation:
+Ye theory upper atmosphere role explain nahi karti.
+
+🔵 3️⃣ Dynamic Concept (Modern Accepted Theory)
+
+Monsoon is part of global circulation system.
+
+Main factors:
+
+ITCZ northward shift
+
+Hadley Cell expansion
+
+Tibetan Plateau heating
+
+Jet Stream displacement
+
+🟡 4️⃣ Role of ITCZ
+
+Summer me ITCZ approx 20°–25°N tak shift ho sakti hai.
+Isse Monsoon trough develop hota hai.
+
+👉 Monsoon trough = elongated low pressure belt across India.
+
+🟣 5️⃣ Tibetan Plateau Role (Very Important 🔥)
+
+Summer me:
+
+Plateau extremely heat hota hai
+
+Upper troposphere me thermal low develop
+
+Strong upward motion
+
+Monsoon intensify
+
+Ye upper air circulation ko modify karta hai.
+
+✈️ 6️⃣ Jet Stream Role
+Winter:
+
+Subtropical Jet (STJ) India ke upar hota hai
+→ Monsoon develop nahi hota
+
+Summer:
+
+STJ north shift karta hai
+→ Tropical Easterly Jet (TEJ) develop hoti hai
+→ Monsoon onset possible hota hai
+
+📌 Jet shift = Monsoon trigger condition
+
+🌊 7️⃣ Somali Jet
+
+Strong low level jet
+
+Arabian Sea branch ka powerful component
+
+Moisture transport ka main source
+
+🌧 8️⃣ Two Branches of SW Monsoon
+
+1️⃣ Arabian Sea Branch
+2️⃣ Bay of Bengal Branch
+
+Arabian branch → Western Ghats heavy rain
+Bay branch → NE India heavy rain
+
+🛑 9️⃣ Break Monsoon
+
+Jab:
+
+Monsoon trough Himalaya ki taraf shift hota hai
+
+Central India me rainfall kam ho jati hai
+
+Isko kehte hain “Break in Monsoon”
+
+🔁 10️⃣ Retreating Monsoon
+
+September–October
+
+High pressure NW India me develop
+
+Winds reverse direction
+
+Tamil Nadu rainfall (NE Monsoon)
+
+🌍 11️⃣ ENSO–Monsoon Link
+
+El Niño:
+
+Weak monsoon
+
+Drought probability
+
+La Niña:
+
+Strong monsoon
+
+Flood probability
+
+⚠ But relation always perfect nahi hota.
+
+🌡 12️⃣ Indian Ocean Dipole (IOD)
+
+Positive IOD:
+
+Strong monsoon possible
+
+Negative IOD:
+
+Weak monsoon possible
+
+🧠 13️⃣ Analytical Concept Chain
+
+Tibetan Heating
+→ Upper Air Circulation
+→ Jet Shift
+→ ITCZ Shift
+→ Monsoon Trough
+→ Rainfall Distribution
+
+⚠ PGT Exam Traps
+
+Monsoon sirf thermal concept nahi hai
+
+ENSO always drought nahi laata
+
+Break monsoon = rain stop everywhere nahi
+
+STJ north shift necessary condition hai
+
+Tamil Nadu rain SW monsoon se nahi, NE monsoon se hoti hai
+
+🎯 Very Important Analytical Themes
+
+Monsoon variability
+
+ENSO–IOD combined impact
+
+Climate change & monsoon shift
+
+Jet stream interaction
+
+Monsoon depressions role

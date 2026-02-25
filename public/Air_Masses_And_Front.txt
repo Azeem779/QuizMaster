@@ -1,0 +1,98 @@
+🟢 1️⃣ Air Mass – Definition
+
+Air mass =
+Ek vishal hawa ka khanda jiska temperature + humidity horizontally uniform ho.
+
+📌 Formation condition:
+
+Large homogeneous surface (source region)
+
+Light winds
+
+Long duration stability
+
+🟡 2️⃣ Source Regions (4 Major Types)
+Type	Region
+cP (continental polar)	Siberia, Canada
+mP (maritime polar)	North Atlantic
+cT (continental tropical)	Sahara
+mT (maritime tropical)	Gulf of Mexico
+
+👉 c = dry
+👉 m = moist
+👉 P = cold
+👉 T = warm
+
+🔵 3️⃣ Air Mass Modification
+
+Jab air mass apne source region se move karta hai:
+
+Surface temperature influence
+
+Moisture change
+
+Stability change
+
+🟣 4️⃣ Front – Definition
+
+Front =
+Do alag density wali hawaon ka boundary zone.
+
+🔥 5️⃣ Types of Fronts
+1️⃣ Cold Front
+
+Cold air pushes warm air upward
+
+Steep slope
+
+Thunderstorms possible
+
+Fast moving
+
+2️⃣ Warm Front
+
+Warm air overruns cold air
+
+Gentle slope
+
+Stratiform clouds
+
+Continuous rain
+
+3️⃣ Occluded Front
+
+Cold front overtakes warm front
+
+Mixed characteristics
+
+4️⃣ Stationary Front
+
+No movement
+
+Long duration cloudiness
+
+🌀 6️⃣ Frontogenesis
+
+Front intensification process
+
+Temperature gradient increase
+
+Convergence increase
+
+🧠 7️⃣ Polar Front Theory
+
+Proposed by Bjerknes
+
+Temperate cyclones develop along polar front
+
+Warm + cold air interaction
+
+⚠ PGT Traps
+
+Maritime polar is moist but cold.
+
+Warm front rainfall widespread but less intense.
+
+Cold front rainfall intense but short.
+
+Occlusion stage = mature cyclone.
