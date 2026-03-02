@@ -26,6 +26,10 @@ export const state = {
   quizPaused: false,
   questionStartTime: null,
   missedQuestions: [], // Track incorrect answers for review
+  
+  // Consistency
+  dailyStreak: 0,
+  lastPlayedDate: null,
 };
 
 // Reset quiz state

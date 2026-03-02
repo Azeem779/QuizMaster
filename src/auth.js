@@ -4,6 +4,9 @@ import { $ } from './utils.js';
 import { saveUserSession, loadUserSession, clearUserSession } from './storage.js';
 import { stopTimer } from './timer.js';
 
+import { updateDailyStreak } from './dailyStreak.js';
+import { requestNotificationPermission, showWelcomeNotification, initReminderInterval } from './notifications.js';
+
 // ============ AUTH MODULE ============
 
 // DOM Elements
@@ -21,6 +24,7 @@ const userAvatar = $("userAvatar");
 const logoutBtn = $("logoutBtn");
 const quitModal = $("quitModal");
 const dashboardScreen = $("dashboardScreen");
+const dailyStreakCard = $("dailyStreakCard");
 
 export function login(userId, password) {
   const user = findUser(userId, password);
@@ -31,6 +35,13 @@ export function login(userId, password) {
     
     // Save session
     saveUserSession(user);
+    
+    // Update daily streak
+    updateDailyStreak();
+    
+    // Consistency Notifications
+    requestNotificationPermission();
+    initReminderInterval();
     
     // Update UI
     loginScreen.classList.add("hidden");
@@ -70,6 +81,7 @@ export function logout() {
   userBadge.classList.add("hidden");
   quitModal.classList.add("hidden");
   dashboardScreen.classList.add("hidden");
+  dailyStreakCard.classList.add("hidden");
 }
 
 export function checkSession() {
@@ -82,6 +94,13 @@ export function checkSession() {
     if (validUser) {
       state.isLoggedIn = true;
       state.currentUser = validUser;
+      
+      // Update daily streak
+      updateDailyStreak();
+      
+      // Consistency Notifications
+      requestNotificationPermission();
+      initReminderInterval();
       
       // Update UI
       loginScreen.classList.add("hidden");

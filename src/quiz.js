@@ -321,6 +321,7 @@ export function showResults(wasQuit = false) {
   $("correctAnswers").textContent = `${state.correctCount}/${answeredCount}`;
   $("accuracy").textContent = `${accuracy}%`;
   $("bestStreak").textContent = state.bestStreak;
+  $("finalDailyStreakDisplay").textContent = state.dailyStreak;
   $("timeTaken").textContent = formatTime(totalTime);
   $("avgTime").textContent = `${avgTime}s`;
 

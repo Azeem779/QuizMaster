@@ -82,6 +82,20 @@
         <h1>🧠 QuizMaster</h1>
         <p class="subtitle">Select a topic and test your knowledge!</p>
 
+        <!-- DAILY STREAK DISPLAY -->
+        <div class="daily-streak-container hidden" id="dailyStreakCard">
+          <div class="streak-box">
+            <div class="streak-fire">🔥</div>
+            <div class="streak-details">
+              <span class="streak-count" id="dailyStreakCountDisplay">0</span>
+              <span class="streak-label">Day Streak</span>
+            </div>
+          </div>
+          <p class="streak-nudge" id="streakNudge">
+            Don't let the fire go out! Play a quiz today.
+          </p>
+        </div>
+
         <!-- Topic Selector -->
         <div class="topic-selector">
           <label for="topicSelect">📚 Choose Topic:</label>
@@ -114,7 +128,9 @@
           </div>
         </div>
         <button class="btn btn-primary" id="startBtn">🚀 Start Quiz</button>
-        <button class="btn btn-notes hidden" id="notesBtn">📖 Study Notes</button>
+        <button class="btn btn-notes hidden" id="notesBtn">
+          📖 Study Notes
+        </button>
         <button
           class="btn btn-secondary"
           id="dashboardBtn"
@@ -205,6 +221,10 @@
           <div class="score-item">
             <span class="value" id="bestStreak">0</span
             ><span class="label">Best Streak 🔥</span>
+          </div>
+          <div class="score-item streak-highlight">
+            <span class="value" id="finalDailyStreakDisplay">0</span
+            ><span class="label">Day Streak 🔥</span>
           </div>
           <div class="score-item">
             <span class="value" id="timeTaken">0:00</span
