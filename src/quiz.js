@@ -309,6 +309,7 @@ function updateStreakDisplay() {
 export function showResults(wasQuit = false) {
   stopTimer();
   quizScreen.classList.remove("active");
+  resultsScreen.classList.remove("hidden");
   resultsScreen.classList.add("active");
   quitModal.classList.add("hidden");
 
