@@ -407,6 +407,7 @@ export function showReview() {
 
 export function hideReview() {
   $("reviewScreen").classList.add("hidden");
+  resultsScreen.classList.remove("hidden");
   resultsScreen.classList.add("active");
 }
 
@@ -472,9 +473,14 @@ function checkBadges(stats, accuracy) {
 export function goToHome() {
   stopTimer();
   quizScreen.classList.remove("active");
+  quizScreen.classList.remove("hidden");
   resultsScreen.classList.remove("active");
+  resultsScreen.classList.remove("hidden");
   startScreen.classList.remove("hidden");
   quitModal.classList.add("hidden");
+  $("notesScreen").classList.add("hidden");
+  $("reviewScreen").classList.add("hidden");
+  $("dashboardScreen").classList.add("hidden");
   state.quizPaused = false;
   updateHighScoreDisplay();
 }

@@ -77,11 +77,15 @@ export function logout() {
   loginScreen.classList.remove("hidden");
   startScreen.classList.add("hidden");
   quizScreen.classList.remove("active");
+  quizScreen.classList.remove("hidden");
   resultsScreen.classList.remove("active");
+  resultsScreen.classList.remove("hidden");
   userBadge.classList.add("hidden");
   quitModal.classList.add("hidden");
   dashboardScreen.classList.add("hidden");
   dailyStreakCard.classList.add("hidden");
+  $("notesScreen").classList.add("hidden");
+  $("reviewScreen").classList.add("hidden");
 }
 
 export function checkSession() {
