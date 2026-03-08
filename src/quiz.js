@@ -13,7 +13,7 @@ import {
   loadHighScore,
   getUserStats,
   saveUserStats,
-  saveScoreToSupabase
+  saveScoreToSupabase,
 } from "./storage.js";
 
 // ============ QUIZ MODULE ============
@@ -109,7 +109,13 @@ export async function startQuiz() {
 
   startScreen.classList.add("hidden");
   resultsScreen.classList.remove("active");
+  quizScreen.classList.remove("hidden");
   quizScreen.classList.add("active");
+
+  // Ensure notes & other screens are hidden (in case quiz started from notes)
+  $("notesScreen").classList.add("hidden");
+  $("reviewScreen").classList.add("hidden");
+  $("dashboardScreen").classList.add("hidden");
 
   state.startTime = Date.now();
   await loadQuestions();
@@ -256,7 +262,7 @@ function handleTimeout() {
 
   playSound("wrong");
   showExplanation(question.explanation);
-  
+
   // Update Next Button for Timeout
   nextBtn.textContent = "Next Question";
   nextBtn.disabled = false;
