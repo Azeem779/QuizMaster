@@ -175,6 +175,102 @@
       "icon": "🌡️",
       "questionCount": 30,
       "notes": "Climate_Changes.txt"
+    },
+    {
+      "id": "agriculture_india",
+      "name": "Agriculture in India",
+      "file": "Agriculture_India.json",
+      "icon": "🌾",
+      "questionCount": 30,
+      "notes": "Agriculture_India.txt"
+    },
+    {
+      "id": "climate_india",
+      "name": "Climate of India",
+      "file": "Climate_India.json",
+      "icon": "🌦️",
+      "questionCount": 30,
+      "notes": "Climate_India.txt"
+    },
+    {
+      "id": "drainage_system",
+      "name": "Drainage System",
+      "file": "Drainage_System.json",
+      "icon": "💧",
+      "questionCount": 30,
+      "notes": "Drainage_System.txt"
+    },
+    {
+      "id": "energy_resources",
+      "name": "Energy Resources",
+      "file": "Energy_Resources.json",
+      "icon": "⚡",
+      "questionCount": 30,
+      "notes": "Energy_Resources.txt"
+    },
+    {
+      "id": "geological_structure",
+      "name": "Geological Structure",
+      "file": "Geological_Structure.json",
+      "icon": "🧱",
+      "questionCount": 30,
+      "notes": "Geological_Structure.txt"
+    },
+    {
+      "id": "industries_india",
+      "name": "Industries in India",
+      "file": "Industries_India.json",
+      "icon": "🏭",
+      "questionCount": 30,
+      "notes": "Industries_India.txt"
+    },
+    {
+      "id": "mineral_resources",
+      "name": "Mineral Resources",
+      "file": "Mineral_Resources.json",
+      "icon": "⛏️",
+      "questionCount": 30,
+      "notes": "Mineral_Resources.txt"
+    },
+    {
+      "id": "natural_vegetation",
+      "name": "Natural Vegetation",
+      "file": "Natural_Vegetation.json",
+      "icon": "🌳",
+      "questionCount": 30,
+      "notes": "Natural_Vegetation.txt"
+    },
+    {
+      "id": "physiographic_divisions",
+      "name": "Physiographic Divisions",
+      "file": "Physiographic_Divisions.json",
+      "icon": "🏔️",
+      "questionCount": 30,
+      "notes": "Physiographic_Divisions.txt"
+    },
+    {
+      "id": "population_india",
+      "name": "Population in India",
+      "file": "Population_India.json",
+      "icon": "👥",
+      "questionCount": 30,
+      "notes": "Population_India.txt"
+    },
+    {
+      "id": "soils_india",
+      "name": "Soils of India",
+      "file": "Soils_India.json",
+      "icon": "🌱",
+      "questionCount": 30,
+      "notes": "Soils_India.txt"
+    },
+    {
+      "id": "transport_india",
+      "name": "Transport in India",
+      "file": "Transport_India.json",
+      "icon": "🚆",
+      "questionCount": 30,
+      "notes": "Transport_India.txt"
     }
   ]
 }
