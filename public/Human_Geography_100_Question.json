@@ -1,0 +1,1080 @@
+[
+    {
+        "question": "मानव भूगोल का जनक किसे माना जाता है?",
+        "options": [
+            "Friedrich Ratzel",
+            "Carl Sauer",
+            "Blache",
+            "Taylor"
+        ],
+        "correct": 0,
+        "explanation": "Friedrich Ratzel को मानव भूगोल का जनक माना जाता है।"
+    },
+    {
+        "question": "Possibilism सिद्धांत किसने दिया?",
+        "options": [
+            "Vidal de la Blache",
+            "Ratzel",
+            "Semple",
+            "Taylor"
+        ],
+        "correct": 0,
+        "explanation": "Blache ने Possibilism सिद्धांत दिया।"
+    },
+    {
+        "question": "Neo-determinism सिद्धांत किससे संबंधित है?",
+        "options": [
+            "Griffith Taylor",
+            "Ratzel",
+            "Humboldt",
+            "Semple"
+        ],
+        "correct": 0,
+        "explanation": "Griffith Taylor ने Neo-determinism सिद्धांत दिया।"
+    },
+    {
+        "question": "Population Geography का जनक किसे माना जाता है?",
+        "options": [
+            "G.T. Trewartha",
+            "Malthus",
+            "Ratzel",
+            "Blache"
+        ],
+        "correct": 0,
+        "explanation": "Trewartha को population geography का जनक माना जाता है।"
+    },
+    {
+        "question": "Malthus population theory किस वर्ष प्रकाशित हुई?",
+        "options": [
+            "1798",
+            "1800",
+            "1850",
+            "1900"
+        ],
+        "correct": 0,
+        "explanation": "Malthus ने 1798 में अपनी theory प्रकाशित की।"
+    },
+    {
+        "question": "Malthus के अनुसार population किस प्रकार बढ़ती है?",
+        "options": [
+            "Geometric progression",
+            "Arithmetic progression",
+            "Linear",
+            "Random"
+        ],
+        "correct": 0,
+        "explanation": "Population geometric progression में बढ़ती है।"
+    },
+    {
+        "question": "Food supply Malthus के अनुसार किस प्रकार बढ़ती है?",
+        "options": [
+            "Arithmetic progression",
+            "Geometric progression",
+            "Linear",
+            "Exponential"
+        ],
+        "correct": 0,
+        "explanation": "Food supply arithmetic progression में बढ़ती है।"
+    },
+    {
+        "question": "Demographic Transition Model किससे संबंधित है?",
+        "options": [
+            "Population growth stages",
+            "Urban growth",
+            "Industrial growth",
+            "Trade"
+        ],
+        "correct": 0,
+        "explanation": "DTM population growth stages को दर्शाता है।"
+    },
+    {
+        "question": "DTM का दूसरा चरण किससे संबंधित है?",
+        "options": [
+            "Population explosion",
+            "Stable population",
+            "Declining population",
+            "Low birth rate"
+        ],
+        "correct": 0,
+        "explanation": "Stage 2 में death rate कम और population तेजी से बढ़ती है।"
+    },
+    {
+        "question": "Brain drain का अर्थ क्या है?",
+        "options": [
+            "Skilled people का विदेश जाना",
+            "Population growth",
+            "Rural migration",
+            "Industrial growth"
+        ],
+        "correct": 0,
+        "explanation": "Highly skilled people के migration को brain drain कहते हैं।"
+    },
+    {
+        "question": "Migration laws किसने दिए?",
+        "options": [
+            "Ravenstein",
+            "Ratzel",
+            "Blache",
+            "Taylor"
+        ],
+        "correct": 0,
+        "explanation": "Ravenstein ने migration laws दिए।"
+    },
+    {
+        "question": "Push factor का उदाहरण क्या है?",
+        "options": [
+            "Unemployment",
+            "Better jobs",
+            "Education",
+            "Security"
+        ],
+        "correct": 0,
+        "explanation": "Unemployment लोगों को migration के लिए मजबूर करता है।"
+    },
+    {
+        "question": "Pull factor का उदाहरण क्या है?",
+        "options": [
+            "Employment opportunity",
+            "War",
+            "Flood",
+            "Poverty"
+        ],
+        "correct": 0,
+        "explanation": "Employment opportunity migration को आकर्षित करती है।"
+    },
+    {
+        "question": "Urban geography किससे संबंधित है?",
+        "options": [
+            "Cities structure",
+            "Ocean",
+            "Climate",
+            "Mountains"
+        ],
+        "correct": 0,
+        "explanation": "Urban geography cities के spatial structure का अध्ययन करती है।"
+    },
+    {
+        "question": "Concentric zone model किसने दिया?",
+        "options": [
+            "Ernest Burgess",
+            "Hoyt",
+            "Christaller",
+            "Weber"
+        ],
+        "correct": 0,
+        "explanation": "Burgess ने 1925 में concentric model दिया।"
+    },
+    {
+        "question": "Sector model किसने दिया?",
+        "options": [
+            "Homer Hoyt",
+            "Burgess",
+            "Christaller",
+            "Taylor"
+        ],
+        "correct": 0,
+        "explanation": "Hoyt ने sector model दिया।"
+    },
+    {
+        "question": "Multiple nuclei model किसने दिया?",
+        "options": [
+            "Harris and Ullman",
+            "Hoyt",
+            "Burgess",
+            "Christaller"
+        ],
+        "correct": 0,
+        "explanation": "Harris और Ullman ने multiple nuclei model दिया।"
+    },
+    {
+        "question": "Central Place Theory किसने दी?",
+        "options": [
+            "Walter Christaller",
+            "Weber",
+            "Thünen",
+            "Burgess"
+        ],
+        "correct": 0,
+        "explanation": "Christaller ने 1933 में यह सिद्धांत दिया।"
+    },
+    {
+        "question": "Central Place Theory किससे संबंधित है?",
+        "options": [
+            "Service distribution",
+            "Climate",
+            "Ocean",
+            "Earthquake"
+        ],
+        "correct": 0,
+        "explanation": "यह settlements और services distribution समझाता है।"
+    },
+    {
+        "question": "Primate city concept किसने दिया?",
+        "options": [
+            "Mark Jefferson",
+            "Zipf",
+            "Ratzel",
+            "Hoyt"
+        ],
+        "correct": 0,
+        "explanation": "Jefferson ने primate city concept दिया।"
+    },
+    {
+        "question": "Rank size rule किससे संबंधित है?",
+        "options": [
+            "City size distribution",
+            "Population density",
+            "Climate zones",
+            "Trade routes"
+        ],
+        "correct": 0,
+        "explanation": "Rank size rule cities के size distribution को समझाता है।"
+    },
+    {
+        "question": "Cultural landscape concept किसने दिया?",
+        "options": [
+            "Carl Sauer",
+            "Ratzel",
+            "Blache",
+            "Taylor"
+        ],
+        "correct": 0,
+        "explanation": "Carl Sauer ने cultural landscape concept दिया।"
+    },
+    {
+        "question": "World का सबसे बड़ा language family कौन-सा है?",
+        "options": [
+            "Indo-European",
+            "Sino-Tibetan",
+            "Afro-Asiatic",
+            "Niger-Congo"
+        ],
+        "correct": 0,
+        "explanation": "Indo-European सबसे बड़ा language family है।"
+    },
+    {
+        "question": "Mandarin किस language family से संबंधित है?",
+        "options": [
+            "Sino-Tibetan",
+            "Indo-European",
+            "Dravidian",
+            "Afro-Asiatic"
+        ],
+        "correct": 0,
+        "explanation": "Mandarin Sino-Tibetan language family से है।"
+    },
+    {
+        "question": "World का सबसे बड़ा religion कौन-सा है?",
+        "options": [
+            "Christianity",
+            "Islam",
+            "Hinduism",
+            "Buddhism"
+        ],
+        "correct": 0,
+        "explanation": "Christianity followers की संख्या सबसे अधिक है।"
+    },
+    {
+        "question": "Human Development Index कौन जारी करता है?",
+        "options": [
+            "UNDP",
+            "WHO",
+            "UNESCO",
+            "IMF"
+        ],
+        "correct": 0,
+        "explanation": "HDI UNDP द्वारा जारी किया जाता है।"
+    },
+    {
+        "question": "HDI के मुख्य घटक कितने हैं?",
+        "options": [
+            "3",
+            "2",
+            "4",
+            "5"
+        ],
+        "correct": 0,
+        "explanation": "Life expectancy, education और income।"
+    },
+    {
+        "question": "HDI concept किससे जुड़ा है?",
+        "options": [
+            "Mahbub ul Haq",
+            "Ratzel",
+            "Weber",
+            "Taylor"
+        ],
+        "correct": 0,
+        "explanation": "Mahbub ul Haq ने human development concept दिया।"
+    },
+    {
+        "question": "Gender Inequality Index किससे संबंधित है?",
+        "options": [
+            "Gender inequality",
+            "Population density",
+            "Trade",
+            "Climate"
+        ],
+        "correct": 0,
+        "explanation": "GII gender inequality को मापता है।"
+    },
+    {
+        "question": "Von Thünen theory किससे संबंधित है?",
+        "options": [
+            "Agricultural location",
+            "Industrial location",
+            "Urban growth",
+            "Trade"
+        ],
+        "correct": 0,
+        "explanation": "Von Thünen agricultural land use model है।"
+    },
+    {
+        "question": "Weber theory किससे संबंधित है?",
+        "options": [
+            "Industrial location",
+            "Agriculture",
+            "Trade",
+            "Transport"
+        ],
+        "correct": 0,
+        "explanation": "Weber industrial location theory है।"
+    },
+    {
+        "question": "Agglomeration का अर्थ क्या है?",
+        "options": [
+            "Industries cluster",
+            "Population decline",
+            "Urban shrinkage",
+            "Rural growth"
+        ],
+        "correct": 0,
+        "explanation": "Industries clustering को agglomeration कहते हैं।"
+    },
+    {
+        "question": "Renewable resource का उदाहरण कौन-सा है?",
+        "options": [
+            "Solar energy",
+            "Coal",
+            "Petroleum",
+            "Gas"
+        ],
+        "correct": 0,
+        "explanation": "Solar renewable resource है।"
+    },
+    {
+        "question": "Non-renewable resource का उदाहरण क्या है?",
+        "options": [
+            "Coal",
+            "Solar",
+            "Wind",
+            "Hydro"
+        ],
+        "correct": 0,
+        "explanation": "Coal non-renewable resource है।"
+    },
+    {
+        "question": "Primary economic activity का उदाहरण क्या है?",
+        "options": [
+            "Agriculture",
+            "Manufacturing",
+            "Trade",
+            "Services"
+        ],
+        "correct": 0,
+        "explanation": "Agriculture primary activity है।"
+    },
+    {
+        "question": "Secondary activity किससे संबंधित है?",
+        "options": [
+            "Manufacturing",
+            "Agriculture",
+            "Fishing",
+            "Mining"
+        ],
+        "correct": 0,
+        "explanation": "Manufacturing secondary sector में आता है।"
+    },
+    {
+        "question": "Tertiary sector किससे संबंधित है?",
+        "options": [
+            "Services",
+            "Agriculture",
+            "Mining",
+            "Forestry"
+        ],
+        "correct": 0,
+        "explanation": "Services tertiary activities हैं।"
+    },
+    {
+        "question": "Quaternary activities किससे जुड़ी हैं?",
+        "options": [
+            "Knowledge services",
+            "Agriculture",
+            "Industry",
+            "Mining"
+        ],
+        "correct": 0,
+        "explanation": "Research और information services quaternary sector हैं।"
+    },
+    {
+        "question": "Urbanization किससे संबंधित है?",
+        "options": [
+            "Urban population growth",
+            "Climate change",
+            "Ocean current",
+            "Earthquake"
+        ],
+        "correct": 0,
+        "explanation": "Urbanization cities population growth को दर्शाता है।"
+    },
+    {
+        "question": "Megacity की population कितनी होती है?",
+        "options": [
+            "10 million+",
+            "5 million",
+            "1 million",
+            "500000"
+        ],
+        "correct": 0,
+        "explanation": "Megacity population 10 million से अधिक होती है।"
+    },
+    {
+        "question": "Settlement geography किससे संबंधित है?",
+        "options": [
+            "Human settlements",
+            "Ocean floor",
+            "Mountains",
+            "Climate"
+        ],
+        "correct": 0,
+        "explanation": "Settlement geography human settlements का अध्ययन करती है।"
+    },
+    {
+        "question": "Dispersed settlement क्या है?",
+        "options": [
+            "Houses far apart",
+            "Clustered houses",
+            "Linear houses",
+            "Circular houses"
+        ],
+        "correct": 0,
+        "explanation": "Dispersed settlement में houses दूर-दूर होते हैं।"
+    },
+    {
+        "question": "Nucleated settlement क्या है?",
+        "options": [
+            "Clustered houses",
+            "Dispersed houses",
+            "Linear houses",
+            "Isolated houses"
+        ],
+        "correct": 0,
+        "explanation": "Clustered settlement को nucleated settlement कहते हैं।"
+    },
+    {
+        "question": "Linear settlement कहाँ बनते हैं?",
+        "options": [
+            "Along roads or rivers",
+            "Desert",
+            "Mountain",
+            "Forest"
+        ],
+        "correct": 0,
+        "explanation": "Linear settlements roads या rivers के साथ बनते हैं।"
+    },
+    {
+        "question": "Ethnic group किससे संबंधित है?",
+        "options": [
+            "Shared culture",
+            "Climate",
+            "Ocean",
+            "Minerals"
+        ],
+        "correct": 0,
+        "explanation": "Ethnic group shared cultural identity से जुड़े होते हैं।"
+    },
+    {
+        "question": "Cultural diffusion क्या है?",
+        "options": [
+            "Spread of culture",
+            "Population growth",
+            "Trade growth",
+            "Climate change"
+        ],
+        "correct": 0,
+        "explanation": "Culture का फैलाव cultural diffusion है।"
+    },
+    {
+        "question": "Cultural hearth क्या है?",
+        "options": [
+            "Origin of culture",
+            "Mountain region",
+            "River valley",
+            "Desert"
+        ],
+        "correct": 0,
+        "explanation": "Cultural hearth culture का origin place है।"
+    },
+    {
+        "question": "Human geography किस प्रकार का अध्ययन है?",
+        "options": [
+            "Spatial study",
+            "Chemical study",
+            "Ocean study",
+            "Physical study"
+        ],
+        "correct": 0,
+        "explanation": "Human geography spatial patterns का अध्ययन करती है।"
+    },
+    {
+        "question": "Human development का मुख्य उद्देश्य क्या है?",
+        "options": [
+            "Improve quality of life",
+            "Increase minerals",
+            "Study climate",
+            "Study oceans"
+        ],
+        "correct": 0,
+        "explanation": "Human development human welfare पर आधारित है।"
+    },
+    {
+        "question": "Environmental determinism का प्रमुख समर्थक कौन था?",
+        "options": [
+            "Friedrich Ratzel",
+            "Carl Sauer",
+            "Christaller",
+            "Weber"
+        ],
+        "correct": 0,
+        "explanation": "Ratzel environmental determinism के प्रमुख समर्थक थे।"
+    },
+    {
+        "question": "Possibilism सिद्धांत किस देश के भूगोलवेत्ता से जुड़ा है?",
+        "options": [
+            "France",
+            "Germany",
+            "USA",
+            "UK"
+        ],
+        "correct": 0,
+        "explanation": "Vidal de la Blache फ्रांस के भूगोलवेत्ता थे।"
+    },
+    {
+        "question": "Human ecology किससे संबंधित है?",
+        "options": [
+            "Human-environment relationship",
+            "Ocean study",
+            "Climate study",
+            "Mineral study"
+        ],
+        "correct": 0,
+        "explanation": "Human ecology मानव और पर्यावरण के संबंध का अध्ययन है।"
+    },
+    {
+        "question": "Population density का सूत्र क्या है?",
+        "options": [
+            "Population ÷ Area",
+            "Area ÷ Population",
+            "Population × Area",
+            "Population + Area"
+        ],
+        "correct": 0,
+        "explanation": "Population density = Population / Area।"
+    },
+    {
+        "question": "Physiological density किससे संबंधित है?",
+        "options": [
+            "Population and arable land",
+            "Population and industry",
+            "Population and forest",
+            "Population and rivers"
+        ],
+        "correct": 0,
+        "explanation": "यह जनसंख्या और कृषि योग्य भूमि का अनुपात है।"
+    },
+    {
+        "question": "Agricultural density किससे संबंधित है?",
+        "options": [
+            "Farmers per agricultural land",
+            "Population per area",
+            "Population growth",
+            "Urban population"
+        ],
+        "correct": 0,
+        "explanation": "Agricultural density farmers और agricultural land का अनुपात है।"
+    },
+    {
+        "question": "World population growth सबसे तेज कब हुआ?",
+        "options": [
+            "20वीं सदी",
+            "18वीं सदी",
+            "17वीं सदी",
+            "16वीं सदी"
+        ],
+        "correct": 0,
+        "explanation": "Medical advancement के कारण 20वीं सदी में तेजी से बढ़ा।"
+    },
+    {
+        "question": "Stage 1 of demographic transition किससे संबंधित है?",
+        "options": [
+            "High birth and death rate",
+            "Low birth rate",
+            "Population decline",
+            "Urban growth"
+        ],
+        "correct": 0,
+        "explanation": "Stage 1 में birth और death rate दोनों high होते हैं।"
+    },
+    {
+        "question": "Step migration का अर्थ क्या है?",
+        "options": [
+            "Migration in stages",
+            "Permanent migration",
+            "Forced migration",
+            "Seasonal migration"
+        ],
+        "correct": 0,
+        "explanation": "Migration कई चरणों में होता है।"
+    },
+    {
+        "question": "Seasonal migration का उदाहरण क्या है?",
+        "options": [
+            "Agricultural labour movement",
+            "Brain drain",
+            "Urban migration",
+            "International migration"
+        ],
+        "correct": 0,
+        "explanation": "कृषि श्रमिकों का मौसमी प्रवास seasonal migration है।"
+    },
+    {
+        "question": "Net migration किससे निकाला जाता है?",
+        "options": [
+            "Immigration - Emigration",
+            "Birth - Death",
+            "Population - Area",
+            "Migration - Population"
+        ],
+        "correct": 0,
+        "explanation": "Net migration = Immigration – Emigration।"
+    },
+    {
+        "question": "CBD का मुख्य कार्य क्या होता है?",
+        "options": [
+            "Commercial activities",
+            "Agriculture",
+            "Mining",
+            "Fishing"
+        ],
+        "correct": 0,
+        "explanation": "CBD city का commercial centre होता है।"
+    },
+    {
+        "question": "Hoyt sector model किस वर्ष दिया गया?",
+        "options": [
+            "1939",
+            "1925",
+            "1945",
+            "1933"
+        ],
+        "correct": 0,
+        "explanation": "Hoyt ने 1939 में sector model दिया।"
+    },
+    {
+        "question": "Multiple nuclei model किस वर्ष दिया गया?",
+        "options": [
+            "1945",
+            "1930",
+            "1925",
+            "1950"
+        ],
+        "correct": 0,
+        "explanation": "Harris और Ullman ने 1945 में दिया।"
+    },
+    {
+        "question": "Urban sprawl किस समस्या को दर्शाता है?",
+        "options": [
+            "Unplanned city expansion",
+            "Population decline",
+            "Urban shrinkage",
+            "Industrial decline"
+        ],
+        "correct": 0,
+        "explanation": "Urban sprawl uncontrolled city growth है।"
+    },
+    {
+        "question": "World का सबसे अधिक urbanized region कौन-सा है?",
+        "options": [
+            "North America",
+            "Africa",
+            "South Asia",
+            "Central Asia"
+        ],
+        "correct": 0,
+        "explanation": "North America में urbanization rate बहुत अधिक है।"
+    },
+    {
+        "question": "Language geography किसका अध्ययन करती है?",
+        "options": [
+            "Language distribution",
+            "Ocean distribution",
+            "Climate zones",
+            "Mineral zones"
+        ],
+        "correct": 0,
+        "explanation": "Language geography languages के spatial pattern का अध्ययन करती है।"
+    },
+    {
+        "question": "Afro-Asiatic language family कहाँ अधिक पाई जाती है?",
+        "options": [
+            "North Africa and Middle East",
+            "Europe",
+            "South America",
+            "Australia"
+        ],
+        "correct": 0,
+        "explanation": "Arabic language Afro-Asiatic family से है।"
+    },
+    {
+        "question": "Folk culture किससे जुड़ी होती है?",
+        "options": [
+            "Rural traditions",
+            "Urban media",
+            "Industrial growth",
+            "Global trade"
+        ],
+        "correct": 0,
+        "explanation": "Folk culture rural traditions से जुड़ी होती है।"
+    },
+    {
+        "question": "Popular culture का प्रसार कैसे होता है?",
+        "options": [
+            "Media and technology",
+            "Agriculture",
+            "Mining",
+            "Transport"
+        ],
+        "correct": 0,
+        "explanation": "Popular culture media से फैलती है।"
+    },
+    {
+        "question": "HDI का health component क्या है?",
+        "options": [
+            "Life expectancy",
+            "Infant mortality",
+            "Birth rate",
+            "Death rate"
+        ],
+        "correct": 0,
+        "explanation": "Health component life expectancy है।"
+    },
+    {
+        "question": "Education component HDI में किससे मापा जाता है?",
+        "options": [
+            "Years of schooling",
+            "Rainfall",
+            "Temperature",
+            "Migration"
+        ],
+        "correct": 0,
+        "explanation": "Education schooling years से मापा जाता है।"
+    },
+    {
+        "question": "Income component HDI में किससे मापा जाता है?",
+        "options": [
+            "GNI per capita",
+            "GDP growth",
+            "Exports",
+            "Imports"
+        ],
+        "correct": 0,
+        "explanation": "Income GNI per capita से मापा जाता है।"
+    },
+    {
+        "question": "Low HDI वाले देश अधिकतर कहाँ पाए जाते हैं?",
+        "options": [
+            "Sub-Saharan Africa",
+            "Europe",
+            "North America",
+            "Japan"
+        ],
+        "correct": 0,
+        "explanation": "Sub-Saharan Africa में HDI कम है।"
+    },
+    {
+        "question": "Gender equality किससे जुड़ी है?",
+        "options": [
+            "Equal rights for men and women",
+            "Population density",
+            "Climate change",
+            "Trade"
+        ],
+        "correct": 0,
+        "explanation": "Gender equality समान अधिकारों से संबंधित है।"
+    },
+    {
+        "question": "Von Thünen model किस वर्ष प्रकाशित हुआ?",
+        "options": [
+            "1826",
+            "1850",
+            "1900",
+            "1930"
+        ],
+        "correct": 0,
+        "explanation": "Von Thünen ने 1826 में agricultural model दिया।"
+    },
+    {
+        "question": "Von Thünen model किस पर आधारित है?",
+        "options": [
+            "Transport cost and market distance",
+            "Climate",
+            "Population",
+            "Minerals"
+        ],
+        "correct": 0,
+        "explanation": "Agriculture market distance पर निर्भर करती है।"
+    },
+    {
+        "question": "Weber theory में least cost principle क्या है?",
+        "options": [
+            "Minimize transport cost",
+            "Maximize labour",
+            "Increase population",
+            "Increase market"
+        ],
+        "correct": 0,
+        "explanation": "Industry location cost minimization पर आधारित है।"
+    },
+    {
+        "question": "Weber theory के तीन मुख्य कारक क्या हैं?",
+        "options": [
+            "Transport, labour, agglomeration",
+            "Climate, soil, water",
+            "Trade, market, tax",
+            "Population, density, growth"
+        ],
+        "correct": 0,
+        "explanation": "Weber theory transport, labour और agglomeration पर आधारित है।"
+    },
+    {
+        "question": "Footloose industries किस प्रकार की होती हैं?",
+        "options": [
+            "Location independent",
+            "Resource dependent",
+            "Market dependent",
+            "Climate dependent"
+        ],
+        "correct": 0,
+        "explanation": "IT industries location independent होती हैं।"
+    },
+    {
+        "question": "Industrial region का उदाहरण क्या है?",
+        "options": [
+            "Ruhr",
+            "Sahara",
+            "Amazon",
+            "Gobi"
+        ],
+        "correct": 0,
+        "explanation": "Ruhr Germany का industrial region है।"
+    },
+    {
+        "question": "Globalization किससे संबंधित है?",
+        "options": [
+            "Worldwide economic integration",
+            "Local agriculture",
+            "Climate change",
+            "Population growth"
+        ],
+        "correct": 0,
+        "explanation": "Globalization global economic integration है।"
+    },
+    {
+        "question": "Trade geography किससे संबंधित है?",
+        "options": [
+            "Trade distribution",
+            "Climate",
+            "Oceans",
+            "Earthquakes"
+        ],
+        "correct": 0,
+        "explanation": "Trade geography trade patterns का अध्ययन करती है।"
+    },
+    {
+        "question": "Transport geography किसका अध्ययन करती है?",
+        "options": [
+            "Transport networks",
+            "Population density",
+            "Climate zones",
+            "Ocean currents"
+        ],
+        "correct": 0,
+        "explanation": "Transport geography transportation systems का अध्ययन करती है।"
+    },
+    {
+        "question": "Megacity की जनसंख्या सीमा क्या है?",
+        "options": [
+            "10 million+",
+            "5 million",
+            "1 million",
+            "500000"
+        ],
+        "correct": 0,
+        "explanation": "Megacity population 10 million से अधिक होती है।"
+    },
+    {
+        "question": "Urban hierarchy किससे संबंधित है?",
+        "options": [
+            "City ranking",
+            "Population growth",
+            "Climate zones",
+            "Trade"
+        ],
+        "correct": 0,
+        "explanation": "Urban hierarchy cities की ranking दर्शाती है।"
+    },
+    {
+        "question": "Central place theory में hexagon क्यों उपयोग किया गया?",
+        "options": [
+            "Efficient service coverage",
+            "Climate pattern",
+            "Population density",
+            "Trade routes"
+        ],
+        "correct": 0,
+        "explanation": "Hexagon efficient spatial coverage देता है।"
+    },
+    {
+        "question": "Threshold population का अर्थ क्या है?",
+        "options": [
+            "Minimum population for service",
+            "Maximum population",
+            "Population growth",
+            "Population density"
+        ],
+        "correct": 0,
+        "explanation": "Service को sustain करने के लिए minimum population।"
+    },
+    {
+        "question": "Range of goods का अर्थ क्या है?",
+        "options": [
+            "Maximum distance customers travel",
+            "Minimum population",
+            "Trade volume",
+            "City size"
+        ],
+        "correct": 0,
+        "explanation": "Range maximum distance है जहाँ तक लोग service लेने जाते हैं।"
+    },
+    {
+        "question": "Urbanization का मुख्य कारण क्या है?",
+        "options": [
+            "Industrialization",
+            "Earthquake",
+            "Ocean currents",
+            "Climate change"
+        ],
+        "correct": 0,
+        "explanation": "Industrialization urban growth को बढ़ाता है।"
+    },
+    {
+        "question": "Settlement geography किस शाखा का भाग है?",
+        "options": [
+            "Human geography",
+            "Physical geography",
+            "Oceanography",
+            "Climatology"
+        ],
+        "correct": 0,
+        "explanation": "Settlement geography human geography का भाग है।"
+    },
+    {
+        "question": "Human development report पहली बार कब प्रकाशित हुई?",
+        "options": [
+            "1990",
+            "1980",
+            "2000",
+            "1975"
+        ],
+        "correct": 0,
+        "explanation": "UNDP ने 1990 में पहली Human Development Report जारी की।"
+    },
+    {
+        "question": "Human development का मुख्य लक्ष्य क्या है?",
+        "options": [
+            "Improve human well-being",
+            "Increase mineral production",
+            "Climate study",
+            "Ocean study"
+        ],
+        "correct": 0,
+        "explanation": "Human development human welfare पर आधारित है।"
+    },
+    {
+        "question": "Social indicators का उपयोग किस लिए होता है?",
+        "options": [
+            "Measure social development",
+            "Measure climate",
+            "Measure minerals",
+            "Measure oceans"
+        ],
+        "correct": 0,
+        "explanation": "Social indicators development level दर्शाते हैं।"
+    },
+    {
+        "question": "Population explosion किससे जुड़ा है?",
+        "options": [
+            "Rapid population growth",
+            "Population decline",
+            "Migration",
+            "Urban shrinkage"
+        ],
+        "correct": 0,
+        "explanation": "Rapid growth को population explosion कहते हैं।"
+    },
+    {
+        "question": "Cultural diffusion किस प्रक्रिया को दर्शाता है?",
+        "options": [
+            "Spread of culture",
+            "Population growth",
+            "Trade expansion",
+            "Climate change"
+        ],
+        "correct": 0,
+        "explanation": "Culture का फैलाव cultural diffusion है।"
+    },
+    {
+        "question": "Cultural hearth क्या दर्शाता है?",
+        "options": [
+            "Origin of culture",
+            "Population centre",
+            "Trade centre",
+            "Industrial centre"
+        ],
+        "correct": 0,
+        "explanation": "Culture का origin place cultural hearth कहलाता है।"
+    },
+    {
+        "question": "Economic geography किस शाखा का भाग है?",
+        "options": [
+            "Human geography",
+            "Physical geography",
+            "Oceanography",
+            "Climatology"
+        ],
+        "correct": 0,
+        "explanation": "Economic geography human geography का हिस्सा है।"
+    },
+    {
+        "question": "Human geography का मुख्य focus क्या है?",
+        "options": [
+            "Human-environment interaction",
+            "Ocean study",
+            "Climate study",
+            "Mineral study"
+        ],
+        "correct": 0,
+        "explanation": "Human geography human-environment interaction पर आधारित है।"
+    }
+]

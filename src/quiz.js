@@ -57,14 +57,24 @@ export async function loadTopics() {
 }
 
 function populateTopicDropdown() {
+  const topicSelect100 = $("topicSelect100");
+
   topicSelect.innerHTML =
     '<option value="" disabled selected>-- Select a topic --</option>';
+  topicSelect100.innerHTML =
+    '<option value="" disabled selected>-- Select a 100 Ques topic --</option>';
 
   state.topics.forEach((topic) => {
+    const is100Series = topic.name.includes("100");
     const option = document.createElement("option");
     option.value = topic.id;
     option.textContent = `${topic.icon} ${topic.name} (${topic.questionCount} questions)`;
-    topicSelect.appendChild(option);
+
+    if (is100Series) {
+      topicSelect100.appendChild(option);
+    } else {
+      topicSelect.appendChild(option);
+    }
   });
 }
 

@@ -285,6 +285,91 @@
       "file": "Geomorphology_100_Question.json",
       "icon": "⛰️",
       "questionCount": 96
+    },
+    {
+      "id": "climatology_100",
+      "name": "Climatology - 100 Ques",
+      "file": "Climatology_100_Questions.json",
+      "icon": "🌤️",
+      "questionCount": 92
+    },
+    {
+      "id": "oceanography_100",
+      "name": "Oceanography - 100 Ques",
+      "file": "Oceanography_100_Questions.json",
+      "icon": "🌊",
+      "questionCount": 91
+    },
+    {
+      "id": "human_geography_scope",
+      "name": "Human Geography – Nature & Scope",
+      "file": "Human_Geography_Scope.json",
+      "icon": "🌍",
+      "questionCount": 30,
+      "notes": "Human_Geography_Scope.txt"
+    },
+    {
+      "id": "population_geography",
+      "name": "Population Geography",
+      "file": "Population_Geography.json",
+      "icon": "👥",
+      "questionCount": 30,
+      "notes": "Population_Geography.txt"
+    },
+    {
+      "id": "migration",
+      "name": "Migration",
+      "file": "Migration.json",
+      "icon": "🚶",
+      "questionCount": 30,
+      "notes": "Migration.txt"
+    },
+    {
+      "id": "human_settlements",
+      "name": "Human Settlements",
+      "file": "Human_Settlements.json",
+      "icon": "🏘️",
+      "questionCount": 30,
+      "notes": "Human_Settlements.txt"
+    },
+    {
+      "id": "cultural_geography",
+      "name": "Cultural Geography",
+      "file": "Cultural_Geography.json",
+      "icon": "🕌",
+      "questionCount": 30,
+      "notes": "Cultural_Geography.txt"
+    },
+    {
+      "id": "economic_geography",
+      "name": "Economic Geography",
+      "file": "Econimic_Geography.json",
+      "icon": "💹",
+      "questionCount": 30,
+      "notes": "Economic_Geography.txt"
+    },
+    {
+      "id": "social_geography",
+      "name": "Social Geography",
+      "file": "Social_Geography.json",
+      "icon": "🤝",
+      "questionCount": 30,
+      "notes": "Social_Geography.txt"
+    },
+    {
+      "id": "urban_geography",
+      "name": "Urban Geography",
+      "file": "Urban_Geography.json",
+      "icon": "🏙️",
+      "questionCount": 30,
+      "notes": "Urban_Geography.txt"
+    },
+    {
+      "id": "human_geography_100",
+      "name": "Human Geography - 100 Ques",
+      "file": "Human_Geography_100_Question.json",
+      "icon": "👤",
+      "questionCount": 98
     }
   ]
 }

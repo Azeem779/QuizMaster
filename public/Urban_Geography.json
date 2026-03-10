@@ -1,0 +1,332 @@
+[
+    {
+        "question": "Urban geography किसका अध्ययन करती है?",
+        "options": [
+            "शहरों की संरचना और कार्य",
+            "केवल जलवायु",
+            "केवल महासागर",
+            "केवल पर्वत"
+        ],
+        "correct": 0,
+        "explanation": "Urban geography cities के spatial organization का अध्ययन करती है।"
+    },
+    {
+        "question": "Concentric Zone Model किसने दिया?",
+        "options": [
+            "Ernest Burgess",
+            "Homer Hoyt",
+            "Christaller",
+            "Harris"
+        ],
+        "correct": 0,
+        "explanation": "Burgess ने 1925 में concentric zone model दिया।"
+    },
+    {
+        "question": "Burgess model किस प्रकार का है?",
+        "options": [
+            "वृत्ताकार मॉडल",
+            "सेक्टर मॉडल",
+            "बहु-केंद्र मॉडल",
+            "षट्भुज मॉडल"
+        ],
+        "correct": 0,
+        "explanation": "इस मॉडल में शहर concentric circles में विकसित होता है।"
+    },
+    {
+        "question": "CBD का पूर्ण रूप क्या है?",
+        "options": [
+            "Central Business District",
+            "Central Building Division",
+            "City Business Division",
+            "Commercial Business Department"
+        ],
+        "correct": 0,
+        "explanation": "CBD शहर का मुख्य व्यापारिक क्षेत्र होता है।"
+    },
+    {
+        "question": "Burgess model का दूसरा क्षेत्र क्या कहलाता है?",
+        "options": [
+            "Zone of transition",
+            "CBD",
+            "Residential zone",
+            "Commuter zone"
+        ],
+        "correct": 0,
+        "explanation": "CBD के बाद zone of transition आता है।"
+    },
+    {
+        "question": "Sector model किसने दिया?",
+        "options": [
+            "Homer Hoyt",
+            "Burgess",
+            "Christaller",
+            "Taylor"
+        ],
+        "correct": 0,
+        "explanation": "Hoyt ने 1939 में sector model दिया।"
+    },
+    {
+        "question": "Hoyt model में शहर का विकास किस रूप में होता है?",
+        "options": [
+            "सेक्टर या पंखे के आकार में",
+            "वृत्ताकार",
+            "त्रिकोणीय",
+            "आयताकार"
+        ],
+        "correct": 0,
+        "explanation": "Hoyt model में development sectors में होता है।"
+    },
+    {
+        "question": "Multiple Nuclei Model किसने दिया?",
+        "options": [
+            "Harris और Ullman",
+            "Burgess",
+            "Hoyt",
+            "Christaller"
+        ],
+        "correct": 0,
+        "explanation": "Harris और Ullman ने 1945 में यह मॉडल दिया।"
+    },
+    {
+        "question": "Multiple nuclei model का मुख्य विचार क्या है?",
+        "options": [
+            "शहर में कई केंद्र होते हैं",
+            "केवल एक केंद्र होता है",
+            "कोई केंद्र नहीं होता",
+            "सभी क्षेत्र समान होते हैं"
+        ],
+        "correct": 0,
+        "explanation": "Modern cities में multiple centers होते हैं।"
+    },
+    {
+        "question": "Central Place Theory किसने दी?",
+        "options": [
+            "Walter Christaller",
+            "Burgess",
+            "Hoyt",
+            "Ratzel"
+        ],
+        "correct": 0,
+        "explanation": "Christaller ने 1933 में यह सिद्धांत दिया।"
+    },
+    {
+        "question": "Central Place Theory किससे संबंधित है?",
+        "options": [
+            "सेवाओं के वितरण",
+            "जलवायु परिवर्तन",
+            "भूकम्प",
+            "महासागर"
+        ],
+        "correct": 0,
+        "explanation": "यह settlements के service functions को समझाता है।"
+    },
+    {
+        "question": "Central Place Theory में settlements किस pattern में होते हैं?",
+        "options": [
+            "Hexagonal",
+            "Circular",
+            "Triangular",
+            "Square"
+        ],
+        "correct": 0,
+        "explanation": "Hexagonal pattern सबसे efficient माना गया है।"
+    },
+    {
+        "question": "Threshold population का अर्थ क्या है?",
+        "options": [
+            "सेवा के लिए न्यूनतम जनसंख्या",
+            "अधिकतम जनसंख्या",
+            "कुल जनसंख्या",
+            "शहरी जनसंख्या"
+        ],
+        "correct": 0,
+        "explanation": "Threshold population सेवा को बनाए रखने के लिए आवश्यक न्यूनतम जनसंख्या है।"
+    },
+    {
+        "question": "Range of goods का अर्थ क्या है?",
+        "options": [
+            "सेवा के लिए अधिकतम दूरी",
+            "न्यूनतम दूरी",
+            "शहर का आकार",
+            "जनसंख्या घनत्व"
+        ],
+        "correct": 0,
+        "explanation": "Range वह अधिकतम दूरी है जहाँ तक लोग सेवा लेने जाते हैं।"
+    },
+    {
+        "question": "Urban land use models किससे संबंधित हैं?",
+        "options": [
+            "शहरों की भूमि उपयोग संरचना",
+            "महासागर तल",
+            "पर्वत संरचना",
+            "जलवायु"
+        ],
+        "correct": 0,
+        "explanation": "Urban models city structure को समझाते हैं।"
+    },
+    {
+        "question": "CBD की मुख्य विशेषता क्या है?",
+        "options": [
+            "व्यापार और कार्यालय",
+            "कृषि भूमि",
+            "वन क्षेत्र",
+            "खनिज क्षेत्र"
+        ],
+        "correct": 0,
+        "explanation": "CBD में commercial activities होती हैं।"
+    },
+    {
+        "question": "Zone of transition में क्या होता है?",
+        "options": [
+            "पुराने मकान और उद्योग",
+            "कृषि भूमि",
+            "उच्च वर्ग आवास",
+            "वन क्षेत्र"
+        ],
+        "correct": 0,
+        "explanation": "Transition zone में industries और old houses होते हैं।"
+    },
+    {
+        "question": "Urban sprawl का अर्थ क्या है?",
+        "options": [
+            "शहर का अनियंत्रित विस्तार",
+            "शहर का संकुचन",
+            "कृषि वृद्धि",
+            "जनसंख्या कमी"
+        ],
+        "correct": 0,
+        "explanation": "Urban sprawl uncontrolled city expansion है।"
+    },
+    {
+        "question": "Metropolitan city किसे कहते हैं?",
+        "options": [
+            "बड़ा शहर और उसके आसपास का क्षेत्र",
+            "छोटा शहर",
+            "गाँव",
+            "औद्योगिक गाँव"
+        ],
+        "correct": 0,
+        "explanation": "Metropolitan area बड़े शहर और उसके आसपास के क्षेत्रों को शामिल करता है।"
+    },
+    {
+        "question": "Megacity की जनसंख्या कितनी होती है?",
+        "options": [
+            "10 मिलियन से अधिक",
+            "5 मिलियन",
+            "1 मिलियन",
+            "500000"
+        ],
+        "correct": 0,
+        "explanation": "Megacity की population 10 million से अधिक होती है।"
+    },
+    {
+        "question": "Urban hierarchy किससे संबंधित है?",
+        "options": [
+            "शहरों का क्रम",
+            "जलवायु",
+            "खनिज",
+            "नदी"
+        ],
+        "correct": 0,
+        "explanation": "Urban hierarchy cities की ranking दर्शाती है।"
+    },
+    {
+        "question": "Central Place Theory किस देश में विकसित हुई?",
+        "options": [
+            "जर्मनी",
+            "फ्रांस",
+            "अमेरिका",
+            "ब्रिटेन"
+        ],
+        "correct": 0,
+        "explanation": "Christaller जर्मनी के भूगोलवेत्ता थे।"
+    },
+    {
+        "question": "Urban land use models किस शताब्दी में विकसित हुए?",
+        "options": [
+            "20वीं",
+            "19वीं",
+            "18वीं",
+            "21वीं"
+        ],
+        "correct": 0,
+        "explanation": "Urban models mainly 20th century में विकसित हुए।"
+    },
+    {
+        "question": "CBD शहर में कहाँ स्थित होता है?",
+        "options": [
+            "केंद्र में",
+            "किनारे",
+            "उपनगर",
+            "ग्रामीण क्षेत्र"
+        ],
+        "correct": 0,
+        "explanation": "CBD शहर के केंद्र में होता है।"
+    },
+    {
+        "question": "Multiple nuclei model किस प्रकार के शहरों के लिए उपयुक्त है?",
+        "options": [
+            "आधुनिक बड़े शहर",
+            "छोटे गाँव",
+            "कृषि क्षेत्र",
+            "वन क्षेत्र"
+        ],
+        "correct": 0,
+        "explanation": "Modern cities में कई centers होते हैं।"
+    },
+    {
+        "question": "Urbanization किससे संबंधित है?",
+        "options": [
+            "शहरी जनसंख्या वृद्धि",
+            "कृषि वृद्धि",
+            "वन वृद्धि",
+            "खनिज वृद्धि"
+        ],
+        "correct": 0,
+        "explanation": "Urbanization cities की population increase को दर्शाता है।"
+    },
+    {
+        "question": "City का मुख्य कार्य क्या होता है?",
+        "options": [
+            "व्यापार और सेवाएँ",
+            "कृषि",
+            "वन",
+            "खनन"
+        ],
+        "correct": 0,
+        "explanation": "Cities tertiary activities के केंद्र होते हैं।"
+    },
+    {
+        "question": "Urban geography किस शाखा का भाग है?",
+        "options": [
+            "Human geography",
+            "Oceanography",
+            "Geomorphology",
+            "Climatology"
+        ],
+        "correct": 0,
+        "explanation": "Urban geography human geography का हिस्सा है।"
+    },
+    {
+        "question": "Urban models का मुख्य उद्देश्य क्या है?",
+        "options": [
+            "शहर की संरचना समझना",
+            "भूकम्प समझना",
+            "जलवायु समझना",
+            "महासागर समझना"
+        ],
+        "correct": 0,
+        "explanation": "Urban models city land use pattern समझाते हैं।"
+    },
+    {
+        "question": "Central Place Theory का मुख्य उद्देश्य क्या है?",
+        "options": [
+            "सेवाओं का वितरण समझाना",
+            "जलवायु परिवर्तन",
+            "भूकम्प",
+            "महासागर"
+        ],
+        "correct": 0,
+        "explanation": "यह settlements और services distribution को समझाता है।"
+    }
+]

@@ -1,0 +1,101 @@
+🌍 Topic 2: Population Geography
+📚 Notes (PGT Level)
+1️⃣ Population Geography की परिभाषा
+
+Population Geography मानव भूगोल की वह शाखा है जिसमें जनसंख्या के वितरण, घनत्व, संरचना, वृद्धि और प्रवास का अध्ययन किया जाता है।
+
+👉 प्रसिद्ध भूगोलवेत्ता G. T. Trewartha को Population Geography का जनक माना जाता है।
+
+2️⃣ Population Distribution (जनसंख्या वितरण)
+
+विश्व में जनसंख्या समान रूप से वितरित नहीं है।
+
+High Density Areas
+
+पूर्वी एशिया
+
+दक्षिण एशिया
+
+दक्षिण-पूर्व एशिया
+
+यूरोप
+
+Low Density Areas
+
+सहारा मरुस्थल
+
+अंटार्कटिका
+
+अमेजन क्षेत्र
+
+साइबेरिया
+
+3️⃣ Population Density (जनसंख्या घनत्व)
+
+जनसंख्या घनत्व =
+
+Population
+÷
+Area
+Population÷Area
+प्रकार
+
+1️⃣ Arithmetic Density
+कुल जनसंख्या / कुल क्षेत्रफल
+
+2️⃣ Physiological Density
+कुल जनसंख्या / कृषि योग्य भूमि
+
+3️⃣ Agricultural Density
+कृषि जनसंख्या / कृषि भूमि
+
+4️⃣ Malthus Population Theory
+
+👉 Thomas Robert Malthus (1798)
+
+मुख्य विचार
+
+जनसंख्या Geometric progression में बढ़ती है
+
+खाद्य उत्पादन Arithmetic progression में बढ़ता है
+
+परिणाम
+
+अकाल
+
+युद्ध
+
+महामारी
+
+5️⃣ Demographic Transition Model (DTM)
+
+यह मॉडल जनसंख्या वृद्धि के चरणों को दर्शाता है।
+
+Stage 1
+
+High birth rate + High death rate
+
+Stage 2
+
+High birth rate + Low death rate
+(Population explosion)
+
+Stage 3
+
+Low birth rate + Low death rate
+
+Stage 4
+
+Stable population
+
+6️⃣ Population Explosion
+
+जब जनसंख्या बहुत तेजी से बढ़ती है तो उसे population explosion कहते हैं।
+
+कारण
+
+मृत्यु दर में कमी
+
+चिकित्सा सुविधाएँ
+
+कृषि उत्पादन में वृद्धि

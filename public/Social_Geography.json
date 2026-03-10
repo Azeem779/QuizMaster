@@ -1,0 +1,332 @@
+[
+    {
+        "question": "Social geography किसका अध्ययन करती है?",
+        "options": [
+            "मानव समाज और सामाजिक संरचना",
+            "महासागर",
+            "भूकम्प",
+            "जलवायु"
+        ],
+        "correct": 0,
+        "explanation": "Social geography मानव समाज के spatial patterns का अध्ययन करती है।"
+    },
+    {
+        "question": "Human Development Index किस संस्था द्वारा जारी किया जाता है?",
+        "options": [
+            "UNDP",
+            "UNESCO",
+            "WHO",
+            "IMF"
+        ],
+        "correct": 0,
+        "explanation": "UNDP HDI जारी करता है।"
+    },
+    {
+        "question": "HDI का मान किस सीमा के बीच होता है?",
+        "options": [
+            "0 से 1",
+            "1 से 10",
+            "10 से 100",
+            "0 से 100"
+        ],
+        "correct": 0,
+        "explanation": "HDI value 0 और 1 के बीच होती है।"
+    },
+    {
+        "question": "Human development की अवधारणा किससे जुड़ी है?",
+        "options": [
+            "Mahbub ul Haq",
+            "Ratzel",
+            "Blache",
+            "Taylor"
+        ],
+        "correct": 0,
+        "explanation": "Mahbub ul Haq ने human development concept दिया।"
+    },
+    {
+        "question": "HDI का एक मुख्य घटक कौन-सा है?",
+        "options": [
+            "Life expectancy",
+            "Rainfall",
+            "Temperature",
+            "Ocean current"
+        ],
+        "correct": 0,
+        "explanation": "Life expectancy HDI का महत्वपूर्ण घटक है।"
+    },
+    {
+        "question": "HDI में शिक्षा का मापन किससे किया जाता है?",
+        "options": [
+            "Years of schooling",
+            "Rainfall",
+            "Temperature",
+            "खनिज"
+        ],
+        "correct": 0,
+        "explanation": "Education component schooling years से मापा जाता है।"
+    },
+    {
+        "question": "HDI में आय किससे मापी जाती है?",
+        "options": [
+            "GNI per capita",
+            "GDP growth",
+            "Export",
+            "Import"
+        ],
+        "correct": 0,
+        "explanation": "Income component GNI per capita से मापा जाता है।"
+    },
+    {
+        "question": "Gender Inequality Index किससे संबंधित है?",
+        "options": [
+            "लैंगिक असमानता",
+            "जलवायु",
+            "महासागर",
+            "भूकम्प"
+        ],
+        "correct": 0,
+        "explanation": "GII महिलाओं और पुरुषों के बीच असमानता को मापता है।"
+    },
+    {
+        "question": "Life expectancy का अर्थ क्या है?",
+        "options": [
+            "औसत जीवन अवधि",
+            "औसत आय",
+            "औसत शिक्षा",
+            "औसत जनसंख्या"
+        ],
+        "correct": 0,
+        "explanation": "Life expectancy average life span को दर्शाता है।"
+    },
+    {
+        "question": "Infant mortality rate क्या दर्शाता है?",
+        "options": [
+            "शिशु मृत्यु दर",
+            "जनसंख्या घनत्व",
+            "जन्म दर",
+            "प्रवास दर"
+        ],
+        "correct": 0,
+        "explanation": "Infant mortality rate शिशुओं की मृत्यु दर को दर्शाता है।"
+    },
+    {
+        "question": "Literacy rate किससे संबंधित है?",
+        "options": [
+            "शिक्षा स्तर",
+            "जलवायु",
+            "महासागर",
+            "खनिज"
+        ],
+        "correct": 0,
+        "explanation": "Literacy rate population की शिक्षा स्थिति दर्शाता है।"
+    },
+    {
+        "question": "Human development का मुख्य उद्देश्य क्या है?",
+        "options": [
+            "जीवन स्तर सुधार",
+            "खनिज उत्पादन",
+            "भूकम्प अध्ययन",
+            "महासागर अध्ययन"
+        ],
+        "correct": 0,
+        "explanation": "Human development लोगों की life quality बढ़ाने पर केंद्रित है।"
+    },
+    {
+        "question": "Social indicators किसका मापन करते हैं?",
+        "options": [
+            "सामाजिक विकास",
+            "भूकम्प",
+            "जलवायु",
+            "महासागर"
+        ],
+        "correct": 0,
+        "explanation": "Social indicators development level दर्शाते हैं।"
+    },
+    {
+        "question": "Gender equality किससे संबंधित है?",
+        "options": [
+            "महिला-पुरुष समानता",
+            "जलवायु",
+            "खनिज",
+            "महासागर"
+        ],
+        "correct": 0,
+        "explanation": "Gender equality men और women के समान अधिकारों को दर्शाती है।"
+    },
+    {
+        "question": "HDI में स्वास्थ्य का मापन किससे होता है?",
+        "options": [
+            "Life expectancy",
+            "Birth rate",
+            "Death rate",
+            "Migration"
+        ],
+        "correct": 0,
+        "explanation": "Health component life expectancy से मापा जाता है।"
+    },
+    {
+        "question": "Human Development Report कौन जारी करता है?",
+        "options": [
+            "UNDP",
+            "WHO",
+            "IMF",
+            "UNESCO"
+        ],
+        "correct": 0,
+        "explanation": "UNDP Human Development Report प्रकाशित करता है।"
+    },
+    {
+        "question": "Social geography किस शाखा का भाग है?",
+        "options": [
+            "Human geography",
+            "Oceanography",
+            "Geomorphology",
+            "Climatology"
+        ],
+        "correct": 0,
+        "explanation": "Social geography human geography की शाखा है।"
+    },
+    {
+        "question": "Quality of life किससे संबंधित है?",
+        "options": [
+            "जीवन स्तर",
+            "भूकम्प",
+            "महासागर",
+            "जलवायु"
+        ],
+        "correct": 0,
+        "explanation": "Quality of life living conditions दर्शाती है।"
+    },
+    {
+        "question": "HDI किस प्रकार का सूचकांक है?",
+        "options": [
+            "संयुक्त सूचकांक",
+            "जलवायु सूचकांक",
+            "महासागर सूचकांक",
+            "खनिज सूचकांक"
+        ],
+        "correct": 0,
+        "explanation": "HDI composite index है।"
+    },
+    {
+        "question": "Human development concept किस वर्ष popular हुआ?",
+        "options": [
+            "1990",
+            "1950",
+            "1970",
+            "2000"
+        ],
+        "correct": 0,
+        "explanation": "1990 में पहला Human Development Report आया।"
+    },
+    {
+        "question": "Gender inequality index किस रिपोर्ट में प्रकाशित होता है?",
+        "options": [
+            "Human Development Report",
+            "World Bank Report",
+            "IMF Report",
+            "WHO Report"
+        ],
+        "correct": 0,
+        "explanation": "GII Human Development Report में आता है।"
+    },
+    {
+        "question": "Social geography में inequality किससे संबंधित है?",
+        "options": [
+            "सामाजिक असमानता",
+            "जलवायु",
+            "महासागर",
+            "भूकम्प"
+        ],
+        "correct": 0,
+        "explanation": "Social geography social inequality का अध्ययन करती है।"
+    },
+    {
+        "question": "Human development किसका विस्तार है?",
+        "options": [
+            "मानव क्षमताओं का विकास",
+            "खनिज विकास",
+            "औद्योगिक विकास",
+            "जलवायु विकास"
+        ],
+        "correct": 0,
+        "explanation": "Human development capabilities expansion है।"
+    },
+    {
+        "question": "Education HDI का कौन-सा घटक है?",
+        "options": [
+            "मुख्य घटक",
+            "अप्रमुख",
+            "आर्थिक घटक",
+            "पर्यावरण घटक"
+        ],
+        "correct": 0,
+        "explanation": "Education HDI का प्रमुख component है।"
+    },
+    {
+        "question": "Income component HDI में किससे जुड़ा है?",
+        "options": [
+            "GNI per capita",
+            "GDP growth",
+            "Population density",
+            "Migration"
+        ],
+        "correct": 0,
+        "explanation": "Income GNI per capita से मापा जाता है।"
+    },
+    {
+        "question": "Human development किस प्रकार के विकास को दर्शाता है?",
+        "options": [
+            "मानव केंद्रित विकास",
+            "औद्योगिक विकास",
+            "खनिज विकास",
+            "जलवायु विकास"
+        ],
+        "correct": 0,
+        "explanation": "Human development people-centered approach है।"
+    },
+    {
+        "question": "Low HDI वाले देश कहाँ अधिक पाए जाते हैं?",
+        "options": [
+            "अफ्रीका",
+            "यूरोप",
+            "अमेरिका",
+            "ऑस्ट्रेलिया"
+        ],
+        "correct": 0,
+        "explanation": "Africa में कई countries का HDI कम है।"
+    },
+    {
+        "question": "High HDI वाले देश कहाँ अधिक पाए जाते हैं?",
+        "options": [
+            "यूरोप",
+            "अफ्रीका",
+            "दक्षिण एशिया",
+            "मध्य एशिया"
+        ],
+        "correct": 0,
+        "explanation": "Europe में HDI high है।"
+    },
+    {
+        "question": "Social geography किस प्रकार का अध्ययन है?",
+        "options": [
+            "स्थानिक सामाजिक अध्ययन",
+            "भौतिक अध्ययन",
+            "रासायनिक अध्ययन",
+            "महासागर अध्ययन"
+        ],
+        "correct": 0,
+        "explanation": "Social geography spatial social patterns का अध्ययन करती है।"
+    },
+    {
+        "question": "Human development का अंतिम लक्ष्य क्या है?",
+        "options": [
+            "मानव कल्याण",
+            "खनिज उत्पादन",
+            "भूकम्प अध्ययन",
+            "जलवायु अध्ययन"
+        ],
+        "correct": 0,
+        "explanation": "Human development का उद्देश्य human welfare है।"
+    }
+]

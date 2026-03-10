@@ -1,0 +1,332 @@
+[
+    {
+        "question": "Population Geography का जनक किसे माना जाता है?",
+        "options": [
+            "G. T. Trewartha",
+            "Malthus",
+            "Ratzel",
+            "Blache"
+        ],
+        "correct": 0,
+        "explanation": "G. T. Trewartha को Population Geography का जनक माना जाता है।"
+    },
+    {
+        "question": "विश्व का सबसे अधिक जनसंख्या वाला देश कौन-सा है?",
+        "options": [
+            "भारत",
+            "चीन",
+            "अमेरिका",
+            "इंडोनेशिया"
+        ],
+        "correct": 0,
+        "explanation": "वर्तमान में भारत विश्व का सबसे अधिक जनसंख्या वाला देश है।"
+    },
+    {
+        "question": "जनसंख्या वितरण को सबसे अधिक प्रभावित करने वाला कारक क्या है?",
+        "options": [
+            "जलवायु",
+            "खनिज",
+            "मिट्टी",
+            "भूकम्प"
+        ],
+        "correct": 0,
+        "explanation": "अनुकूल जलवायु वाले क्षेत्रों में जनसंख्या अधिक होती है।"
+    },
+    {
+        "question": "Arithmetic density किससे संबंधित है?",
+        "options": [
+            "कुल जनसंख्या / कुल क्षेत्रफल",
+            "कृषि भूमि",
+            "कृषि जनसंख्या",
+            "उद्योग"
+        ],
+        "correct": 0,
+        "explanation": "Arithmetic density कुल जनसंख्या और कुल क्षेत्रफल के अनुपात को दर्शाती है।"
+    },
+    {
+        "question": "Physiological density किससे संबंधित है?",
+        "options": [
+            "जनसंख्या और कृषि योग्य भूमि",
+            "जनसंख्या और उद्योग",
+            "जनसंख्या और जलवायु",
+            "जनसंख्या और व्यापार"
+        ],
+        "correct": 0,
+        "explanation": "Physiological density जनसंख्या और कृषि भूमि के अनुपात को दर्शाती है।"
+    },
+    {
+        "question": "Malthus Population Theory किस वर्ष प्रकाशित हुई?",
+        "options": [
+            "1798",
+            "1800",
+            "1850",
+            "1900"
+        ],
+        "correct": 0,
+        "explanation": "Malthus ने 1798 में अपनी जनसंख्या सिद्धांत प्रकाशित की।"
+    },
+    {
+        "question": "Malthus के अनुसार जनसंख्या किस प्रकार बढ़ती है?",
+        "options": [
+            "Geometric progression",
+            "Arithmetic progression",
+            "Linear",
+            "Random"
+        ],
+        "correct": 0,
+        "explanation": "Malthus के अनुसार population geometric progression में बढ़ती है।"
+    },
+    {
+        "question": "खाद्य उत्पादन Malthus के अनुसार किस प्रकार बढ़ता है?",
+        "options": [
+            "Arithmetic progression",
+            "Geometric progression",
+            "Linear",
+            "Exponential"
+        ],
+        "correct": 0,
+        "explanation": "Malthus के अनुसार food supply arithmetic progression में बढ़ती है।"
+    },
+    {
+        "question": "Demographic Transition Model किससे संबंधित है?",
+        "options": [
+            "जनसंख्या वृद्धि के चरण",
+            "जलवायु परिवर्तन",
+            "औद्योगिक विकास",
+            "भूकम्प"
+        ],
+        "correct": 0,
+        "explanation": "DTM जनसंख्या वृद्धि के चरणों को दर्शाता है।"
+    },
+    {
+        "question": "Population explosion किस चरण में अधिक होती है?",
+        "options": [
+            "Stage 2",
+            "Stage 1",
+            "Stage 3",
+            "Stage 4"
+        ],
+        "correct": 0,
+        "explanation": "DTM के दूसरे चरण में जनसंख्या तेजी से बढ़ती है।"
+    },
+    {
+        "question": "विश्व का सबसे कम जनसंख्या घनत्व कहाँ पाया जाता है?",
+        "options": [
+            "अंटार्कटिका",
+            "यूरोप",
+            "दक्षिण एशिया",
+            "पूर्वी एशिया"
+        ],
+        "correct": 0,
+        "explanation": "Antarctica में स्थायी जनसंख्या नहीं है।"
+    },
+    {
+        "question": "जनसंख्या घनत्व का अध्ययन किस शाखा में किया जाता है?",
+        "options": [
+            "Population Geography",
+            "Geomorphology",
+            "Climatology",
+            "Oceanography"
+        ],
+        "correct": 0,
+        "explanation": "Population geography में density का अध्ययन होता है।"
+    },
+    {
+        "question": "कृषि जनसंख्या और कृषि भूमि का अनुपात क्या कहलाता है?",
+        "options": [
+            "Agricultural density",
+            "Arithmetic density",
+            "Physiological density",
+            "Population growth"
+        ],
+        "correct": 0,
+        "explanation": "Agricultural density किसानों की संख्या और कृषि भूमि का अनुपात है।"
+    },
+    {
+        "question": "विश्व का सबसे अधिक जनसंख्या घनत्व किस क्षेत्र में पाया जाता है?",
+        "options": [
+            "दक्षिण एशिया",
+            "सहारा",
+            "अंटार्कटिका",
+            "ग्रीनलैंड"
+        ],
+        "correct": 0,
+        "explanation": "South Asia में population density बहुत अधिक है।"
+    },
+    {
+        "question": "जनसंख्या वृद्धि का मुख्य कारण क्या है?",
+        "options": [
+            "मृत्यु दर में कमी",
+            "जलवायु परिवर्तन",
+            "भूकम्प",
+            "खनिज"
+        ],
+        "correct": 0,
+        "explanation": "Medical facilities से death rate कम होने पर population बढ़ती है।"
+    },
+    {
+        "question": "Population Geography किसका अध्ययन करती है?",
+        "options": [
+            "जनसंख्या वितरण",
+            "ज्वालामुखी",
+            "भूकम्प",
+            "समुद्री धाराएँ"
+        ],
+        "correct": 0,
+        "explanation": "Population geography जनसंख्या के spatial distribution का अध्ययन करती है।"
+    },
+    {
+        "question": "DTM का चौथा चरण किसे दर्शाता है?",
+        "options": [
+            "स्थिर जनसंख्या",
+            "तेजी से वृद्धि",
+            "अत्यधिक मृत्यु दर",
+            "अकाल"
+        ],
+        "correct": 0,
+        "explanation": "Stage 4 में birth rate और death rate दोनों कम होते हैं।"
+    },
+    {
+        "question": "जनसंख्या विस्फोट मुख्यतः किस महाद्वीप में अधिक देखा जाता है?",
+        "options": [
+            "एशिया",
+            "यूरोप",
+            "ऑस्ट्रेलिया",
+            "अंटार्कटिका"
+        ],
+        "correct": 0,
+        "explanation": "Asia में population growth तेजी से हुई है।"
+    },
+    {
+        "question": "जनसंख्या अध्ययन में 'Census' का क्या अर्थ है?",
+        "options": [
+            "जनसंख्या गणना",
+            "भूकम्प अध्ययन",
+            "जलवायु अध्ययन",
+            "खनिज सर्वेक्षण"
+        ],
+        "correct": 0,
+        "explanation": "Census population count को कहते हैं।"
+    },
+    {
+        "question": "जनसंख्या का असमान वितरण किस कारण होता है?",
+        "options": [
+            "प्राकृतिक और आर्थिक कारक",
+            "केवल जलवायु",
+            "केवल मिट्टी",
+            "केवल उद्योग"
+        ],
+        "correct": 0,
+        "explanation": "Population distribution कई कारकों पर निर्भर करता है।"
+    },
+    {
+        "question": "विश्व की जनसंख्या का सबसे बड़ा भाग किस महाद्वीप में रहता है?",
+        "options": [
+            "एशिया",
+            "अफ्रीका",
+            "यूरोप",
+            "अमेरिका"
+        ],
+        "correct": 0,
+        "explanation": "Asia में विश्व की लगभग 60% जनसंख्या रहती है।"
+    },
+    {
+        "question": "जनसंख्या घनत्व का सूत्र क्या है?",
+        "options": [
+            "Population ÷ Area",
+            "Area ÷ Population",
+            "Population × Area",
+            "Population + Area"
+        ],
+        "correct": 0,
+        "explanation": "Density population divided by area होता है।"
+    },
+    {
+        "question": "जनसंख्या अध्ययन का सबसे महत्वपूर्ण स्रोत क्या है?",
+        "options": [
+            "Census",
+            "Satellite",
+            "Radar",
+            "GPS"
+        ],
+        "correct": 0,
+        "explanation": "Census population data का प्रमुख स्रोत है।"
+    },
+    {
+        "question": "विश्व की लगभग कितनी जनसंख्या एशिया में रहती है?",
+        "options": [
+            "लगभग 60%",
+            "20%",
+            "30%",
+            "40%"
+        ],
+        "correct": 0,
+        "explanation": "Asia सबसे अधिक आबादी वाला महाद्वीप है।"
+    },
+    {
+        "question": "जनसंख्या वृद्धि दर किससे मापी जाती है?",
+        "options": [
+            "Birth rate और death rate",
+            "तापमान",
+            "दाब",
+            "वर्षा"
+        ],
+        "correct": 0,
+        "explanation": "Population growth rate जन्म और मृत्यु दर पर आधारित होती है।"
+    },
+    {
+        "question": "Birth rate का अर्थ क्या है?",
+        "options": [
+            "प्रति 1000 जनसंख्या जन्म",
+            "प्रति 1000 मृत्यु",
+            "प्रति 1000 प्रवास",
+            "प्रति 1000 विवाह"
+        ],
+        "correct": 0,
+        "explanation": "Birth rate प्रति 1000 जनसंख्या जन्म को दर्शाता है।"
+    },
+    {
+        "question": "Death rate का अर्थ क्या है?",
+        "options": [
+            "प्रति 1000 जनसंख्या मृत्यु",
+            "प्रति 1000 जन्म",
+            "प्रति 1000 प्रवास",
+            "प्रति 1000 विवाह"
+        ],
+        "correct": 0,
+        "explanation": "Death rate प्रति 1000 जनसंख्या मृत्यु को दर्शाता है।"
+    },
+    {
+        "question": "Population Geography किस प्रकार का अध्ययन है?",
+        "options": [
+            "स्थानिक अध्ययन",
+            "भौतिक अध्ययन",
+            "रासायनिक अध्ययन",
+            "गणितीय अध्ययन"
+        ],
+        "correct": 0,
+        "explanation": "Population geography spatial distribution का अध्ययन करती है।"
+    },
+    {
+        "question": "जनसंख्या वृद्धि का मुख्य चरण कौन-सा है?",
+        "options": [
+            "DTM Stage 2",
+            "Stage 1",
+            "Stage 3",
+            "Stage 4"
+        ],
+        "correct": 0,
+        "explanation": "Stage 2 में population growth सबसे अधिक होती है।"
+    },
+    {
+        "question": "जनसंख्या का अध्ययन मानव भूगोल की किस शाखा में किया जाता है?",
+        "options": [
+            "Population Geography",
+            "Cultural Geography",
+            "Economic Geography",
+            "Urban Geography"
+        ],
+        "correct": 0,
+        "explanation": "Population Geography जनसंख्या का अध्ययन करती है।"
+    }
+]

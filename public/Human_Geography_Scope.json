@@ -1,0 +1,332 @@
+[
+    {
+        "question": "मानव भूगोल का जनक किसे माना जाता है?",
+        "options": [
+            "Friedrich Ratzel",
+            "Carl Ritter",
+            "Vidal de la Blache",
+            "Ellen Semple"
+        ],
+        "correct": 0,
+        "explanation": "Friedrich Ratzel को मानव भूगोल का जनक माना जाता है।"
+    },
+    {
+        "question": "मानव भूगोल का मुख्य अध्ययन किससे संबंधित है?",
+        "options": [
+            "मानव और पर्यावरण का संबंध",
+            "केवल स्थलरूप",
+            "केवल जलवायु",
+            "केवल महासागर"
+        ],
+        "correct": 0,
+        "explanation": "Human geography पृथ्वी की सतह पर मानव और पर्यावरण के पारस्परिक संबंधों का अध्ययन करती है।"
+    },
+    {
+        "question": "पर्यावरण निर्धारणवाद (Determinism) का प्रमुख समर्थक कौन था?",
+        "options": [
+            "Friedrich Ratzel",
+            "Carl Sauer",
+            "Vidal de la Blache",
+            "Griffith Taylor"
+        ],
+        "correct": 0,
+        "explanation": "Ratzel ने Determinism सिद्धांत का समर्थन किया।"
+    },
+    {
+        "question": "Possibilism सिद्धांत का प्रतिपादन किसने किया?",
+        "options": [
+            "Vidal de la Blache",
+            "Ratzel",
+            "Huntington",
+            "Taylor"
+        ],
+        "correct": 0,
+        "explanation": "Vidal de la Blache ने Possibilism सिद्धांत दिया।"
+    },
+    {
+        "question": "Neo-determinism सिद्धांत किस विद्वान से संबंधित है?",
+        "options": [
+            "Griffith Taylor",
+            "Ratzel",
+            "Semple",
+            "Humboldt"
+        ],
+        "correct": 0,
+        "explanation": "Griffith Taylor ने Neo-determinism सिद्धांत दिया।"
+    },
+    {
+        "question": "“Man is a product of the earth's surface” कथन किसका है?",
+        "options": [
+            "Ellen Semple",
+            "Ratzel",
+            "Blache",
+            "Taylor"
+        ],
+        "correct": 0,
+        "explanation": "यह कथन Ellen Churchill Semple का है।"
+    },
+    {
+        "question": "Cultural landscape की अवधारणा किसने दी?",
+        "options": [
+            "Carl Sauer",
+            "Ratzel",
+            "Blache",
+            "Taylor"
+        ],
+        "correct": 0,
+        "explanation": "Carl Sauer ने cultural landscape की अवधारणा दी।"
+    },
+    {
+        "question": "Possibilism के अनुसार मानव की भूमिका क्या है?",
+        "options": [
+            "पर्यावरण के विकल्प चुनना",
+            "पर्यावरण के अधीन रहना",
+            "प्रकृति द्वारा नियंत्रित होना",
+            "प्रकृति से अलग रहना"
+        ],
+        "correct": 0,
+        "explanation": "Possibilism में मानव को सक्रिय और विकल्प चुनने वाला माना गया है।"
+    },
+    {
+        "question": "Determinism सिद्धांत के अनुसार मानव क्या है?",
+        "options": [
+            "पर्यावरण का उत्पाद",
+            "प्रकृति का नियंत्रक",
+            "स्वतंत्र इकाई",
+            "तकनीक का परिणाम"
+        ],
+        "correct": 0,
+        "explanation": "Determinism के अनुसार मानव गतिविधियाँ पर्यावरण द्वारा नियंत्रित होती हैं।"
+    },
+    {
+        "question": "Neo-determinism को और किस नाम से जाना जाता है?",
+        "options": [
+            "Stop and go determinism",
+            "Environmental control",
+            "Human dominance",
+            "Natural balance"
+        ],
+        "correct": 0,
+        "explanation": "Neo-determinism को stop and go determinism कहा जाता है।"
+    },
+    {
+        "question": "मानव भूगोल का प्रमुख उद्देश्य क्या है?",
+        "options": [
+            "मानव और पर्यावरण संबंधों का अध्ययन",
+            "केवल स्थलरूप अध्ययन",
+            "केवल जलवायु अध्ययन",
+            "केवल महासागर अध्ययन"
+        ],
+        "correct": 0,
+        "explanation": "Human geography मानव-पर्यावरण अंतःक्रिया का अध्ययन करती है।"
+    },
+    {
+        "question": "किस विद्वान ने मानव भूगोल को वैज्ञानिक स्वरूप दिया?",
+        "options": [
+            "Ratzel",
+            "Humboldt",
+            "Ritter",
+            "Taylor"
+        ],
+        "correct": 0,
+        "explanation": "Ratzel ने मानव भूगोल को वैज्ञानिक रूप दिया।"
+    },
+    {
+        "question": "Possibilism का मुख्य विचार क्या है?",
+        "options": [
+            "मानव पर्यावरण में विकल्प चुन सकता है",
+            "मानव पूरी तरह प्रकृति पर निर्भर है",
+            "प्रकृति मानव को नियंत्रित करती है",
+            "मानव प्रकृति को बदल नहीं सकता"
+        ],
+        "correct": 0,
+        "explanation": "Possibilism में मानव को पर्यावरण के भीतर विकल्प चुनने वाला माना गया है।"
+    },
+    {
+        "question": "मानव भूगोल में ‘Region’ का अर्थ क्या है?",
+        "options": [
+            "विशिष्ट विशेषताओं वाला क्षेत्र",
+            "केवल पर्वतीय क्षेत्र",
+            "केवल नदी क्षेत्र",
+            "केवल रेगिस्तान"
+        ],
+        "correct": 0,
+        "explanation": "Region समान भौगोलिक विशेषताओं वाला क्षेत्र होता है।"
+    },
+    {
+        "question": "मानव भूगोल किस शाखा से विकसित हुआ?",
+        "options": [
+            "भौगोलिक अध्ययन",
+            "जीव विज्ञान",
+            "भौतिकी",
+            "रसायन"
+        ],
+        "correct": 0,
+        "explanation": "Human geography भूगोल की एक प्रमुख शाखा है।"
+    },
+    {
+        "question": "मानव भूगोल में संस्कृति का अध्ययन किससे संबंधित है?",
+        "options": [
+            "Cultural geography",
+            "Physical geography",
+            "Oceanography",
+            "Climatology"
+        ],
+        "correct": 0,
+        "explanation": "Cultural geography में मानव संस्कृति का अध्ययन किया जाता है।"
+    },
+    {
+        "question": "मानव भूगोल के विकास में किस देश के विद्वानों का योगदान प्रमुख रहा?",
+        "options": [
+            "जर्मनी और फ्रांस",
+            "भारत और चीन",
+            "जापान और कोरिया",
+            "ब्राजील और अर्जेंटीना"
+        ],
+        "correct": 0,
+        "explanation": "Human geography के विकास में German और French geographers का योगदान प्रमुख रहा।"
+    },
+    {
+        "question": "मानव भूगोल में ‘Human ecology’ किससे संबंधित है?",
+        "options": [
+            "मानव और पर्यावरण संबंध",
+            "वनस्पति अध्ययन",
+            "जलवायु अध्ययन",
+            "समुद्री अध्ययन"
+        ],
+        "correct": 0,
+        "explanation": "Human ecology मानव और पर्यावरण के पारस्परिक संबंधों का अध्ययन है।"
+    },
+    {
+        "question": "मानव भूगोल का संबंध किससे अधिक है?",
+        "options": [
+            "सामाजिक विज्ञान",
+            "भौतिक विज्ञान",
+            "रसायन विज्ञान",
+            "गणित"
+        ],
+        "correct": 0,
+        "explanation": "Human geography सामाजिक विज्ञानों से अधिक संबंधित है।"
+    },
+    {
+        "question": "कौन-सा सिद्धांत मानव की सक्रिय भूमिका को स्वीकार करता है?",
+        "options": [
+            "Possibilism",
+            "Determinism",
+            "Environmentalism",
+            "Climatology"
+        ],
+        "correct": 0,
+        "explanation": "Possibilism मानव की सक्रिय भूमिका को स्वीकार करता है।"
+    },
+    {
+        "question": "Determinism का दूसरा नाम क्या है?",
+        "options": [
+            "Environmental determinism",
+            "Human control",
+            "Natural balance",
+            "Social control"
+        ],
+        "correct": 0,
+        "explanation": "Determinism को Environmental determinism भी कहा जाता है।"
+    },
+    {
+        "question": "मानव भूगोल का आधुनिक दृष्टिकोण किस पर आधारित है?",
+        "options": [
+            "मानव-पर्यावरण अंतःक्रिया",
+            "केवल पर्यावरण",
+            "केवल मानव",
+            "केवल तकनीक"
+        ],
+        "correct": 0,
+        "explanation": "Modern human geography interaction approach पर आधारित है।"
+    },
+    {
+        "question": "मानव भूगोल में ‘Spatial distribution’ का अर्थ क्या है?",
+        "options": [
+            "घटनाओं का स्थानिक वितरण",
+            "तापमान का वितरण",
+            "वर्षा का वितरण",
+            "दाब का वितरण"
+        ],
+        "correct": 0,
+        "explanation": "Spatial distribution का अर्थ घटनाओं के स्थानिक फैलाव से है।"
+    },
+    {
+        "question": "मानव भूगोल का अध्ययन किस पैमाने पर किया जा सकता है?",
+        "options": [
+            "स्थानीय से वैश्विक स्तर तक",
+            "केवल स्थानीय",
+            "केवल राष्ट्रीय",
+            "केवल महाद्वीपीय"
+        ],
+        "correct": 0,
+        "explanation": "Human geography local से global स्तर तक अध्ययन करता है।"
+    },
+    {
+        "question": "मानव भूगोल का संबंध किस गतिविधि से है?",
+        "options": [
+            "मानव गतिविधियाँ",
+            "भूकम्प",
+            "ज्वालामुखी",
+            "महासागर धाराएँ"
+        ],
+        "correct": 0,
+        "explanation": "Human geography मानव गतिविधियों का अध्ययन करता है।"
+    },
+    {
+        "question": "मानव भूगोल में ‘Interaction’ का अर्थ क्या है?",
+        "options": [
+            "मानव और पर्यावरण के बीच संबंध",
+            "केवल मानव संबंध",
+            "केवल प्राकृतिक संबंध",
+            "केवल सांस्कृतिक संबंध"
+        ],
+        "correct": 0,
+        "explanation": "Interaction मानव और पर्यावरण के बीच पारस्परिक संबंध को दर्शाता है।"
+    },
+    {
+        "question": "मानव भूगोल का एक प्रमुख घटक कौन-सा है?",
+        "options": [
+            "जनसंख्या",
+            "ज्वालामुखी",
+            "भूकम्प",
+            "समुद्री धाराएँ"
+        ],
+        "correct": 0,
+        "explanation": "Population human geography का महत्वपूर्ण घटक है।"
+    },
+    {
+        "question": "मानव भूगोल में तकनीक का महत्व क्या है?",
+        "options": [
+            "मानव पर्यावरण को संशोधित कर सकता है",
+            "कोई प्रभाव नहीं",
+            "केवल कृषि तक सीमित",
+            "केवल उद्योग तक सीमित"
+        ],
+        "correct": 0,
+        "explanation": "Technology मानव को पर्यावरण को बदलने में मदद करती है।"
+    },
+    {
+        "question": "मानव भूगोल का अध्ययन किस दृष्टिकोण से किया जाता है?",
+        "options": [
+            "स्थानिक और पारस्परिक",
+            "केवल स्थानिक",
+            "केवल ऐतिहासिक",
+            "केवल आर्थिक"
+        ],
+        "correct": 0,
+        "explanation": "Human geography spatial और interactional approach पर आधारित है।"
+    },
+    {
+        "question": "मानव भूगोल का मुख्य विषय क्या है?",
+        "options": [
+            "मानव और पृथ्वी की सतह का संबंध",
+            "केवल स्थलाकृति",
+            "केवल महासागर",
+            "केवल जलवायु"
+        ],
+        "correct": 0,
+        "explanation": "Human geography मानव और पृथ्वी की सतह के संबंध का अध्ययन करती है।"
+    }
+]

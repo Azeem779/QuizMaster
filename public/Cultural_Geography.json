@@ -1,0 +1,332 @@
+[
+    {
+        "question": "Cultural Geography किसका अध्ययन करती है?",
+        "options": [
+            "संस्कृति के स्थानिक वितरण",
+            "भूकम्प",
+            "महासागर",
+            "जलवायु"
+        ],
+        "correct": 0,
+        "explanation": "Cultural geography संस्कृति और उसके spatial distribution का अध्ययन करती है।"
+    },
+    {
+        "question": "Cultural landscape की अवधारणा किसने दी?",
+        "options": [
+            "Carl Sauer",
+            "Ratzel",
+            "Blache",
+            "Taylor"
+        ],
+        "correct": 0,
+        "explanation": "Carl Sauer ने cultural landscape concept दिया।"
+    },
+    {
+        "question": "संस्कृति का मुख्य तत्व क्या है?",
+        "options": [
+            "भाषा",
+            "मिट्टी",
+            "खनिज",
+            "जलवायु"
+        ],
+        "correct": 0,
+        "explanation": "Language culture का महत्वपूर्ण भाग है।"
+    },
+    {
+        "question": "विश्व का सबसे बड़ा भाषा परिवार कौन-सा है?",
+        "options": [
+            "Indo-European",
+            "Sino-Tibetan",
+            "Afro-Asiatic",
+            "Niger-Congo"
+        ],
+        "correct": 0,
+        "explanation": "Indo-European सबसे बड़ा भाषा परिवार है।"
+    },
+    {
+        "question": "Mandarin किस भाषा परिवार से संबंधित है?",
+        "options": [
+            "Sino-Tibetan",
+            "Indo-European",
+            "Afro-Asiatic",
+            "Dravidian"
+        ],
+        "correct": 0,
+        "explanation": "Mandarin Sino-Tibetan family से संबंधित है।"
+    },
+    {
+        "question": "विश्व का सबसे बड़ा धर्म कौन-सा है?",
+        "options": [
+            "Christianity",
+            "Islam",
+            "Hinduism",
+            "Buddhism"
+        ],
+        "correct": 0,
+        "explanation": "Christianity followers की संख्या सबसे अधिक है।"
+    },
+    {
+        "question": "Islam धर्म का पवित्र ग्रंथ क्या है?",
+        "options": [
+            "Quran",
+            "Bible",
+            "Vedas",
+            "Tripitaka"
+        ],
+        "correct": 0,
+        "explanation": "Quran इस्लाम का पवित्र ग्रंथ है।"
+    },
+    {
+        "question": "Hinduism मुख्यतः किस क्षेत्र में पाया जाता है?",
+        "options": [
+            "भारत",
+            "यूरोप",
+            "अफ्रीका",
+            "अमेरिका"
+        ],
+        "correct": 0,
+        "explanation": "Hinduism मुख्यतः भारत में पाया जाता है।"
+    },
+    {
+        "question": "Buddhism की उत्पत्ति कहाँ हुई?",
+        "options": [
+            "भारत",
+            "चीन",
+            "जापान",
+            "कोरिया"
+        ],
+        "correct": 0,
+        "explanation": "Buddhism की उत्पत्ति भारत में हुई।"
+    },
+    {
+        "question": "Judaism धर्म मुख्यतः किस समुदाय से संबंधित है?",
+        "options": [
+            "यहूदी",
+            "हिंदू",
+            "ईसाई",
+            "मुस्लिम"
+        ],
+        "correct": 0,
+        "explanation": "Judaism Jewish community का धर्म है।"
+    },
+    {
+        "question": "Language geography किससे संबंधित है?",
+        "options": [
+            "भाषाओं का वितरण",
+            "जलवायु",
+            "महासागर",
+            "भूकम्प"
+        ],
+        "correct": 0,
+        "explanation": "Language geography भाषाओं के spatial distribution का अध्ययन करती है।"
+    },
+    {
+        "question": "Cultural region का अर्थ क्या है?",
+        "options": [
+            "समान सांस्कृतिक विशेषताओं वाला क्षेत्र",
+            "केवल पर्वतीय क्षेत्र",
+            "केवल रेगिस्तान",
+            "केवल नदी क्षेत्र"
+        ],
+        "correct": 0,
+        "explanation": "Cultural regions में समान cultural traits होते हैं।"
+    },
+    {
+        "question": "Latin America किस प्रकार का cultural region है?",
+        "options": [
+            "भाषाई और सांस्कृतिक क्षेत्र",
+            "जलवायु क्षेत्र",
+            "महासागर क्षेत्र",
+            "खनिज क्षेत्र"
+        ],
+        "correct": 0,
+        "explanation": "Latin America cultural similarities के कारण एक region है।"
+    },
+    {
+        "question": "विश्व में Islam के अनुयायी सबसे अधिक कहाँ हैं?",
+        "options": [
+            "Middle East",
+            "Europe",
+            "Australia",
+            "South America"
+        ],
+        "correct": 0,
+        "explanation": "Middle East में Islam followers अधिक हैं।"
+    },
+    {
+        "question": "Culture किसका परिणाम है?",
+        "options": [
+            "मानव गतिविधियाँ",
+            "जलवायु",
+            "भूकम्प",
+            "ज्वालामुखी"
+        ],
+        "correct": 0,
+        "explanation": "Culture मानव समाज की गतिविधियों से विकसित होती है।"
+    },
+    {
+        "question": "Cultural diffusion क्या है?",
+        "options": [
+            "संस्कृति का प्रसार",
+            "भूकम्प",
+            "जलवायु परिवर्तन",
+            "महासागर धारा"
+        ],
+        "correct": 0,
+        "explanation": "Cultural diffusion culture के फैलाव को कहते हैं।"
+    },
+    {
+        "question": "Cultural hearth का अर्थ क्या है?",
+        "options": [
+            "संस्कृति का उद्गम स्थान",
+            "भूकम्प क्षेत्र",
+            "रेगिस्तान",
+            "समुद्र"
+        ],
+        "correct": 0,
+        "explanation": "Cultural hearth culture का origin होता है।"
+    },
+    {
+        "question": "Cultural geography किस शाखा का भाग है?",
+        "options": [
+            "Human geography",
+            "Oceanography",
+            "Geomorphology",
+            "Climatology"
+        ],
+        "correct": 0,
+        "explanation": "Cultural geography human geography की शाखा है।"
+    },
+    {
+        "question": "World religion का उदाहरण कौन-सा है?",
+        "options": [
+            "Christianity",
+            "Tribal religion",
+            "Folk religion",
+            "Local religion"
+        ],
+        "correct": 0,
+        "explanation": "Christianity world religion है।"
+    },
+    {
+        "question": "Ethnic group किससे संबंधित है?",
+        "options": [
+            "साझा संस्कृति",
+            "जलवायु",
+            "महासागर",
+            "खनिज"
+        ],
+        "correct": 0,
+        "explanation": "Ethnic groups shared culture से जुड़े होते हैं।"
+    },
+    {
+        "question": "Culture का स्थानिक अध्ययन किसमें होता है?",
+        "options": [
+            "Cultural geography",
+            "Physical geography",
+            "Oceanography",
+            "Climatology"
+        ],
+        "correct": 0,
+        "explanation": "Cultural geography spatial study करती है।"
+    },
+    {
+        "question": "Language cultural identity का क्या करती है?",
+        "options": [
+            "प्रतिनिधित्व",
+            "नष्ट",
+            "समाप्त",
+            "कम"
+        ],
+        "correct": 0,
+        "explanation": "Language cultural identity का महत्वपूर्ण हिस्सा है।"
+    },
+    {
+        "question": "Cultural diversity का अर्थ क्या है?",
+        "options": [
+            "विभिन्न संस्कृतियों की उपस्थिति",
+            "एक संस्कृति",
+            "कोई संस्कृति नहीं",
+            "समान संस्कृति"
+        ],
+        "correct": 0,
+        "explanation": "Cultural diversity कई संस्कृतियों की उपस्थिति को दर्शाती है।"
+    },
+    {
+        "question": "Religion geography किसका अध्ययन करती है?",
+        "options": [
+            "धर्म का वितरण",
+            "जलवायु",
+            "महासागर",
+            "भूकम्प"
+        ],
+        "correct": 0,
+        "explanation": "Religion geography religions के spatial distribution का अध्ययन करती है।"
+    },
+    {
+        "question": "Cultural landscape किससे बनता है?",
+        "options": [
+            "मानव और प्रकृति की अंतःक्रिया",
+            "केवल प्रकृति",
+            "केवल मानव",
+            "केवल जलवायु"
+        ],
+        "correct": 0,
+        "explanation": "Human-environment interaction cultural landscape बनाती है।"
+    },
+    {
+        "question": "विश्व का दूसरा सबसे बड़ा धर्म कौन-सा है?",
+        "options": [
+            "Islam",
+            "Christianity",
+            "Hinduism",
+            "Buddhism"
+        ],
+        "correct": 0,
+        "explanation": "Islam followers की संख्या में दूसरा बड़ा धर्म है।"
+    },
+    {
+        "question": "Dravidian भाषा परिवार मुख्यतः कहाँ पाया जाता है?",
+        "options": [
+            "दक्षिण भारत",
+            "यूरोप",
+            "अफ्रीका",
+            "अमेरिका"
+        ],
+        "correct": 0,
+        "explanation": "Dravidian languages दक्षिण भारत में पाई जाती हैं।"
+    },
+    {
+        "question": "Cultural geography का मुख्य उद्देश्य क्या है?",
+        "options": [
+            "संस्कृति का स्थानिक अध्ययन",
+            "भूकम्प अध्ययन",
+            "महासागर अध्ययन",
+            "जलवायु अध्ययन"
+        ],
+        "correct": 0,
+        "explanation": "Cultural geography culture के spatial patterns का अध्ययन करती है।"
+    },
+    {
+        "question": "Folk culture किससे संबंधित है?",
+        "options": [
+            "स्थानीय परंपराएँ",
+            "वैश्विक संस्कृति",
+            "औद्योगिक संस्कृति",
+            "शहरी संस्कृति"
+        ],
+        "correct": 0,
+        "explanation": "Folk culture local traditions से संबंधित होती है।"
+    },
+    {
+        "question": "Popular culture का प्रसार कैसे होता है?",
+        "options": [
+            "मीडिया और तकनीक",
+            "कृषि",
+            "खनिज",
+            "वन"
+        ],
+        "correct": 0,
+        "explanation": "Popular culture media और technology से फैलती है।"
+    }
+]

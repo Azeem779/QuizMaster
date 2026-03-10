@@ -1,0 +1,332 @@
+[
+    {
+        "question": "Human settlement का अर्थ क्या है?",
+        "options": [
+            "मानव का स्थायी निवास स्थान",
+            "केवल कृषि भूमि",
+            "केवल उद्योग क्षेत्र",
+            "केवल व्यापार केंद्र"
+        ],
+        "correct": 0,
+        "explanation": "Human settlement वह स्थान है जहाँ लोग स्थायी रूप से रहते हैं।"
+    },
+    {
+        "question": "ग्रामीण बस्तियों की मुख्य विशेषता क्या है?",
+        "options": [
+            "कृषि आधारित अर्थव्यवस्था",
+            "औद्योगिक विकास",
+            "उच्च जनसंख्या घनत्व",
+            "व्यापार केंद्र"
+        ],
+        "correct": 0,
+        "explanation": "Rural settlements मुख्यतः कृषि गतिविधियों पर आधारित होती हैं।"
+    },
+    {
+        "question": "Urban settlement की मुख्य विशेषता क्या है?",
+        "options": [
+            "उद्योग और सेवा गतिविधियाँ",
+            "कृषि गतिविधियाँ",
+            "वन आधारित अर्थव्यवस्था",
+            "खनिज आधारित अर्थव्यवस्था"
+        ],
+        "correct": 0,
+        "explanation": "Urban settlements में secondary और tertiary activities अधिक होती हैं।"
+    },
+    {
+        "question": "Dispersed settlement क्या है?",
+        "options": [
+            "घर दूर-दूर स्थित होते हैं",
+            "घर एक समूह में होते हैं",
+            "नदी के किनारे होते हैं",
+            "पहाड़ पर होते हैं"
+        ],
+        "correct": 0,
+        "explanation": "Dispersed settlement में घर अलग-अलग होते हैं।"
+    },
+    {
+        "question": "Nucleated settlement क्या है?",
+        "options": [
+            "घर समूह में होते हैं",
+            "घर दूर होते हैं",
+            "घर सड़क किनारे होते हैं",
+            "घर पहाड़ पर होते हैं"
+        ],
+        "correct": 0,
+        "explanation": "Nucleated settlement में घर पास-पास होते हैं।"
+    },
+    {
+        "question": "Linear settlement कहाँ विकसित होते हैं?",
+        "options": [
+            "नदी या सड़क के किनारे",
+            "रेगिस्तान",
+            "पर्वत शिखर",
+            "घने जंगल"
+        ],
+        "correct": 0,
+        "explanation": "Linear settlements roads या rivers के साथ बनते हैं।"
+    },
+    {
+        "question": "Site का अर्थ क्या है?",
+        "options": [
+            "बस्ती का भौतिक स्थान",
+            "बस्ती का व्यापार",
+            "बस्ती की जनसंख्या",
+            "बस्ती का उद्योग"
+        ],
+        "correct": 0,
+        "explanation": "Site उस स्थान को कहते हैं जहाँ settlement स्थित है।"
+    },
+    {
+        "question": "Situation का अर्थ क्या है?",
+        "options": [
+            "अन्य क्षेत्रों से संबंध",
+            "केवल भूमि",
+            "केवल जलवायु",
+            "केवल संसाधन"
+        ],
+        "correct": 0,
+        "explanation": "Situation आसपास के क्षेत्रों के साथ संबंध को दर्शाता है।"
+    },
+    {
+        "question": "Primate city की अवधारणा किसने दी?",
+        "options": [
+            "Mark Jefferson",
+            "Zipf",
+            "Ratzel",
+            "Blache"
+        ],
+        "correct": 0,
+        "explanation": "Mark Jefferson ने primate city concept दिया।"
+    },
+    {
+        "question": "Primate city क्या होती है?",
+        "options": [
+            "सबसे बड़ा और प्रभावशाली शहर",
+            "सबसे छोटा शहर",
+            "औद्योगिक गाँव",
+            "कृषि नगर"
+        ],
+        "correct": 0,
+        "explanation": "Primate city अन्य शहरों से बहुत बड़ी होती है।"
+    },
+    {
+        "question": "Rank size rule किससे संबंधित है?",
+        "options": [
+            "शहरों का आकार वितरण",
+            "जलवायु वितरण",
+            "जनसंख्या वृद्धि",
+            "कृषि उत्पादन"
+        ],
+        "correct": 0,
+        "explanation": "Rank size rule शहरों के आकार के वितरण को दर्शाता है।"
+    },
+    {
+        "question": "Rank size rule किसने दिया?",
+        "options": [
+            "Zipf",
+            "Jefferson",
+            "Ratzel",
+            "Taylor"
+        ],
+        "correct": 0,
+        "explanation": "Zipf ने rank size rule दिया।"
+    },
+    {
+        "question": "Urbanization का अर्थ क्या है?",
+        "options": [
+            "शहरी जनसंख्या वृद्धि",
+            "ग्रामीण विकास",
+            "कृषि वृद्धि",
+            "खनिज विकास"
+        ],
+        "correct": 0,
+        "explanation": "Urbanization शहरों की जनसंख्या वृद्धि को दर्शाता है।"
+    },
+    {
+        "question": "Settlement geography किससे संबंधित है?",
+        "options": [
+            "मानव बस्तियों का अध्ययन",
+            "महासागर अध्ययन",
+            "जलवायु अध्ययन",
+            "भूकम्प अध्ययन"
+        ],
+        "correct": 0,
+        "explanation": "Settlement geography मानव बस्तियों का अध्ययन करती है।"
+    },
+    {
+        "question": "Rural settlement में प्रमुख गतिविधि क्या है?",
+        "options": [
+            "कृषि",
+            "उद्योग",
+            "सेवा",
+            "व्यापार"
+        ],
+        "correct": 0,
+        "explanation": "Rural settlements agriculture आधारित होती हैं।"
+    },
+    {
+        "question": "Urban settlements में कौन-सी गतिविधि अधिक होती है?",
+        "options": [
+            "उद्योग और सेवाएँ",
+            "कृषि",
+            "वन",
+            "खनिज"
+        ],
+        "correct": 0,
+        "explanation": "Urban settlements tertiary activities पर आधारित होती हैं।"
+    },
+    {
+        "question": "Clustered settlement का दूसरा नाम क्या है?",
+        "options": [
+            "Nucleated settlement",
+            "Dispersed settlement",
+            "Linear settlement",
+            "Isolated settlement"
+        ],
+        "correct": 0,
+        "explanation": "Clustered settlement को nucleated settlement भी कहते हैं।"
+    },
+    {
+        "question": "Settlement pattern किससे प्रभावित होता है?",
+        "options": [
+            "भौतिक और आर्थिक कारक",
+            "केवल जलवायु",
+            "केवल मिट्टी",
+            "केवल उद्योग"
+        ],
+        "correct": 0,
+        "explanation": "Settlement pattern कई कारकों पर निर्भर करता है।"
+    },
+    {
+        "question": "Urban hierarchy किससे संबंधित है?",
+        "options": [
+            "शहरों का क्रम और महत्व",
+            "जनसंख्या वृद्धि",
+            "कृषि उत्पादन",
+            "खनिज वितरण"
+        ],
+        "correct": 0,
+        "explanation": "Urban hierarchy शहरों की ranking को दर्शाता है।"
+    },
+    {
+        "question": "Mega city किसे कहते हैं?",
+        "options": [
+            "10 मिलियन से अधिक जनसंख्या वाला शहर",
+            "5 मिलियन शहर",
+            "1 मिलियन शहर",
+            "100000 शहर"
+        ],
+        "correct": 0,
+        "explanation": "Mega city की जनसंख्या 10 million से अधिक होती है।"
+    },
+    {
+        "question": "Settlement के विकास का प्रमुख कारण क्या है?",
+        "options": [
+            "जल स्रोत",
+            "भूकम्प",
+            "ज्वालामुखी",
+            "रेगिस्तान"
+        ],
+        "correct": 0,
+        "explanation": "Water availability settlements के विकास में महत्वपूर्ण है।"
+    },
+    {
+        "question": "ग्रामीण बस्तियाँ अधिकतर कहाँ विकसित होती हैं?",
+        "options": [
+            "उपजाऊ भूमि",
+            "रेगिस्तान",
+            "हिम क्षेत्र",
+            "समुद्र तल"
+        ],
+        "correct": 0,
+        "explanation": "Fertile land rural settlements के लिए उपयुक्त होती है।"
+    },
+    {
+        "question": "Urban settlement की विशेषता क्या है?",
+        "options": [
+            "उच्च जनसंख्या घनत्व",
+            "कम जनसंख्या",
+            "कृषि आधारित",
+            "जंगल आधारित"
+        ],
+        "correct": 0,
+        "explanation": "Urban areas में population density अधिक होती है।"
+    },
+    {
+        "question": "Town और village में मुख्य अंतर क्या है?",
+        "options": [
+            "आर्थिक गतिविधियाँ",
+            "भूकम्प",
+            "जलवायु",
+            "पर्वत"
+        ],
+        "correct": 0,
+        "explanation": "Town में secondary और tertiary activities अधिक होती हैं।"
+    },
+    {
+        "question": "Settlement geography मानव भूगोल की किस शाखा का भाग है?",
+        "options": [
+            "Human geography",
+            "Oceanography",
+            "Climatology",
+            "Geomorphology"
+        ],
+        "correct": 0,
+        "explanation": "Settlement geography human geography का हिस्सा है।"
+    },
+    {
+        "question": "Urban growth का मुख्य कारण क्या है?",
+        "options": [
+            "औद्योगीकरण",
+            "भूकम्प",
+            "ज्वालामुखी",
+            "समुद्री धाराएँ"
+        ],
+        "correct": 0,
+        "explanation": "Industrialization urban growth को बढ़ाता है।"
+    },
+    {
+        "question": "World का सबसे बड़ा mega city कौन-सा है?",
+        "options": [
+            "Tokyo",
+            "Delhi",
+            "Shanghai",
+            "New York"
+        ],
+        "correct": 0,
+        "explanation": "Tokyo विश्व का सबसे बड़ा महानगर है।"
+    },
+    {
+        "question": "Settlement pattern का अध्ययन किसमें किया जाता है?",
+        "options": [
+            "Settlement geography",
+            "Population geography",
+            "Oceanography",
+            "Climatology"
+        ],
+        "correct": 0,
+        "explanation": "Settlement geography settlement patterns का अध्ययन करती है।"
+    },
+    {
+        "question": "Urban settlements में प्रमुख समस्या क्या होती है?",
+        "options": [
+            "भीड़भाड़",
+            "कम जनसंख्या",
+            "कृषि कमी",
+            "खनिज कमी"
+        ],
+        "correct": 0,
+        "explanation": "Urban areas में congestion और pollution समस्याएँ होती हैं।"
+    },
+    {
+        "question": "Settlement का विकास किस पर निर्भर करता है?",
+        "options": [
+            "जल, भूमि और संसाधन",
+            "केवल जलवायु",
+            "केवल उद्योग",
+            "केवल व्यापार"
+        ],
+        "correct": 0,
+        "explanation": "Water, land और resources settlements के विकास को प्रभावित करते हैं।"
+    }
+]

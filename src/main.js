@@ -97,8 +97,21 @@ notesStartQuizBtn.addEventListener("click", () => {
 });
 
 // Topic selection
+// Topic selection (Regular)
 topicSelect.addEventListener("change", (e) => {
   state.selectedTopic = e.target.value;
+  $("topicSelect100").value = ""; // Reset the other dropdown
+  updateTopicSelection();
+});
+
+// Topic selection (100 Ques Series)
+$("topicSelect100").addEventListener("change", (e) => {
+  state.selectedTopic = e.target.value;
+  topicSelect.value = ""; // Reset the regular dropdown
+  updateTopicSelection();
+});
+
+function updateTopicSelection() {
   updateHighScoreDisplay();
 
   // Show/hide notes button based on topic
@@ -108,7 +121,7 @@ topicSelect.addEventListener("change", (e) => {
   } else {
     notesBtn.classList.add("hidden");
   }
-});
+}
 
 // Theme toggle
 themeToggle.addEventListener("click", () => {

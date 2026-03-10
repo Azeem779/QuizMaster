@@ -1,0 +1,332 @@
+[
+    {
+        "question": "Economic geography किसका अध्ययन करती है?",
+        "options": [
+            "आर्थिक गतिविधियों का वितरण",
+            "भूकम्प",
+            "महासागर",
+            "जलवायु"
+        ],
+        "correct": 0,
+        "explanation": "Economic geography economic activities के spatial distribution का अध्ययन करती है।"
+    },
+    {
+        "question": "Von Thünen theory किससे संबंधित है?",
+        "options": [
+            "कृषि स्थान सिद्धांत",
+            "औद्योगिक स्थान",
+            "महासागर",
+            "जलवायु"
+        ],
+        "correct": 0,
+        "explanation": "Von Thünen theory agricultural location को समझाती है।"
+    },
+    {
+        "question": "Von Thünen theory किसने दी?",
+        "options": [
+            "Johann Heinrich Von Thünen",
+            "Alfred Weber",
+            "Christaller",
+            "Burgess"
+        ],
+        "correct": 0,
+        "explanation": "Von Thünen ने 1826 में यह सिद्धांत दिया।"
+    },
+    {
+        "question": "Von Thünen model किस पर आधारित है?",
+        "options": [
+            "बाजार से दूरी",
+            "जलवायु",
+            "खनिज",
+            "नदी"
+        ],
+        "correct": 0,
+        "explanation": "Agricultural land use market distance पर निर्भर करता है।"
+    },
+    {
+        "question": "Weber industrial location theory किससे संबंधित है?",
+        "options": [
+            "उद्योग स्थान",
+            "कृषि स्थान",
+            "महासागर",
+            "जलवायु"
+        ],
+        "correct": 0,
+        "explanation": "Weber theory industries के location को समझाती है।"
+    },
+    {
+        "question": "Weber theory किसने दी?",
+        "options": [
+            "Alfred Weber",
+            "Thünen",
+            "Christaller",
+            "Taylor"
+        ],
+        "correct": 0,
+        "explanation": "Alfred Weber ने industrial location theory दी।"
+    },
+    {
+        "question": "Weber theory का मुख्य कारक कौन-सा है?",
+        "options": [
+            "Transport cost",
+            "Rainfall",
+            "Temperature",
+            "Ocean current"
+        ],
+        "correct": 0,
+        "explanation": "Transport cost industry location का प्रमुख कारक है।"
+    },
+    {
+        "question": "Agglomeration का अर्थ क्या है?",
+        "options": [
+            "उद्योगों का समूह",
+            "कृषि विकास",
+            "भूकम्प",
+            "महासागर"
+        ],
+        "correct": 0,
+        "explanation": "Agglomeration industries के clustering को कहते हैं।"
+    },
+    {
+        "question": "Agglomeration का लाभ क्या है?",
+        "options": [
+            "कम लागत",
+            "अधिक लागत",
+            "कम उत्पादन",
+            "कम श्रम"
+        ],
+        "correct": 0,
+        "explanation": "Industries cluster होने से cost कम होती है।"
+    },
+    {
+        "question": "Resource geography किससे संबंधित है?",
+        "options": [
+            "संसाधनों का अध्ययन",
+            "भूकम्प",
+            "जलवायु",
+            "महासागर"
+        ],
+        "correct": 0,
+        "explanation": "Resource geography natural resources का अध्ययन करती है।"
+    },
+    {
+        "question": "Renewable resource का उदाहरण कौन-सा है?",
+        "options": [
+            "सौर ऊर्जा",
+            "कोयला",
+            "पेट्रोलियम",
+            "गैस"
+        ],
+        "correct": 0,
+        "explanation": "Solar energy renewable resource है।"
+    },
+    {
+        "question": "Non-renewable resource का उदाहरण कौन-सा है?",
+        "options": [
+            "कोयला",
+            "सौर ऊर्जा",
+            "पवन ऊर्जा",
+            "जल ऊर्जा"
+        ],
+        "correct": 0,
+        "explanation": "Coal non-renewable resource है।"
+    },
+    {
+        "question": "Primary economic activity का उदाहरण क्या है?",
+        "options": [
+            "कृषि",
+            "उद्योग",
+            "व्यापार",
+            "सेवा"
+        ],
+        "correct": 0,
+        "explanation": "Agriculture primary activity है।"
+    },
+    {
+        "question": "Secondary economic activity का उदाहरण क्या है?",
+        "options": [
+            "उद्योग",
+            "कृषि",
+            "मछली पकड़ना",
+            "खनन"
+        ],
+        "correct": 0,
+        "explanation": "Manufacturing secondary activity है।"
+    },
+    {
+        "question": "Tertiary activity का उदाहरण क्या है?",
+        "options": [
+            "सेवाएँ",
+            "कृषि",
+            "खनन",
+            "वन"
+        ],
+        "correct": 0,
+        "explanation": "Services tertiary sector का भाग हैं।"
+    },
+    {
+        "question": "Quaternary activities किससे संबंधित हैं?",
+        "options": [
+            "ज्ञान आधारित सेवाएँ",
+            "कृषि",
+            "उद्योग",
+            "खनन"
+        ],
+        "correct": 0,
+        "explanation": "Research और information services quaternary activities हैं।"
+    },
+    {
+        "question": "Transport geography किससे संबंधित है?",
+        "options": [
+            "परिवहन नेटवर्क",
+            "भूकम्प",
+            "महासागर",
+            "जलवायु"
+        ],
+        "correct": 0,
+        "explanation": "Transport geography transportation systems का अध्ययन करती है।"
+    },
+    {
+        "question": "Trade geography किससे संबंधित है?",
+        "options": [
+            "व्यापार वितरण",
+            "भूकम्प",
+            "महासागर",
+            "जलवायु"
+        ],
+        "correct": 0,
+        "explanation": "Trade geography trade patterns का अध्ययन करती है।"
+    },
+    {
+        "question": "Industrial region का उदाहरण कौन-सा है?",
+        "options": [
+            "Ruhr region",
+            "Sahara",
+            "Amazon",
+            "Arctic"
+        ],
+        "correct": 0,
+        "explanation": "Ruhr Germany का प्रमुख industrial region है।"
+    },
+    {
+        "question": "Industrialization का अर्थ क्या है?",
+        "options": [
+            "उद्योगों का विकास",
+            "कृषि विकास",
+            "भूकम्प",
+            "महासागर"
+        ],
+        "correct": 0,
+        "explanation": "Industrialization industries growth को दर्शाता है।"
+    },
+    {
+        "question": "Economic geography किस शाखा का भाग है?",
+        "options": [
+            "Human geography",
+            "Oceanography",
+            "Geomorphology",
+            "Climatology"
+        ],
+        "correct": 0,
+        "explanation": "Economic geography human geography की शाखा है।"
+    },
+    {
+        "question": "Market orientation का अर्थ क्या है?",
+        "options": [
+            "बाजार के पास उद्योग",
+            "खनिज के पास उद्योग",
+            "नदी के पास उद्योग",
+            "जंगल के पास उद्योग"
+        ],
+        "correct": 0,
+        "explanation": "Market oriented industries market के पास होती हैं।"
+    },
+    {
+        "question": "Raw material orientation का अर्थ क्या है?",
+        "options": [
+            "कच्चे माल के पास उद्योग",
+            "बाजार के पास उद्योग",
+            "नदी के पास उद्योग",
+            "शहर में उद्योग"
+        ],
+        "correct": 0,
+        "explanation": "Raw material oriented industries resources के पास होती हैं।"
+    },
+    {
+        "question": "Footloose industry का उदाहरण क्या है?",
+        "options": [
+            "IT industry",
+            "Steel industry",
+            "Coal industry",
+            "Cement industry"
+        ],
+        "correct": 0,
+        "explanation": "IT industry location independent होती है।"
+    },
+    {
+        "question": "Industrial location का मुख्य उद्देश्य क्या है?",
+        "options": [
+            "लागत कम करना",
+            "उत्पादन कम करना",
+            "श्रम कम करना",
+            "बाजार कम करना"
+        ],
+        "correct": 0,
+        "explanation": "Industries cost minimization चाहती हैं।"
+    },
+    {
+        "question": "Economic activities का मुख्य उद्देश्य क्या है?",
+        "options": [
+            "मानव आवश्यकताओं की पूर्ति",
+            "भूकम्प अध्ययन",
+            "महासागर अध्ययन",
+            "जलवायु अध्ययन"
+        ],
+        "correct": 0,
+        "explanation": "Economic activities human needs fulfill करती हैं।"
+    },
+    {
+        "question": "Transport cost किस सिद्धांत में महत्वपूर्ण है?",
+        "options": [
+            "Weber theory",
+            "Ratzel theory",
+            "Christaller theory",
+            "Burgess model"
+        ],
+        "correct": 0,
+        "explanation": "Weber theory transport cost पर आधारित है।"
+    },
+    {
+        "question": "Agricultural land use किस सिद्धांत से समझाया जाता है?",
+        "options": [
+            "Von Thünen theory",
+            "Weber theory",
+            "Christaller theory",
+            "Burgess model"
+        ],
+        "correct": 0,
+        "explanation": "Von Thünen agricultural location theory है।"
+    },
+    {
+        "question": "Economic development किससे जुड़ा है?",
+        "options": [
+            "उत्पादन और आय वृद्धि",
+            "भूकम्प",
+            "महासागर",
+            "जलवायु"
+        ],
+        "correct": 0,
+        "explanation": "Economic development production और income बढ़ने से होता है।"
+    },
+    {
+        "question": "Economic geography का मुख्य उद्देश्य क्या है?",
+        "options": [
+            "आर्थिक गतिविधियों का स्थानिक अध्ययन",
+            "भूकम्प अध्ययन",
+            "महासागर अध्ययन",
+            "जलवायु अध्ययन"
+        ],
+        "correct": 0,
+        "explanation": "Economic geography economic patterns का spatial analysis करती है।"
+    }
+]

@@ -1,0 +1,1014 @@
+[
+    {
+        "question": "पृथ्वी को ऊर्जा का मुख्य स्रोत क्या है?",
+        "options": [
+            "सूर्य",
+            "पृथ्वी का आंतरिक ताप",
+            "चंद्रमा",
+            "समुद्र"
+        ],
+        "correct": 0,
+        "explanation": "पृथ्वी की जलवायु प्रणाली को ऊर्जा मुख्यतः सूर्य से प्राप्त होती है।"
+    },
+    {
+        "question": "सौर विकिरण का अधिकांश भाग किस तरंग दैर्ध्य में होता है?",
+        "options": [
+            "लघु तरंग",
+            "दीर्घ तरंग",
+            "माइक्रोवेव",
+            "रेडियो तरंग"
+        ],
+        "correct": 0,
+        "explanation": "सूर्य से आने वाला विकिरण मुख्यतः shortwave radiation होता है।"
+    },
+    {
+        "question": "पृथ्वी द्वारा उत्सर्जित विकिरण किस प्रकार का होता है?",
+        "options": [
+            "दीर्घ तरंग",
+            "लघु तरंग",
+            "अल्ट्रावायलेट",
+            "गामा"
+        ],
+        "correct": 0,
+        "explanation": "पृथ्वी longwave radiation उत्सर्जित करती है।"
+    },
+    {
+        "question": "पृथ्वी के ऊष्मा बजट का क्या अर्थ है?",
+        "options": [
+            "आने और जाने वाली ऊर्जा का संतुलन",
+            "केवल आने वाली ऊर्जा",
+            "केवल जाने वाली ऊर्जा",
+            "सौर धब्बे"
+        ],
+        "correct": 0,
+        "explanation": "Heat budget incoming और outgoing radiation के संतुलन को दर्शाता है।"
+    },
+    {
+        "question": "अल्बेडो क्या है?",
+        "options": [
+            "परावर्तित सौर ऊर्जा का प्रतिशत",
+            "तापमान",
+            "वायुदाब",
+            "आर्द्रता"
+        ],
+        "correct": 0,
+        "explanation": "Albedo किसी सतह द्वारा परावर्तित ऊर्जा का अनुपात है।"
+    },
+    {
+        "question": "सबसे अधिक अल्बेडो किसका होता है?",
+        "options": [
+            "बर्फ",
+            "वन",
+            "समुद्र",
+            "मिट्टी"
+        ],
+        "correct": 0,
+        "explanation": "Snow surface अधिक सौर विकिरण परावर्तित करती है।"
+    },
+    {
+        "question": "समताप रेखाएँ (Isotherms) क्या दर्शाती हैं?",
+        "options": [
+            "समान तापमान",
+            "समान वर्षा",
+            "समान दाब",
+            "समान ऊँचाई"
+        ],
+        "correct": 0,
+        "explanation": "Isotherms समान तापमान वाले स्थानों को जोड़ती हैं।"
+    },
+    {
+        "question": "तापमान को प्रभावित करने वाला प्रमुख कारक क्या है?",
+        "options": [
+            "अक्षांश",
+            "मिट्टी",
+            "खनिज",
+            "भूकम्प"
+        ],
+        "correct": 0,
+        "explanation": "Latitude तापमान वितरण को सबसे अधिक प्रभावित करता है।"
+    },
+    {
+        "question": "ऊँचाई बढ़ने पर तापमान का सामान्य परिवर्तन क्या होता है?",
+        "options": [
+            "घटता है",
+            "बढ़ता है",
+            "स्थिर रहता है",
+            "अचानक बढ़ता है"
+        ],
+        "correct": 0,
+        "explanation": "ऊँचाई बढ़ने पर सामान्य lapse rate के अनुसार तापमान घटता है।"
+    },
+    {
+        "question": "सामान्य lapse rate लगभग कितना होता है?",
+        "options": [
+            "6.5°C प्रति किमी",
+            "3°C प्रति किमी",
+            "10°C प्रति किमी",
+            "1°C प्रति किमी"
+        ],
+        "correct": 0,
+        "explanation": "औसतन तापमान 6.5°C प्रति किमी घटता है।"
+    },
+    {
+        "question": "तापमान प्रतिलोमन (Temperature inversion) क्या है?",
+        "options": [
+            "ऊँचाई के साथ तापमान बढ़ना",
+            "तापमान घटना",
+            "दाब घटना",
+            "आर्द्रता घटना"
+        ],
+        "correct": 0,
+        "explanation": "Inversion में सामान्य lapse rate उलट जाता है।"
+    },
+    {
+        "question": "तापमान प्रतिलोमन अधिकतर कहाँ होता है?",
+        "options": [
+            "घाटियों में",
+            "समुद्र में",
+            "रेगिस्तान में",
+            "पर्वत शिखरों पर"
+        ],
+        "correct": 0,
+        "explanation": "रात में ठंडी हवा घाटियों में जमा होकर inversion बनाती है।"
+    },
+    {
+        "question": "वायुदाब किससे मापा जाता है?",
+        "options": [
+            "बैरोमीटर",
+            "थर्मामीटर",
+            "हाइग्रोमीटर",
+            "एनिमोमीटर"
+        ],
+        "correct": 0,
+        "explanation": "Barometer वायुदाब मापने का उपकरण है।"
+    },
+    {
+        "question": "समदाब रेखाएँ (Isobars) क्या दर्शाती हैं?",
+        "options": [
+            "समान वायुदाब",
+            "समान तापमान",
+            "समान वर्षा",
+            "समान आर्द्रता"
+        ],
+        "correct": 0,
+        "explanation": "Isobars समान दाब वाले बिंदुओं को जोड़ती हैं।"
+    },
+    {
+        "question": "पृथ्वी पर सबसे बड़ा निम्न दाब क्षेत्र कहाँ है?",
+        "options": [
+            "भूमध्यरेखीय क्षेत्र",
+            "ध्रुवीय क्षेत्र",
+            "उपोष्ण क्षेत्र",
+            "मध्य अक्षांश"
+        ],
+        "correct": 0,
+        "explanation": "Equatorial low pressure zone में गर्म हवा ऊपर उठती है।"
+    },
+    {
+        "question": "हैडली सेल किससे संबंधित है?",
+        "options": [
+            "वैश्विक वायुमंडलीय परिसंचरण",
+            "समुद्री धाराएँ",
+            "भूकम्प",
+            "ज्वालामुखी"
+        ],
+        "correct": 0,
+        "explanation": "Hadley cell वैश्विक वायु परिसंचरण का भाग है।"
+    },
+    {
+        "question": "व्यापारिक पवनें किस दिशा में चलती हैं?",
+        "options": [
+            "उपोष्ण उच्च दाब से भूमध्यरेखा की ओर",
+            "ध्रुव से भूमध्यरेखा",
+            "भूमध्यरेखा से ध्रुव",
+            "समुद्र से स्थल"
+        ],
+        "correct": 0,
+        "explanation": "Trade winds subtropical highs से equator की ओर चलती हैं।"
+    },
+    {
+        "question": "जेट स्ट्रीम क्या है?",
+        "options": [
+            "उच्च गति वाली ऊपरी वायु धारा",
+            "समुद्री धारा",
+            "नदी धारा",
+            "वर्षा धारा"
+        ],
+        "correct": 0,
+        "explanation": "Jet streams ऊपरी वायुमंडल में तेज गति से चलती हैं।"
+    },
+    {
+        "question": "मानसून शब्द की उत्पत्ति किस भाषा से हुई है?",
+        "options": [
+            "अरबी",
+            "संस्कृत",
+            "लैटिन",
+            "ग्रीक"
+        ],
+        "correct": 0,
+        "explanation": "Monsoon शब्द अरबी 'Mausim' से निकला है।"
+    },
+    {
+        "question": "चक्रवात किस क्षेत्र में बनते हैं?",
+        "options": [
+            "निम्न दाब क्षेत्र",
+            "उच्च दाब क्षेत्र",
+            "स्थिर दाब क्षेत्र",
+            "ध्रुवीय क्षेत्र"
+        ],
+        "correct": 0,
+        "explanation": "Cyclones low pressure systems होते हैं।"
+    },
+    {
+        "question": "प्रतिचक्रवात की विशेषता क्या है?",
+        "options": [
+            "उच्च दाब केंद्र",
+            "निम्न दाब केंद्र",
+            "अत्यधिक वर्षा",
+            "तूफानी हवाएँ"
+        ],
+        "correct": 0,
+        "explanation": "Anticyclones उच्च दाब से जुड़े होते हैं।"
+    },
+    {
+        "question": "चक्रवातों की घूर्णन दिशा उत्तरी गोलार्ध में कैसी होती है?",
+        "options": [
+            "वामावर्त",
+            "दक्षिणावर्त",
+            "सीधी",
+            "अनियमित"
+        ],
+        "correct": 0,
+        "explanation": "Coriolis बल के कारण उत्तरी गोलार्ध में cyclones anticlockwise घूमते हैं।"
+    },
+    {
+        "question": "वर्षा का कौन-सा प्रकार पर्वतीय क्षेत्रों में अधिक होता है?",
+        "options": [
+            "ओरोग्राफिक वर्षा",
+            "संवहन वर्षा",
+            "चक्रवाती वर्षा",
+            "मौसमी वर्षा"
+        ],
+        "correct": 0,
+        "explanation": "Mountains के कारण हवा ऊपर उठती है और वर्षा होती है।"
+    },
+    {
+        "question": "संवहन वर्षा कहाँ अधिक होती है?",
+        "options": [
+            "भूमध्यरेखीय क्षेत्र",
+            "ध्रुवीय क्षेत्र",
+            "रेगिस्तान",
+            "मध्य अक्षांश"
+        ],
+        "correct": 0,
+        "explanation": "Equatorial regions में गर्म हवा ऊपर उठकर convection rainfall करती है।"
+    },
+    {
+        "question": "ग्रीनहाउस प्रभाव किस गैस से अधिक संबंधित है?",
+        "options": [
+            "CO₂",
+            "ऑक्सीजन",
+            "नाइट्रोजन",
+            "हीलियम"
+        ],
+        "correct": 0,
+        "explanation": "CO₂ ग्रीनहाउस प्रभाव की प्रमुख गैस है।"
+    },
+    {
+        "question": "ओजोन परत किस मंडल में होती है?",
+        "options": [
+            "समताप मंडल",
+            "क्षोभ मंडल",
+            "मेसोस्फीयर",
+            "थर्मोस्फीयर"
+        ],
+        "correct": 0,
+        "explanation": "Ozone layer stratosphere में होती है।"
+    },
+    {
+        "question": "क्षोभमंडल की औसत ऊँचाई कितनी होती है?",
+        "options": [
+            "8–18 किमी",
+            "50 किमी",
+            "100 किमी",
+            "500 किमी"
+        ],
+        "correct": 0,
+        "explanation": "Troposphere की ऊँचाई अक्षांश के अनुसार बदलती है।"
+    },
+    {
+        "question": "मौसम परिवर्तन मुख्यतः किस मंडल में होता है?",
+        "options": [
+            "क्षोभ मंडल",
+            "समताप मंडल",
+            "मेसोस्फीयर",
+            "थर्मोस्फीयर"
+        ],
+        "correct": 0,
+        "explanation": "Weather phenomena troposphere में होते हैं।"
+    },
+    {
+        "question": "एल नीनो किससे संबंधित है?",
+        "options": [
+            "प्रशांत महासागर का तापमान परिवर्तन",
+            "अटलांटिक धारा",
+            "भूकम्प",
+            "ज्वालामुखी"
+        ],
+        "correct": 0,
+        "explanation": "El Niño Pacific Ocean में तापमान वृद्धि से जुड़ा है।"
+    },
+    {
+        "question": "ला नीना क्या है?",
+        "options": [
+            "प्रशांत महासागर का ठंडा चरण",
+            "गरम चरण",
+            "चक्रवात",
+            "वर्षा प्रणाली"
+        ],
+        "correct": 0,
+        "explanation": "La Niña El Niño का विपरीत चरण है।"
+    },
+    {
+        "question": "कोरिओलिस बल का कारण क्या है?",
+        "options": [
+            "पृथ्वी का घूर्णन",
+            "पृथ्वी की परिक्रमा",
+            "सौर विकिरण",
+            "गुरुत्वाकर्षण"
+        ],
+        "correct": 0,
+        "explanation": "पृथ्वी के घूर्णन के कारण गतिमान वस्तुओं का मार्ग मुड़ जाता है जिसे कोरिओलिस बल कहते हैं।"
+    },
+    {
+        "question": "कोरिओलिस प्रभाव भूमध्य रेखा पर कैसा होता है?",
+        "options": [
+            "शून्य",
+            "अधिकतम",
+            "मध्यम",
+            "अनियमित"
+        ],
+        "correct": 0,
+        "explanation": "भूमध्य रेखा पर कोरिओलिस प्रभाव लगभग शून्य होता है।"
+    },
+    {
+        "question": "फेरेल सेल किस अक्षांश के बीच पाया जाता है?",
+        "options": [
+            "30°–60°",
+            "0°–30°",
+            "60°–90°",
+            "10°–20°"
+        ],
+        "correct": 0,
+        "explanation": "Ferrel Cell मध्य अक्षांशों में पाया जाता है।"
+    },
+    {
+        "question": "ध्रुवीय सेल किस क्षेत्र में होता है?",
+        "options": [
+            "60°–90° अक्षांश",
+            "0°–30°",
+            "30°–60°",
+            "10°–30°"
+        ],
+        "correct": 0,
+        "explanation": "Polar cell ध्रुवीय क्षेत्रों में पाया जाता है।"
+    },
+    {
+        "question": "स्थल और समुद्र के तापीय अंतर से बनने वाली हवा क्या कहलाती है?",
+        "options": [
+            "स्थल समीर और समुद्र समीर",
+            "व्यापारिक पवन",
+            "पश्चिमी पवन",
+            "ध्रुवीय पवन"
+        ],
+        "correct": 0,
+        "explanation": "दिन में समुद्र समीर और रात में स्थल समीर चलती है।"
+    },
+    {
+        "question": "फॉन (Foehn) पवन किस क्षेत्र में पाई जाती है?",
+        "options": [
+            "आल्प्स पर्वत",
+            "हिमालय",
+            "एंडीज",
+            "रॉकी"
+        ],
+        "correct": 0,
+        "explanation": "Foehn आल्प्स क्षेत्र की गर्म शुष्क पवन है।"
+    },
+    {
+        "question": "चिनूक पवन कहाँ चलती है?",
+        "options": [
+            "रॉकी पर्वत",
+            "हिमालय",
+            "एल्प्स",
+            "एंडीज"
+        ],
+        "correct": 0,
+        "explanation": "Chinook रॉकी पर्वत की गर्म शुष्क पवन है।"
+    },
+    {
+        "question": "लू किस प्रकार की पवन है?",
+        "options": [
+            "गर्म और शुष्क",
+            "ठंडी और नम",
+            "ठंडी और शुष्क",
+            "गर्म और नम"
+        ],
+        "correct": 0,
+        "explanation": "उत्तर भारत में गर्मियों में चलने वाली अत्यधिक गर्म हवा लू कहलाती है।"
+    },
+    {
+        "question": "सिरोको पवन किस क्षेत्र में चलती है?",
+        "options": [
+            "सहारा से भूमध्यसागर की ओर",
+            "आर्कटिक क्षेत्र",
+            "अंटार्कटिक क्षेत्र",
+            "अमेरिका"
+        ],
+        "correct": 0,
+        "explanation": "Sirocco सहारा से उठकर यूरोप की ओर चलती है।"
+    },
+    {
+        "question": "बोरा पवन किस प्रकार की होती है?",
+        "options": [
+            "ठंडी और शुष्क",
+            "गर्म और शुष्क",
+            "गर्म और नम",
+            "ठंडी और नम"
+        ],
+        "correct": 0,
+        "explanation": "Bora यूरोप में चलने वाली ठंडी शुष्क पवन है।"
+    },
+    {
+        "question": "मिस्ट्रल पवन कहाँ चलती है?",
+        "options": [
+            "फ्रांस",
+            "भारत",
+            "चीन",
+            "ब्राजील"
+        ],
+        "correct": 0,
+        "explanation": "Mistral फ्रांस की ठंडी और तेज़ पवन है।"
+    },
+    {
+        "question": "ITCZ का पूर्ण रूप क्या है?",
+        "options": [
+            "Inter Tropical Convergence Zone",
+            "International Tropical Climate Zone",
+            "Internal Tropical Current Zone",
+            "Inter Tropical Climate Zone"
+        ],
+        "correct": 0,
+        "explanation": "ITCZ वह क्षेत्र है जहाँ व्यापारिक पवनें मिलती हैं।"
+    },
+    {
+        "question": "ITCZ के क्षेत्र में सामान्यतः कौन-सा दाब पाया जाता है?",
+        "options": [
+            "निम्न दाब",
+            "उच्च दाब",
+            "स्थिर दाब",
+            "मध्यम दाब"
+        ],
+        "correct": 0,
+        "explanation": "ITCZ एक निम्न दाब क्षेत्र है।"
+    },
+    {
+        "question": "उपोष्ण उच्च दाब पट्टी किस अक्षांश पर पाई जाती है?",
+        "options": [
+            "लगभग 30°",
+            "0°",
+            "60°",
+            "90°"
+        ],
+        "correct": 0,
+        "explanation": "Subtropical highs लगभग 30° अक्षांश पर होते हैं।"
+    },
+    {
+        "question": "डोलड्रम्स क्या हैं?",
+        "options": [
+            "भूमध्यरेखीय शांत क्षेत्र",
+            "उच्च दाब क्षेत्र",
+            "ध्रुवीय क्षेत्र",
+            "पर्वतीय क्षेत्र"
+        ],
+        "correct": 0,
+        "explanation": "Equatorial calm belt को doldrums कहते हैं।"
+    },
+    {
+        "question": "हॉर्स लैटिट्यूड्स क्या हैं?",
+        "options": [
+            "उपोष्ण उच्च दाब क्षेत्र",
+            "निम्न दाब क्षेत्र",
+            "ध्रुवीय क्षेत्र",
+            "समुद्री क्षेत्र"
+        ],
+        "correct": 0,
+        "explanation": "30° अक्षांश के आसपास उच्च दाब क्षेत्र को horse latitudes कहते हैं।"
+    },
+    {
+        "question": "टॉर्नेडो किस प्रकार का तूफान है?",
+        "options": [
+            "अत्यधिक तीव्र घूर्णन तूफान",
+            "समुद्री तूफान",
+            "रेगिस्तानी तूफान",
+            "हिमानी तूफान"
+        ],
+        "correct": 0,
+        "explanation": "Tornado अत्यधिक तीव्र और संकीर्ण घूर्णन तूफान होता है।"
+    },
+    {
+        "question": "हरिकेन किस महासागर में अधिक आते हैं?",
+        "options": [
+            "अटलांटिक महासागर",
+            "हिंद महासागर",
+            "आर्कटिक महासागर",
+            "दक्षिणी महासागर"
+        ],
+        "correct": 0,
+        "explanation": "Hurricanes मुख्यतः Atlantic और Caribbean क्षेत्र में आते हैं।"
+    },
+    {
+        "question": "टाइफून किस क्षेत्र में आते हैं?",
+        "options": [
+            "पश्चिमी प्रशांत महासागर",
+            "अटलांटिक महासागर",
+            "हिंद महासागर",
+            "आर्कटिक महासागर"
+        ],
+        "correct": 0,
+        "explanation": "Typhoons पश्चिमी प्रशांत महासागर में आते हैं।"
+    },
+    {
+        "question": "सापेक्ष आर्द्रता क्या है?",
+        "options": [
+            "वायु में मौजूद जलवाष्प का प्रतिशत",
+            "वर्षा की मात्रा",
+            "तापमान",
+            "वायुदाब"
+        ],
+        "correct": 0,
+        "explanation": "Relative humidity वायु में जलवाष्प की मात्रा को प्रतिशत में दर्शाती है।"
+    },
+    {
+        "question": "आर्द्रता मापने का उपकरण क्या है?",
+        "options": [
+            "हाइग्रोमीटर",
+            "थर्मामीटर",
+            "बैरोमीटर",
+            "एनिमोमीटर"
+        ],
+        "correct": 0,
+        "explanation": "Hygrometer से आर्द्रता मापी जाती है।"
+    },
+    {
+        "question": "ओस बनने के लिए क्या आवश्यक है?",
+        "options": [
+            "तापमान का ओसांक तक गिरना",
+            "दाब बढ़ना",
+            "तापमान बढ़ना",
+            "पवन बढ़ना"
+        ],
+        "correct": 0,
+        "explanation": "Dew तब बनती है जब सतह का तापमान dew point तक पहुँचता है।"
+    },
+    {
+        "question": "ओसांक (Dew Point) क्या है?",
+        "options": [
+            "वह तापमान जिस पर वायु संतृप्त हो जाती है",
+            "वायुदाब",
+            "तापमान का औसत",
+            "वर्षा का स्तर"
+        ],
+        "correct": 0,
+        "explanation": "Dew point वह तापमान है जिस पर संघनन शुरू होता है।"
+    },
+    {
+        "question": "कोहरा क्या है?",
+        "options": [
+            "भूमि के पास बादल",
+            "ऊँचे बादल",
+            "बर्फीली हवा",
+            "वर्षा"
+        ],
+        "correct": 0,
+        "explanation": "Fog धरातल के पास बनने वाला बादल है।"
+    },
+    {
+        "question": "बादलों का वर्गीकरण किस आधार पर किया जाता है?",
+        "options": [
+            "ऊँचाई और आकृति",
+            "तापमान",
+            "दाब",
+            "आर्द्रता"
+        ],
+        "correct": 0,
+        "explanation": "Clouds को ऊँचाई और स्वरूप के आधार पर वर्गीकृत किया जाता है।"
+    },
+    {
+        "question": "क्यूम्यलस बादल किस प्रकार के होते हैं?",
+        "options": [
+            "फूले हुए और ऊँचे",
+            "पतले और हल्के",
+            "परतदार",
+            "घने वर्षा वाले"
+        ],
+        "correct": 0,
+        "explanation": "Cumulus बादल फूले हुए और ऊँचे दिखाई देते हैं।"
+    },
+    {
+        "question": "सिरस बादल किस ऊँचाई पर बनते हैं?",
+        "options": [
+            "ऊपरी वायुमंडल",
+            "मध्य वायुमंडल",
+            "निचले वायुमंडल",
+            "धरातल पर"
+        ],
+        "correct": 0,
+        "explanation": "Cirrus clouds ऊपरी स्तर पर बनते हैं।"
+    },
+    {
+        "question": "निम्बस बादल किससे जुड़े होते हैं?",
+        "options": [
+            "वर्षा",
+            "धूप",
+            "शुष्क मौसम",
+            "कोहरा"
+        ],
+        "correct": 0,
+        "explanation": "Nimbus clouds वर्षा लाते हैं।"
+    },
+    {
+        "question": "जलवायु का वर्गीकरण किसने किया?",
+        "options": [
+            "कोपेन",
+            "डैविस",
+            "वेगेनर",
+            "हटन"
+        ],
+        "correct": 0,
+        "explanation": "Wladimir Köppen ने climate classification दिया।"
+    },
+    {
+        "question": "कोपेन के अनुसार 'A' प्रकार की जलवायु क्या है?",
+        "options": [
+            "उष्णकटिबंधीय",
+            "शुष्क",
+            "समशीतोष्ण",
+            "ध्रुवीय"
+        ],
+        "correct": 0,
+        "explanation": "A climate tropical climate को दर्शाता है।"
+    },
+    {
+        "question": "व्यापारिक पवनें किस अक्षांशीय क्षेत्र में चलती हैं?",
+        "options": [
+            "30° से भूमध्य रेखा",
+            "60° से 90°",
+            "0° से 10°",
+            "45° से 60°"
+        ],
+        "correct": 0,
+        "explanation": "Trade winds subtropical high pressure से equator की ओर चलती हैं।"
+    },
+    {
+        "question": "पश्चिमी पवनें किस अक्षांशीय क्षेत्र में चलती हैं?",
+        "options": [
+            "30°–60°",
+            "0°–30°",
+            "60°–90°",
+            "10°–20°"
+        ],
+        "correct": 0,
+        "explanation": "Westerlies मध्य अक्षांशों में चलती हैं।"
+    },
+    {
+        "question": "ध्रुवीय पूर्वी पवनें किस अक्षांश में पाई जाती हैं?",
+        "options": [
+            "60°–90°",
+            "0°–30°",
+            "30°–60°",
+            "10°–30°"
+        ],
+        "correct": 0,
+        "explanation": "Polar easterlies ध्रुवीय क्षेत्रों में चलती हैं।"
+    },
+    {
+        "question": "ITCZ का पूर्ण रूप क्या है?",
+        "options": [
+            "Inter Tropical Convergence Zone",
+            "Internal Tropical Climate Zone",
+            "International Tropical Current Zone",
+            "Inter Tropical Climate Zone"
+        ],
+        "correct": 0,
+        "explanation": "ITCZ वह क्षेत्र है जहाँ trade winds मिलती हैं।"
+    },
+    {
+        "question": "डोलड्रम्स किस क्षेत्र को कहते हैं?",
+        "options": [
+            "भूमध्यरेखीय शांत क्षेत्र",
+            "उच्च दाब क्षेत्र",
+            "ध्रुवीय क्षेत्र",
+            "मरुस्थल"
+        ],
+        "correct": 0,
+        "explanation": "Equatorial calm belt को doldrums कहते हैं।"
+    },
+    {
+        "question": "Horse latitudes किस अक्षांश पर पाए जाते हैं?",
+        "options": [
+            "लगभग 30°",
+            "0°",
+            "60°",
+            "90°"
+        ],
+        "correct": 0,
+        "explanation": "Subtropical high pressure belt को horse latitudes कहते हैं।"
+    },
+    {
+        "question": "Jet stream क्या है?",
+        "options": [
+            "ऊपरी वायुमंडल की तेज़ पवन धारा",
+            "समुद्री धारा",
+            "नदी धारा",
+            "भूकम्प तरंग"
+        ],
+        "correct": 0,
+        "explanation": "Jet streams upper troposphere में तेज़ गति से चलती हैं।"
+    },
+    {
+        "question": "Jet stream किस ऊँचाई पर पाई जाती है?",
+        "options": [
+            "9–12 किमी",
+            "2–3 किमी",
+            "20 किमी",
+            "50 किमी"
+        ],
+        "correct": 0,
+        "explanation": "Jet streams troposphere के ऊपरी भाग में होती हैं।"
+    },
+    {
+        "question": "Monsoon शब्द किस भाषा से आया है?",
+        "options": [
+            "अरबी",
+            "संस्कृत",
+            "लैटिन",
+            "ग्रीक"
+        ],
+        "correct": 0,
+        "explanation": "'Mausim' अरबी शब्द से monsoon बना है।"
+    },
+    {
+        "question": "भारतीय मानसून किस कारण से प्रभावित होता है?",
+        "options": [
+            "ITCZ",
+            "भूकम्प",
+            "ज्वालामुखी",
+            "महासागर तल"
+        ],
+        "correct": 0,
+        "explanation": "ITCZ shift monsoon को प्रभावित करता है।"
+    },
+    {
+        "question": "चक्रवात का केंद्र किस प्रकार का दाब क्षेत्र होता है?",
+        "options": [
+            "निम्न दाब",
+            "उच्च दाब",
+            "स्थिर दाब",
+            "मध्यम दाब"
+        ],
+        "correct": 0,
+        "explanation": "Cyclone low pressure system होता है।"
+    },
+    {
+        "question": "प्रतिचक्रवात का केंद्र कैसा होता है?",
+        "options": [
+            "उच्च दाब",
+            "निम्न दाब",
+            "स्थिर दाब",
+            "कम तापमान"
+        ],
+        "correct": 0,
+        "explanation": "Anticyclone high pressure system होता है।"
+    },
+    {
+        "question": "उत्तरी गोलार्ध में चक्रवात किस दिशा में घूमते हैं?",
+        "options": [
+            "वामावर्त",
+            "दक्षिणावर्त",
+            "सीधे",
+            "अनियमित"
+        ],
+        "correct": 0,
+        "explanation": "Coriolis effect के कारण anticlockwise घूमते हैं।"
+    },
+    {
+        "question": "संवहन वर्षा कहाँ अधिक होती है?",
+        "options": [
+            "भूमध्यरेखीय क्षेत्र",
+            "ध्रुवीय क्षेत्र",
+            "मरुस्थल",
+            "मध्य अक्षांश"
+        ],
+        "correct": 0,
+        "explanation": "Equatorial regions में convection rainfall होती है।"
+    },
+    {
+        "question": "ओरोग्राफिक वर्षा कहाँ होती है?",
+        "options": [
+            "पर्वतीय क्षेत्रों में",
+            "मरुस्थल",
+            "समुद्र",
+            "मैदान"
+        ],
+        "correct": 0,
+        "explanation": "Mountains पर हवा ऊपर उठकर वर्षा करती है।"
+    },
+    {
+        "question": "Cyclone का सबसे सामान्य क्षेत्र कौन-सा है?",
+        "options": [
+            "उष्णकटिबंधीय महासागर",
+            "ध्रुवीय क्षेत्र",
+            "मरुस्थल",
+            "पर्वत"
+        ],
+        "correct": 0,
+        "explanation": "Tropical oceans cyclone formation के लिए उपयुक्त हैं।"
+    },
+    {
+        "question": "Hurricane किस महासागर में आता है?",
+        "options": [
+            "अटलांटिक",
+            "प्रशांत",
+            "हिंद",
+            "आर्कटिक"
+        ],
+        "correct": 0,
+        "explanation": "Hurricane Atlantic region में आता है।"
+    },
+    {
+        "question": "Typhoon कहाँ आता है?",
+        "options": [
+            "प्रशांत महासागर",
+            "अटलांटिक",
+            "हिंद महासागर",
+            "आर्कटिक"
+        ],
+        "correct": 0,
+        "explanation": "Typhoon western Pacific region में आते हैं।"
+    },
+    {
+        "question": "Relative humidity किससे संबंधित है?",
+        "options": [
+            "वायु में जलवाष्प प्रतिशत",
+            "तापमान",
+            "दाब",
+            "वर्षा"
+        ],
+        "correct": 0,
+        "explanation": "Relative humidity moisture percentage है।"
+    },
+    {
+        "question": "आर्द्रता मापने का उपकरण क्या है?",
+        "options": [
+            "Hygrometer",
+            "Barometer",
+            "Thermometer",
+            "Anemometer"
+        ],
+        "correct": 0,
+        "explanation": "Hygrometer humidity मापता है।"
+    },
+    {
+        "question": "Dew point क्या है?",
+        "options": [
+            "वह तापमान जहाँ संघनन शुरू होता है",
+            "वर्षा",
+            "दाब",
+            "तूफान"
+        ],
+        "correct": 0,
+        "explanation": "Dew point condensation temperature है।"
+    },
+    {
+        "question": "Fog क्या है?",
+        "options": [
+            "धरातल के पास बादल",
+            "उच्च बादल",
+            "तूफान",
+            "वर्षा"
+        ],
+        "correct": 0,
+        "explanation": "Fog ground level cloud है।"
+    },
+    {
+        "question": "Stratus बादल किस प्रकार के होते हैं?",
+        "options": [
+            "परतदार",
+            "फूले हुए",
+            "ऊँचे",
+            "तूफानी"
+        ],
+        "correct": 0,
+        "explanation": "Stratus layer clouds होते हैं।"
+    },
+    {
+        "question": "Cumulus बादल कैसे होते हैं?",
+        "options": [
+            "फूले हुए",
+            "परतदार",
+            "पतले",
+            "रेशेदार"
+        ],
+        "correct": 0,
+        "explanation": "Cumulus cotton-like clouds होते हैं।"
+    },
+    {
+        "question": "Nimbus बादल किससे संबंधित हैं?",
+        "options": [
+            "वर्षा",
+            "धूप",
+            "सूखा",
+            "धुंध"
+        ],
+        "correct": 0,
+        "explanation": "Nimbus rain clouds होते हैं।"
+    },
+    {
+        "question": "Koppen climate classification किसने दी?",
+        "options": [
+            "Wladimir Köppen",
+            "Ratzel",
+            "Taylor",
+            "Blache"
+        ],
+        "correct": 0,
+        "explanation": "Koppen climate classification system दिया।"
+    },
+    {
+        "question": "Koppen climate classification में 'A' climate क्या है?",
+        "options": [
+            "Tropical",
+            "Dry",
+            "Temperate",
+            "Polar"
+        ],
+        "correct": 0,
+        "explanation": "A type tropical climate को दर्शाता है।"
+    },
+    {
+        "question": "Koppen climate classification में 'B' climate क्या है?",
+        "options": [
+            "Dry climate",
+            "Tropical climate",
+            "Temperate climate",
+            "Polar climate"
+        ],
+        "correct": 0,
+        "explanation": "B climate dry climate है।"
+    },
+    {
+        "question": "Greenhouse effect किससे संबंधित है?",
+        "options": [
+            "Heat trapping gases",
+            "Ocean currents",
+            "Earthquakes",
+            "Volcanoes"
+        ],
+        "correct": 0,
+        "explanation": "Greenhouse gases heat trap करती हैं।"
+    },
+    {
+        "question": "Global warming का मुख्य कारण क्या है?",
+        "options": [
+            "CO₂",
+            "Oxygen",
+            "Nitrogen",
+            "Helium"
+        ],
+        "correct": 0,
+        "explanation": "CO₂ greenhouse gas है।"
+    },
+    {
+        "question": "Ozone layer कहाँ स्थित है?",
+        "options": [
+            "Stratosphere",
+            "Troposphere",
+            "Mesosphere",
+            "Thermosphere"
+        ],
+        "correct": 0,
+        "explanation": "Ozone layer stratosphere में है।"
+    },
+    {
+        "question": "Weather phenomena मुख्यतः कहाँ होते हैं?",
+        "options": [
+            "Troposphere",
+            "Stratosphere",
+            "Mesosphere",
+            "Thermosphere"
+        ],
+        "correct": 0,
+        "explanation": "Weather troposphere में होता है।"
+    }
+]

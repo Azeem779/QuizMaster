@@ -1,0 +1,56 @@
+🌍 Topic 8: Economic Geography
+📚 Notes (PGT Level)
+1️⃣ Economic Geography की परिभाषा
+
+Economic Geography वह शाखा है जिसमें आर्थिक गतिविधियों (कृषि, उद्योग, व्यापार, परिवहन आदि) के स्थानिक वितरण का अध्ययन किया जाता है।
+
+2️⃣ Von Thünen Agricultural Location Theory (1826)
+
+👉 Johann Heinrich Von Thünen
+
+मुख्य विचार
+
+कृषि गतिविधियाँ बाजार से दूरी के अनुसार व्यवस्थित होती हैं
+
+परिवहन लागत महत्वपूर्ण होती है
+
+मॉडल के मुख्य क्षेत्र
+
+1️⃣ Dairy farming
+2️⃣ Forestry
+3️⃣ Crop farming
+4️⃣ Ranching
+
+3️⃣ Weber Industrial Location Theory
+
+👉 Alfred Weber
+
+मुख्य विचार
+
+उद्योग की स्थापना का स्थान तीन कारकों पर निर्भर करता है:
+
+1️⃣ Transport cost
+2️⃣ Labour cost
+3️⃣ Agglomeration
+
+4️⃣ Agglomeration
+
+जब कई उद्योग एक स्थान पर एकत्रित होते हैं तो उसे agglomeration कहते हैं।
+
+लाभ
+
+कम परिवहन लागत
+
+skilled labour
+
+बेहतर infrastructure
+
+5️⃣ Resource Geography
+
+प्राकृतिक संसाधनों का अध्ययन
+
+मुख्य प्रकार
+
+Renewable resources
+
+Non-renewable resources

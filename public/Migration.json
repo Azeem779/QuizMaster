@@ -1,0 +1,332 @@
+[
+    {
+        "question": "Migration का अर्थ क्या है?",
+        "options": [
+            "एक स्थान से दूसरे स्थान पर स्थायी या अर्ध-स्थायी स्थानांतरण",
+            "केवल पर्यटन",
+            "केवल व्यापार यात्रा",
+            "केवल शिक्षा"
+        ],
+        "correct": 0,
+        "explanation": "Migration में लोग स्थायी या लंबे समय के लिए स्थान बदलते हैं।"
+    },
+    {
+        "question": "Migration के अध्ययन से संबंधित प्रमुख विद्वान कौन थे?",
+        "options": [
+            "E. G. Ravenstein",
+            "Ratzel",
+            "Blache",
+            "Humboldt"
+        ],
+        "correct": 0,
+        "explanation": "Ravenstein ने migration laws दिए।"
+    },
+    {
+        "question": "एक देश के भीतर होने वाला प्रवास क्या कहलाता है?",
+        "options": [
+            "Internal migration",
+            "International migration",
+            "Forced migration",
+            "Seasonal migration"
+        ],
+        "correct": 0,
+        "explanation": "एक ही देश के अंदर होने वाला प्रवास internal migration कहलाता है।"
+    },
+    {
+        "question": "एक देश से दूसरे देश में प्रवास को क्या कहते हैं?",
+        "options": [
+            "International migration",
+            "Internal migration",
+            "Local migration",
+            "Temporary migration"
+        ],
+        "correct": 0,
+        "explanation": "International migration देशों के बीच होता है।"
+    },
+    {
+        "question": "Migration के मुख्य कारण क्या होते हैं?",
+        "options": [
+            "आर्थिक",
+            "जलवायु",
+            "सामाजिक",
+            "उपरोक्त सभी"
+        ],
+        "correct": 3,
+        "explanation": "Migration कई प्रकार के कारणों से होता है।"
+    },
+    {
+        "question": "Push factor का उदाहरण कौन-सा है?",
+        "options": [
+            "बेरोजगारी",
+            "रोजगार अवसर",
+            "उच्च शिक्षा",
+            "अच्छा जीवन स्तर"
+        ],
+        "correct": 0,
+        "explanation": "Push factors लोगों को स्थान छोड़ने के लिए मजबूर करते हैं।"
+    },
+    {
+        "question": "Pull factor का उदाहरण कौन-सा है?",
+        "options": [
+            "रोजगार अवसर",
+            "भूकंप",
+            "युद्ध",
+            "गरीबी"
+        ],
+        "correct": 0,
+        "explanation": "Pull factors लोगों को आकर्षित करते हैं।"
+    },
+    {
+        "question": "Brain drain का अर्थ क्या है?",
+        "options": [
+            "कुशल लोगों का विदेश जाना",
+            "जनसंख्या वृद्धि",
+            "ग्रामीण प्रवास",
+            "कृषि प्रवास"
+        ],
+        "correct": 0,
+        "explanation": "Highly skilled people का विदेश जाना brain drain कहलाता है।"
+    },
+    {
+        "question": "ग्रामीण से शहरी प्रवास किस प्रकार का migration है?",
+        "options": [
+            "Rural-Urban migration",
+            "Urban-Rural migration",
+            "Rural-Rural migration",
+            "Urban-Urban migration"
+        ],
+        "correct": 0,
+        "explanation": "ग्रामीण से शहर की ओर प्रवास rural-urban migration है।"
+    },
+    {
+        "question": "Ravenstein migration laws किस वर्ष दिए गए?",
+        "options": [
+            "1885",
+            "1900",
+            "1920",
+            "1850"
+        ],
+        "correct": 0,
+        "explanation": "Ravenstein ने 1885 में migration laws दिए।"
+    },
+    {
+        "question": "Ravenstein के अनुसार अधिकांश प्रवास कैसे होते हैं?",
+        "options": [
+            "कम दूरी के",
+            "लंबी दूरी के",
+            "महाद्वीपीय",
+            "वैश्विक"
+        ],
+        "correct": 0,
+        "explanation": "Most migrations short distance के होते हैं।"
+    },
+    {
+        "question": "Seasonal migration क्या है?",
+        "options": [
+            "मौसमी प्रवास",
+            "स्थायी प्रवास",
+            "अंतरराष्ट्रीय प्रवास",
+            "शहरी प्रवास"
+        ],
+        "correct": 0,
+        "explanation": "Seasonal migration मौसम के अनुसार होता है।"
+    },
+    {
+        "question": "Forced migration का उदाहरण क्या है?",
+        "options": [
+            "युद्ध के कारण प्रवास",
+            "रोजगार के लिए प्रवास",
+            "शिक्षा के लिए प्रवास",
+            "पर्यटन"
+        ],
+        "correct": 0,
+        "explanation": "युद्ध या आपदा के कारण प्रवास forced migration है।"
+    },
+    {
+        "question": "Migration का मुख्य आर्थिक कारण क्या है?",
+        "options": [
+            "रोजगार",
+            "जलवायु",
+            "धर्म",
+            "भाषा"
+        ],
+        "correct": 0,
+        "explanation": "रोजगार migration का प्रमुख कारण है।"
+    },
+    {
+        "question": "Urban-Urban migration किसे कहते हैं?",
+        "options": [
+            "एक शहर से दूसरे शहर प्रवास",
+            "गाँव से शहर प्रवास",
+            "गाँव से गाँव प्रवास",
+            "देश से देश प्रवास"
+        ],
+        "correct": 0,
+        "explanation": "Urban-urban migration शहरों के बीच होता है।"
+    },
+    {
+        "question": "Step migration का अर्थ क्या है?",
+        "options": [
+            "चरणबद्ध प्रवास",
+            "स्थायी प्रवास",
+            "अंतरराष्ट्रीय प्रवास",
+            "जबरन प्रवास"
+        ],
+        "correct": 0,
+        "explanation": "Step migration कई चरणों में होता है।"
+    },
+    {
+        "question": "Migration का अध्ययन किस शाखा में होता है?",
+        "options": [
+            "Population geography",
+            "Oceanography",
+            "Geomorphology",
+            "Climatology"
+        ],
+        "correct": 0,
+        "explanation": "Migration population geography का हिस्सा है।"
+    },
+    {
+        "question": "Brain gain का अर्थ क्या है?",
+        "options": [
+            "कुशल लोगों का आगमन",
+            "जनसंख्या वृद्धि",
+            "ग्रामीण प्रवास",
+            "औद्योगिक विकास"
+        ],
+        "correct": 0,
+        "explanation": "जब skilled people किसी देश में आते हैं तो brain gain होता है।"
+    },
+    {
+        "question": "Migration के अध्ययन में origin का अर्थ क्या है?",
+        "options": [
+            "मूल स्थान",
+            "गंतव्य स्थान",
+            "सीमा क्षेत्र",
+            "औद्योगिक क्षेत्र"
+        ],
+        "correct": 0,
+        "explanation": "Origin वह स्थान है जहाँ से प्रवास शुरू होता है।"
+    },
+    {
+        "question": "Migration के अध्ययन में destination का अर्थ क्या है?",
+        "options": [
+            "गंतव्य स्थान",
+            "मूल स्थान",
+            "सीमा क्षेत्र",
+            "औद्योगिक क्षेत्र"
+        ],
+        "correct": 0,
+        "explanation": "Destination वह स्थान है जहाँ लोग जाते हैं।"
+    },
+    {
+        "question": "किस प्रवास में किसान शहरों की ओर जाते हैं?",
+        "options": [
+            "Rural-Urban migration",
+            "Urban-Rural migration",
+            "Urban-Urban migration",
+            "International migration"
+        ],
+        "correct": 0,
+        "explanation": "रोजगार के लिए ग्रामीण लोग शहर जाते हैं।"
+    },
+    {
+        "question": "Migration का सामाजिक कारण क्या हो सकता है?",
+        "options": [
+            "शिक्षा",
+            "भूकंप",
+            "ज्वालामुखी",
+            "महासागर"
+        ],
+        "correct": 0,
+        "explanation": "Education migration का social factor है।"
+    },
+    {
+        "question": "Migration का पर्यावरणीय कारण क्या हो सकता है?",
+        "options": [
+            "बाढ़",
+            "रोजगार",
+            "शिक्षा",
+            "उद्योग"
+        ],
+        "correct": 0,
+        "explanation": "Flood जैसी आपदाएँ migration को प्रेरित करती हैं।"
+    },
+    {
+        "question": "International migration में लोग किसे पार करते हैं?",
+        "options": [
+            "राष्ट्रीय सीमा",
+            "नदी",
+            "पर्वत",
+            "जलवायु क्षेत्र"
+        ],
+        "correct": 0,
+        "explanation": "International migration में national borders पार की जाती हैं।"
+    },
+    {
+        "question": "Migration के अध्ययन में net migration का अर्थ क्या है?",
+        "options": [
+            "आव्रजन – प्रव्रजन",
+            "कुल जनसंख्या",
+            "जन्म दर",
+            "मृत्यु दर"
+        ],
+        "correct": 0,
+        "explanation": "Net migration = Immigration – Emigration।"
+    },
+    {
+        "question": "Emigration का अर्थ क्या है?",
+        "options": [
+            "देश छोड़कर जाना",
+            "देश में आना",
+            "शहर में जाना",
+            "गाँव में जाना"
+        ],
+        "correct": 0,
+        "explanation": "Emigration में लोग अपने देश से बाहर जाते हैं।"
+    },
+    {
+        "question": "Immigration का अर्थ क्या है?",
+        "options": [
+            "दूसरे देश से आना",
+            "देश छोड़ना",
+            "शहर छोड़ना",
+            "गाँव छोड़ना"
+        ],
+        "correct": 0,
+        "explanation": "Immigration में लोग किसी देश में आते हैं।"
+    },
+    {
+        "question": "Migration के अध्ययन में chain migration क्या है?",
+        "options": [
+            "परिवार/समुदाय के लोग क्रम से प्रवास करते हैं",
+            "अंतरराष्ट्रीय व्यापार",
+            "औद्योगिक विकास",
+            "जनसंख्या वृद्धि"
+        ],
+        "correct": 0,
+        "explanation": "Chain migration में पहले गए लोग दूसरों को बुलाते हैं।"
+    },
+    {
+        "question": "Migration के सबसे प्रमुख कारण क्या माने जाते हैं?",
+        "options": [
+            "आर्थिक कारण",
+            "जलवायु कारण",
+            "धार्मिक कारण",
+            "राजनीतिक कारण"
+        ],
+        "correct": 0,
+        "explanation": "Economic reasons migration के सबसे बड़े कारण हैं।"
+    },
+    {
+        "question": "Migration मानव भूगोल की किस शाखा का भाग है?",
+        "options": [
+            "Population geography",
+            "Economic geography",
+            "Urban geography",
+            "Cultural geography"
+        ],
+        "correct": 0,
+        "explanation": "Migration population geography का महत्वपूर्ण भाग है।"
+    }
+]
