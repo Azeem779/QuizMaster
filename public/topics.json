@@ -271,6 +271,20 @@
       "icon": "🚆",
       "questionCount": 30,
       "notes": "Transport_India.txt"
+    },
+    {
+      "id": "indian_geography_100",
+      "name": "Indian Geography - 100 Ques",
+      "file": "Indian_Geography_100_Ques.json",
+      "icon": "🇮🇳",
+      "questionCount": 85
+    },
+    {
+      "id": "geomorphology_100",
+      "name": "Geomorphology - 100 Ques",
+      "file": "Geomorphology_100_Question.json",
+      "icon": "⛰️",
+      "questionCount": 96
     }
   ]
 }
