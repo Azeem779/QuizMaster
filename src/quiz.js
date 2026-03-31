@@ -58,19 +58,29 @@ export async function loadTopics() {
 
 function populateTopicDropdown() {
   const topicSelect100 = $("topicSelect100");
+  const topicSelectStatement = $("topicSelectStatement");
 
   topicSelect.innerHTML =
     '<option value="" disabled selected>-- Select a topic --</option>';
-  topicSelect100.innerHTML =
-    '<option value="" disabled selected>-- Select a 100 Ques topic --</option>';
+  if (topicSelect100) {
+    topicSelect100.innerHTML =
+      '<option value="" disabled selected>-- Select a 100 Ques topic --</option>';
+  }
+  if (topicSelectStatement) {
+    topicSelectStatement.innerHTML =
+      '<option value="" disabled selected>-- Select a Statement topic --</option>';
+  }
 
   state.topics.forEach((topic) => {
+    const isStatement = topic.type === "statement" || topic.name.includes("Statement");
     const is100Series = topic.name.includes("100");
     const option = document.createElement("option");
     option.value = topic.id;
     option.textContent = `${topic.icon} ${topic.name} (${topic.questionCount} questions)`;
 
-    if (is100Series) {
+    if (isStatement && topicSelectStatement) {
+      topicSelectStatement.appendChild(option);
+    } else if (is100Series && topicSelect100) {
       topicSelect100.appendChild(option);
     } else {
       topicSelect.appendChild(option);

@@ -370,6 +370,22 @@
       "file": "Human_Geography_100_Question.json",
       "icon": "👤",
       "questionCount": 98
+    },
+    {
+      "id": "statement_based_01",
+      "name": "Geomorphology Statement Based - Set 01",
+      "file": "statement_series/Statement_Based_Series_01.json",
+      "icon": "📝",
+      "questionCount": 60,
+      "type": "statement"
+    },
+    {
+      "id": "statement_based_02",
+      "name": "Geomorphology Statement Based - Set 02",
+      "file": "statement_series/Statement_Based_Series_02.json",
+      "icon": "📝",
+      "questionCount": 60,
+      "type": "statement"
     }
   ]
 }

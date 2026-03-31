@@ -100,16 +100,30 @@ notesStartQuizBtn.addEventListener("click", () => {
 // Topic selection (Regular)
 topicSelect.addEventListener("change", (e) => {
   state.selectedTopic = e.target.value;
-  $("topicSelect100").value = ""; // Reset the other dropdown
+  if ($("topicSelect100")) $("topicSelect100").value = "";
+  if ($("topicSelectStatement")) $("topicSelectStatement").value = "";
   updateTopicSelection();
 });
 
 // Topic selection (100 Ques Series)
-$("topicSelect100").addEventListener("change", (e) => {
-  state.selectedTopic = e.target.value;
-  topicSelect.value = ""; // Reset the regular dropdown
-  updateTopicSelection();
-});
+if ($("topicSelect100")) {
+  $("topicSelect100").addEventListener("change", (e) => {
+    state.selectedTopic = e.target.value;
+    topicSelect.value = "";
+    if ($("topicSelectStatement")) $("topicSelectStatement").value = "";
+    updateTopicSelection();
+  });
+}
+
+// Topic selection (Statement Based)
+if ($("topicSelectStatement")) {
+  $("topicSelectStatement").addEventListener("change", (e) => {
+    state.selectedTopic = e.target.value;
+    topicSelect.value = "";
+    if ($("topicSelect100")) $("topicSelect100").value = "";
+    updateTopicSelection();
+  });
+}
 
 function updateTopicSelection() {
   updateHighScoreDisplay();
