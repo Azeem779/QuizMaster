@@ -395,6 +395,22 @@
       "type": "statement"
     },
     {
+      "id": "climatology_statement_01",
+      "name": "Climatology Statement Based - Set 01",
+      "file": "statement_series/Climatology_Statement_Based_Series_01.json",
+      "icon": "🌦️",
+      "questionCount": 60,
+      "type": "statement"
+    },
+    {
+      "id": "climatology_statement_02",
+      "name": "Climatology Statement Based - Set 02",
+      "file": "statement_series/Climatology_Statement_Based_Series_02.json",
+      "icon": "🌦️",
+      "questionCount": 60,
+      "type": "statement"
+    },
+    {
       "id": "geo_thoughts_01",
       "name": "Geographical Thoughts - Part 1",
       "file": "geographical_thoughts_topic/geographical_thoughts_mcqs.json",
