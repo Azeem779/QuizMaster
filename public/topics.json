@@ -3,371 +3,371 @@
     {
       "id": "desert_hindi",
       "name": "Desert - Hindi",
-      "file": "desert_hindi.json",
+      "file": "common_topic/desert_hindi.json",
       "icon": "🏜️",
       "questionCount": 20
     },
     {
       "id": "technology",
       "name": "Technology & Programming",
-      "file": "technology.json",
+      "file": "common_topic/technology.json",
       "icon": "💻",
       "questionCount": 10
     },
     {
       "id": "science",
       "name": "Science & Nature",
-      "file": "science.json",
+      "file": "common_topic/science.json",
       "icon": "🔬",
       "questionCount": 10
     },
     {
       "id": "plates",
       "name": "Plates Tectonics - Hindi",
-      "file": "plates.json",
+      "file": "common_topic/plates.json",
       "icon": "🌍",
       "questionCount": 20
     },
     {
       "id": "weathering",
       "name": "Weathering - Hindi",
-      "file": "weathering.json",
+      "file": "common_topic/weathering.json",
       "icon": "☁️",
       "questionCount": 20
     },
     {
       "id": "fluvial_landforms",
       "name": "Fluvial landforms - Hindi",
-      "file": "fluvial_landforms.json",
+      "file": "common_topic/fluvial_landforms.json",
       "icon": "🌊",
       "questionCount": 20
     },
     {
       "id": "wind_landforms",
       "name": "Wind Landforms - Hindi",
-      "file": "wind_landforms.json",
+      "file": "common_topic/wind_landforms.json",
       "icon": "🌬️",
       "questionCount": 20
     },
     {
       "id": "glacial_landforms",
       "name": "Glacial Landforms - Hindi",
-      "file": "glacial_landforms.json",
+      "file": "common_topic/glacial_landforms.json",
       "icon": "🏔️",
       "questionCount": 20
     },
     {
       "id": "erosion_cycle",
       "name": "Erosion Cycle - Hindi",
-      "file": "erosion.json",
+      "file": "common_topic/erosion.json",
       "icon": "⛰️",
       "questionCount": 20
     },
     {
       "id": "ocean_relief",
       "name": "Ocean Relief",
-      "file": "Ocean_Relief_PGT_Exam_Level.json",
+      "file": "common_topic/Ocean_Relief_PGT_Exam_Level.json",
       "icon": "🗺️",
       "questionCount": 30
     },
     {
       "id": "ocean_temperature",
       "name": "Ocean Temperature",
-      "file": "Ocean_Temperature_PGT_Proper.json",
+      "file": "common_topic/Ocean_Temperature_PGT_Proper.json",
       "icon": "🌡️",
       "questionCount": 30
     },
     {
       "id": "ocean_salinity",
       "name": "Ocean Salinity",
-      "file": "Ocean_Salinity_PGT_Proper.json",
+      "file": "common_topic/Ocean_Salinity_PGT_Proper.json",
       "icon": "🧂",
       "questionCount": 30
     },
     {
       "id": "ocean_currents",
       "name": "Ocean Currents",
-      "file": "Ocean_Currents_PGT_Proper.json",
+      "file": "common_topic/Ocean_Currents_PGT_Proper.json",
       "icon": "🌀",
       "questionCount": 30
     },
     {
       "id": "ocean_tides",
       "name": "Ocean Tides",
-      "file": "Ocean_Tides_PGT_Proper.json",
+      "file": "common_topic/Ocean_Tides_PGT_Proper.json",
       "icon": "🌖",
       "questionCount": 30
     },
     {
       "id": "coral_reefs",
       "name": "Coral Reefs",
-      "file": "Coral_Reefs_PGT_Proper.json",
+      "file": "common_topic/Coral_Reefs_PGT_Proper.json",
       "icon": "🪸",
       "questionCount": 30
     },
     {
       "id": "marine_resources",
       "name": "Marine Resources",
-      "file": "Marine_Resources_PGT_Proper.json",
+      "file": "common_topic/Marine_Resources_PGT_Proper.json",
       "icon": "💎",
       "questionCount": 30
     },
     {
       "id": "pressure_belt_wind",
       "name": "Pressure Belt & Wind",
-      "file": "Pressure_Belt_And_Wind.json",
+      "file": "common_topic/Pressure_Belt_And_Wind.json",
       "icon": "🌬️",
       "questionCount": 45,
-      "notes": "Pressure_Notes.txt"
+      "notes": "common_topic/Pressure_Notes.txt"
     },
     {
       "id": "air_masses_front",
       "name": "Air Masses & Front",
-      "file": "Air_Masses_And_Front.json",
+      "file": "common_topic/Air_Masses_And_Front.json",
       "icon": "🌫️",
       "questionCount": 30,
-      "notes": "Air_Masses_And_Front.txt"
+      "notes": "common_topic/Air_Masses_And_Front.txt"
     },
     {
       "id": "cyclones_anticyclones",
       "name": "Cyclones & AntiCyclones",
-      "file": "Cyclones_And_AntiCyclones.json",
+      "file": "common_topic/Cyclones_And_AntiCyclones.json",
       "icon": "🌪️",
       "questionCount": 30,
-      "notes": "Cyclones_And_AntiCyclones.txt"
+      "notes": "common_topic/Cyclones_And_AntiCyclones.txt"
     },
     {
       "id": "jet_streams",
       "name": "Jet Streams",
-      "file": "Jet_Streams.json",
+      "file": "common_topic/Jet_Streams.json",
       "icon": "✈️",
       "questionCount": 30,
-      "notes": "Jet_Streams.txt"
+      "notes": "common_topic/Jet_Streams.txt"
     },
     {
       "id": "enso",
       "name": "ENSO",
-      "file": "Enso.json",
+      "file": "common_topic/Enso.json",
       "icon": "🌊",
       "questionCount": 30,
-      "notes": "Enso.txt"
+      "notes": "common_topic/Enso.txt"
     },
     {
       "id": "indian_monsoon",
       "name": "Indian Monsoon",
-      "file": "Indian_Mansoon.json",
+      "file": "common_topic/Indian_Mansoon.json",
       "icon": "🇮🇳",
       "questionCount": 50,
-      "notes": "Indian_Mansoon.txt"
+      "notes": "common_topic/Indian_Mansoon.txt"
     },
     {
       "id": "koppen_climate",
       "name": "Köppen Climate",
-      "file": "Köppen_Climate.json",
+      "file": "common_topic/Köppen_Climate.json",
       "icon": "🌍",
       "questionCount": 30,
-      "notes": "Köppen_Climate.txt"
+      "notes": "common_topic/Köppen_Climate.txt"
     },
     {
       "id": "climate_changes",
       "name": "Climate Changes",
-      "file": "Climate_Changes.json",
+      "file": "common_topic/Climate_Changes.json",
       "icon": "🌡️",
       "questionCount": 30,
-      "notes": "Climate_Changes.txt"
+      "notes": "common_topic/Climate_Changes.txt"
     },
     {
       "id": "agriculture_india",
       "name": "Agriculture in India",
-      "file": "Agriculture_India.json",
+      "file": "common_topic/Agriculture_India.json",
       "icon": "🌾",
       "questionCount": 30,
-      "notes": "Agriculture_India.txt"
+      "notes": "common_topic/Agriculture_India.txt"
     },
     {
       "id": "climate_india",
       "name": "Climate of India",
-      "file": "Climate_India.json",
+      "file": "common_topic/Climate_India.json",
       "icon": "🌦️",
       "questionCount": 30,
-      "notes": "Climate_India.txt"
+      "notes": "common_topic/Climate_India.txt"
     },
     {
       "id": "drainage_system",
       "name": "Drainage System",
-      "file": "Drainage_System.json",
+      "file": "common_topic/Drainage_System.json",
       "icon": "💧",
       "questionCount": 30,
-      "notes": "Drainage_System.txt"
+      "notes": "common_topic/Drainage_System.txt"
     },
     {
       "id": "energy_resources",
       "name": "Energy Resources",
-      "file": "Energy_Resources.json",
+      "file": "common_topic/Energy_Resources.json",
       "icon": "⚡",
       "questionCount": 30,
-      "notes": "Energy_Resources.txt"
+      "notes": "common_topic/Energy_Resources.txt"
     },
     {
       "id": "geological_structure",
       "name": "Geological Structure",
-      "file": "Geological_Structure.json",
+      "file": "common_topic/Geological_Structure.json",
       "icon": "🧱",
       "questionCount": 30,
-      "notes": "Geological_Structure.txt"
+      "notes": "common_topic/Geological_Structure.txt"
     },
     {
       "id": "industries_india",
       "name": "Industries in India",
-      "file": "Industries_India.json",
+      "file": "common_topic/Industries_India.json",
       "icon": "🏭",
       "questionCount": 30,
-      "notes": "Industries_India.txt"
+      "notes": "common_topic/Industries_India.txt"
     },
     {
       "id": "mineral_resources",
       "name": "Mineral Resources",
-      "file": "Mineral_Resources.json",
+      "file": "common_topic/Mineral_Resources.json",
       "icon": "⛏️",
       "questionCount": 30,
-      "notes": "Mineral_Resources.txt"
+      "notes": "common_topic/Mineral_Resources.txt"
     },
     {
       "id": "natural_vegetation",
       "name": "Natural Vegetation",
-      "file": "Natural_Vegetation.json",
+      "file": "common_topic/Natural_Vegetation.json",
       "icon": "🌳",
       "questionCount": 30,
-      "notes": "Natural_Vegetation.txt"
+      "notes": "common_topic/Natural_Vegetation.txt"
     },
     {
       "id": "physiographic_divisions",
       "name": "Physiographic Divisions",
-      "file": "Physiographic_Divisions.json",
+      "file": "common_topic/Physiographic_Divisions.json",
       "icon": "🏔️",
       "questionCount": 30,
-      "notes": "Physiographic_Divisions.txt"
+      "notes": "common_topic/Physiographic_Divisions.txt"
     },
     {
       "id": "population_india",
       "name": "Population in India",
-      "file": "Population_India.json",
+      "file": "common_topic/Population_India.json",
       "icon": "👥",
       "questionCount": 30,
-      "notes": "Population_India.txt"
+      "notes": "common_topic/Population_India.txt"
     },
     {
       "id": "soils_india",
       "name": "Soils of India",
-      "file": "Soils_India.json",
+      "file": "common_topic/Soils_India.json",
       "icon": "🌱",
       "questionCount": 30,
-      "notes": "Soils_India.txt"
+      "notes": "common_topic/Soils_India.txt"
     },
     {
       "id": "transport_india",
       "name": "Transport in India",
-      "file": "Transport_India.json",
+      "file": "common_topic/Transport_India.json",
       "icon": "🚆",
       "questionCount": 30,
-      "notes": "Transport_India.txt"
+      "notes": "common_topic/Transport_India.txt"
     },
     {
       "id": "indian_geography_100",
       "name": "Indian Geography - 100 Ques",
-      "file": "Indian_Geography_100_Ques.json",
+      "file": "100_question/Indian_Geography_100_Ques.json",
       "icon": "🇮🇳",
       "questionCount": 85
     },
     {
       "id": "geomorphology_100",
       "name": "Geomorphology - 100 Ques",
-      "file": "Geomorphology_100_Question.json",
+      "file": "100_question/Geomorphology_100_Question.json",
       "icon": "⛰️",
       "questionCount": 96
     },
     {
       "id": "climatology_100",
       "name": "Climatology - 100 Ques",
-      "file": "Climatology_100_Questions.json",
+      "file": "100_question/Climatology_100_Questions.json",
       "icon": "🌤️",
       "questionCount": 92
     },
     {
       "id": "oceanography_100",
       "name": "Oceanography - 100 Ques",
-      "file": "Oceanography_100_Questions.json",
+      "file": "100_question/Oceanography_100_Questions.json",
       "icon": "🌊",
       "questionCount": 91
     },
     {
       "id": "human_geography_scope",
       "name": "Human Geography – Nature & Scope",
-      "file": "Human_Geography_Scope.json",
+      "file": "common_topic/Human_Geography_Scope.json",
       "icon": "🌍",
       "questionCount": 30,
-      "notes": "Human_Geography_Scope.txt"
+      "notes": "common_topic/Human_Geography_Scope.txt"
     },
     {
       "id": "population_geography",
       "name": "Population Geography",
-      "file": "Population_Geography.json",
+      "file": "common_topic/Population_Geography.json",
       "icon": "👥",
       "questionCount": 30,
-      "notes": "Population_Geography.txt"
+      "notes": "common_topic/Population_Geography.txt"
     },
     {
       "id": "migration",
       "name": "Migration",
-      "file": "Migration.json",
+      "file": "common_topic/Migration.json",
       "icon": "🚶",
       "questionCount": 30,
-      "notes": "Migration.txt"
+      "notes": "common_topic/Migration.txt"
     },
     {
       "id": "human_settlements",
       "name": "Human Settlements",
-      "file": "Human_Settlements.json",
+      "file": "common_topic/Human_Settlements.json",
       "icon": "🏘️",
       "questionCount": 30,
-      "notes": "Human_Settlements.txt"
+      "notes": "common_topic/Human_Settlements.txt"
     },
     {
       "id": "cultural_geography",
       "name": "Cultural Geography",
-      "file": "Cultural_Geography.json",
+      "file": "common_topic/Cultural_Geography.json",
       "icon": "🕌",
       "questionCount": 30,
-      "notes": "Cultural_Geography.txt"
+      "notes": "common_topic/Cultural_Geography.txt"
     },
     {
       "id": "economic_geography",
       "name": "Economic Geography",
-      "file": "Econimic_Geography.json",
+      "file": "common_topic/Econimic_Geography.json",
       "icon": "💹",
       "questionCount": 30,
-      "notes": "Economic_Geography.txt"
+      "notes": "common_topic/Economic_Geography.txt"
     },
     {
       "id": "social_geography",
       "name": "Social Geography",
-      "file": "Social_Geography.json",
+      "file": "common_topic/Social_Geography.json",
       "icon": "🤝",
       "questionCount": 30,
-      "notes": "Social_Geography.txt"
+      "notes": "common_topic/Social_Geography.txt"
     },
     {
       "id": "urban_geography",
       "name": "Urban Geography",
-      "file": "Urban_Geography.json",
+      "file": "common_topic/Urban_Geography.json",
       "icon": "🏙️",
       "questionCount": 30,
-      "notes": "Urban_Geography.txt"
+      "notes": "common_topic/Urban_Geography.txt"
     },
     {
       "id": "human_geography_100",
       "name": "Human Geography - 100 Ques",
-      "file": "Human_Geography_100_Question.json",
+      "file": "100_question/Human_Geography_100_Question.json",
       "icon": "👤",
       "questionCount": 98
     },
