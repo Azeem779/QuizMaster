@@ -386,6 +386,30 @@
       "icon": "📝",
       "questionCount": 60,
       "type": "statement"
+    },
+    {
+      "id": "geo_thoughts_01",
+      "name": "Geographical Thoughts - Part 1",
+      "file": "geographical_thoughts_topic/geographical_thoughts_mcqs.json",
+      "icon": "🧠",
+      "questionCount": 50,
+      "type": "geographical_thoughts_test"
+    },
+    {
+      "id": "geo_thoughts_02",
+      "name": "Geographical Thoughts - Part 2",
+      "file": "geographical_thoughts_topic/geographical_thoughts_mcqs_part2.json",
+      "icon": "🧠",
+      "questionCount": 50,
+      "type": "geographical_thoughts_test"
+    },
+    {
+      "id": "geo_thoughts_03",
+      "name": "Geographical Thoughts - Part 3",
+      "file": "geographical_thoughts_topic/geographical_thoughts_mcqs_part3.json",
+      "icon": "🧠",
+      "questionCount": 50,
+      "type": "geographical_thoughts_test"
     }
   ]
 }

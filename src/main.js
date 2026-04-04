@@ -102,6 +102,7 @@ topicSelect.addEventListener("change", (e) => {
   state.selectedTopic = e.target.value;
   if ($("topicSelect100")) $("topicSelect100").value = "";
   if ($("topicSelectStatement")) $("topicSelectStatement").value = "";
+  if ($("topicSelectGeographical")) $("topicSelectGeographical").value = "";
   updateTopicSelection();
 });
 
@@ -111,6 +112,7 @@ if ($("topicSelect100")) {
     state.selectedTopic = e.target.value;
     topicSelect.value = "";
     if ($("topicSelectStatement")) $("topicSelectStatement").value = "";
+    if ($("topicSelectGeographical")) $("topicSelectGeographical").value = "";
     updateTopicSelection();
   });
 }
@@ -121,6 +123,18 @@ if ($("topicSelectStatement")) {
     state.selectedTopic = e.target.value;
     topicSelect.value = "";
     if ($("topicSelect100")) $("topicSelect100").value = "";
+    if ($("topicSelectGeographical")) $("topicSelectGeographical").value = "";
+    updateTopicSelection();
+  });
+}
+
+// Topic selection (Geographical Thoughts)
+if ($("topicSelectGeographical")) {
+  $("topicSelectGeographical").addEventListener("change", (e) => {
+    state.selectedTopic = e.target.value;
+    topicSelect.value = "";
+    if ($("topicSelect100")) $("topicSelect100").value = "";
+    if ($("topicSelectStatement")) $("topicSelectStatement").value = "";
     updateTopicSelection();
   });
 }
