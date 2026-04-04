@@ -1,0 +1,1102 @@
+[
+    {
+        "question": "निम्नलिखित में से 'Cycle of Erosion' सिद्धांत किस भू-आकृति विज्ञानी से संबंधित है?",
+        "options": [
+            "Walther Penck",
+            "William Morris Davis",
+            "Lester C. King",
+            "Strahler"
+        ],
+        "correct": 1,
+        "explanation": "Cycle of Erosion सिद्धांत William Morris Davis ने दिया था।"
+    },
+    {
+        "question": "निम्नलिखित में से किस सिद्धांत में उत्थान और अपरदन को साथ-साथ होने वाली प्रक्रिया माना गया है?",
+        "options": [
+            "Davis Model",
+            "Penck Theory",
+            "King Theory",
+            "Gilbert Theory"
+        ],
+        "correct": 1,
+        "explanation": "Walther Penck के अनुसार uplift और denudation साथ-साथ हो सकते हैं।"
+    },
+    {
+        "question": "पेनिप्लेन की अवधारणा किससे संबंधित है?",
+        "options": [
+            "Glacial erosion",
+            "Fluvial erosion",
+            "Wind erosion",
+            "Marine erosion"
+        ],
+        "correct": 1,
+        "explanation": "पेनिप्लेन दीर्घकालीन नदी अपरदन का परिणाम माना जाता है।"
+    },
+    {
+        "question": "Pediplanation theory किसने प्रस्तुत की?",
+        "options": [
+            "Lester C. King",
+            "Davis",
+            "Penck",
+            "Horton"
+        ],
+        "correct": 0,
+        "explanation": "Pediplanation theory Lester Charles King से संबंधित है।"
+    },
+    {
+        "question": "नदी अपरदन की अंतिम सीमा को क्या कहा जाता है?",
+        "options": [
+            "Base level",
+            "Graded level",
+            "River profile",
+            "Delta level"
+        ],
+        "correct": 0,
+        "explanation": "Base level वह न्यूनतम स्तर है जहाँ तक नदी अपरदन कर सकती है।"
+    },
+    {
+        "question": "निम्नलिखित में से कौन-सा स्थलरूप नदी द्वारा पार्श्व अपरदन का परिणाम है?",
+        "options": [
+            "V-shaped valley",
+            "Meander",
+            "Waterfall",
+            "Gorge"
+        ],
+        "correct": 1,
+        "explanation": "Meander नदी के पार्श्व अपरदन से बनता है।"
+    },
+    {
+        "question": "निम्नलिखित में से कौन-सा हिमानी निक्षेप स्थलरूप है?",
+        "options": [
+            "Cirque",
+            "Arete",
+            "Drumlin",
+            "Horn"
+        ],
+        "correct": 2,
+        "explanation": "Drumlin हिमानी निक्षेप से बनने वाला स्थलरूप है।"
+    },
+    {
+        "question": "कार्स्ट स्थलाकृति मुख्यतः किस चट्टान में विकसित होती है?",
+        "options": [
+            "Granite",
+            "Basalt",
+            "Limestone",
+            "Sandstone"
+        ],
+        "correct": 2,
+        "explanation": "Limestone जल में घुलनशील होती है इसलिए कार्स्ट स्थलाकृति विकसित होती है।"
+    },
+    {
+        "question": "निम्नलिखित में से कौन-सा Aeolian स्थलरूप है?",
+        "options": [
+            "Drumlin",
+            "Barchan",
+            "Cirque",
+            "Fjord"
+        ],
+        "correct": 1,
+        "explanation": "Barchan अर्धचंद्राकार रेत का टीला है जो वायु द्वारा बनता है।"
+    },
+    {
+        "question": "U आकार की घाटी किस प्रक्रिया से बनती है?",
+        "options": [
+            "River erosion",
+            "Glacial erosion",
+            "Wind erosion",
+            "Marine erosion"
+        ],
+        "correct": 1,
+        "explanation": "U shaped valley हिमानी अपरदन से बनती है।"
+    },
+    {
+        "question": "River capture की प्रक्रिया मुख्यतः किससे संबंधित है?",
+        "options": [
+            "Wind erosion",
+            "Fluvial erosion",
+            "Glacial deposition",
+            "Marine action"
+        ],
+        "correct": 1,
+        "explanation": "River capture नदी अपरदन से संबंधित प्रक्रिया है।"
+    },
+    {
+        "question": "निम्नलिखित में से कौन-सा समुद्री अपरदन स्थलरूप है?",
+        "options": [
+            "Sea arch",
+            "Delta",
+            "Alluvial fan",
+            "Drumlin"
+        ],
+        "correct": 0,
+        "explanation": "Sea arch समुद्री तरंगों के अपरदन से बनता है।"
+    },
+    {
+        "question": "Loess किस प्रकार का निक्षेप है?",
+        "options": [
+            "River deposit",
+            "Glacial deposit",
+            "Wind deposit",
+            "Marine deposit"
+        ],
+        "correct": 2,
+        "explanation": "Loess महीन धूल का वायु निक्षेप है।"
+    },
+    {
+        "question": "निम्नलिखित में से किस स्थलरूप का निर्माण नदी निक्षेपण से होता है?",
+        "options": [
+            "Delta",
+            "Gorge",
+            "Canyon",
+            "Waterfall"
+        ],
+        "correct": 0,
+        "explanation": "Delta नदी के मुहाने पर निक्षेपण से बनता है।"
+    },
+    {
+        "question": "निम्नलिखित में से कौन-सा Structural landform है?",
+        "options": [
+            "Rift valley",
+            "Delta",
+            "Barchan",
+            "Drumlin"
+        ],
+        "correct": 0,
+        "explanation": "Rift valley भ्रंश क्रिया से बनने वाला संरचनात्मक स्थलरूप है।"
+    },
+    {
+        "question": "निम्नलिखित में से कौन-सा स्थलरूप हिमानी अपरदन से बनता है?",
+        "options": [
+            "Cirque",
+            "Drumlin",
+            "Eskers",
+            "Outwash plain"
+        ],
+        "correct": 0,
+        "explanation": "Cirque हिमानी अपरदन स्थलरूप है।"
+    },
+    {
+        "question": "नदी की संतुलित अवस्था को क्या कहा जाता है?",
+        "options": [
+            "Dynamic equilibrium",
+            "Static equilibrium",
+            "Morphological balance",
+            "Fluvial stage"
+        ],
+        "correct": 0,
+        "explanation": "Dynamic equilibrium में अपरदन और निक्षेपण संतुलित रहते हैं।"
+    },
+    {
+        "question": "निम्नलिखित में से किस स्थलरूप का संबंध वायु अपरदन से है?",
+        "options": [
+            "Yardang",
+            "Fjord",
+            "Cirque",
+            "Delta"
+        ],
+        "correct": 0,
+        "explanation": "Yardang वायु अपरदन से बनता है।"
+    },
+    {
+        "question": "Glacial horn का निर्माण कैसे होता है?",
+        "options": [
+            "River erosion",
+            "Marine erosion",
+            "Multiple cirques erosion",
+            "Wind erosion"
+        ],
+        "correct": 2,
+        "explanation": "कई cirques के मिलन से horn बनता है।"
+    },
+    {
+        "question": "निम्नलिखित में से कौन-सा fluvial landform है?",
+        "options": [
+            "Oxbow lake",
+            "Yardang",
+            "Drumlin",
+            "Cirque"
+        ],
+        "correct": 0,
+        "explanation": "Oxbow lake नदी के meander कटने से बनती है।"
+    },
+    {
+        "question": "निम्नलिखित में से कौन-सा सिद्धांत slope replacement से संबंधित है?",
+        "options": [
+            "Penck theory",
+            "Davis theory",
+            "King theory",
+            "Horton theory"
+        ],
+        "correct": 0,
+        "explanation": "Slope replacement concept Walther Penck से जुड़ा है।"
+    },
+    {
+        "question": "Badlands स्थलरूप मुख्यतः किससे बनते हैं?",
+        "options": [
+            "Glacial erosion",
+            "Wind deposition",
+            "Intense erosion in arid areas",
+            "Marine erosion"
+        ],
+        "correct": 2,
+        "explanation": "Badlands शुष्क क्षेत्रों में तीव्र अपरदन से बनते हैं।"
+    },
+    {
+        "question": "निम्नलिखित में से कौन-सा coastal deposition landform है?",
+        "options": [
+            "Spit",
+            "Sea cliff",
+            "Sea cave",
+            "Sea arch"
+        ],
+        "correct": 0,
+        "explanation": "Spit समुद्री निक्षेप से बनता है।"
+    },
+    {
+        "question": "Alluvial fan का निर्माण कहाँ होता है?",
+        "options": [
+            "River mouth",
+            "Mountain foothills",
+            "Sea coast",
+            "Glacial valley"
+        ],
+        "correct": 1,
+        "explanation": "Alluvial fan पर्वतीय ढाल के पास बनता है।"
+    },
+    {
+        "question": "Fjord किस प्रक्रिया का परिणाम है?",
+        "options": [
+            "River erosion",
+            "Glacial erosion",
+            "Wind erosion",
+            "Marine deposition"
+        ],
+        "correct": 1,
+        "explanation": "Fjord हिमानी घाटी में समुद्री जल भरने से बनता है।"
+    },
+    {
+        "question": "निम्नलिखित में से किस स्थलरूप का निर्माण मुख्यतः नदी के पार्श्व अपरदन से होता है?",
+        "options": [
+            "Meander",
+            "Waterfall",
+            "Gorge",
+            "Rapids"
+        ],
+        "correct": 0,
+        "explanation": "Meander नदी के पार्श्व अपरदन के कारण बनता है।"
+    },
+    {
+        "question": "निम्नलिखित में से कौन-सा हिमानी अपरदन स्थलरूप है?",
+        "options": [
+            "Cirque",
+            "Drumlin",
+            "Eskers",
+            "Outwash plain"
+        ],
+        "correct": 0,
+        "explanation": "Cirque हिमानी अपरदन से बनता है जबकि Drumlin और Esker निक्षेप स्थलरूप हैं।"
+    },
+    {
+        "question": "किस स्थलरूप का निर्माण समुद्री तरंगों के अपरदन से होता है?",
+        "options": [
+            "Sea cliff",
+            "Delta",
+            "Alluvial fan",
+            "Loess"
+        ],
+        "correct": 0,
+        "explanation": "Sea cliff समुद्री तरंगों के निरंतर अपरदन से बनता है।"
+    },
+    {
+        "question": "निम्नलिखित में से कौन-सा Aeolian deposition landform है?",
+        "options": [
+            "Barchan",
+            "Yardang",
+            "Cirque",
+            "Fjord"
+        ],
+        "correct": 0,
+        "explanation": "Barchan रेत का अर्धचंद्राकार टीला है जो वायु निक्षेप से बनता है।"
+    },
+    {
+        "question": "नदी के अपरदन की अंतिम सीमा को क्या कहा जाता है?",
+        "options": [
+            "Base level",
+            "River profile",
+            "Graded stream",
+            "Flood level"
+        ],
+        "correct": 0,
+        "explanation": "Base level वह न्यूनतम स्तर है जहाँ तक नदी अपरदन कर सकती है।"
+    },
+    {
+        "question": "निम्नलिखित में से कौन-सा coastal erosion landform है?",
+        "options": [
+            "Sea arch",
+            "Spit",
+            "Lagoon",
+            "Tombolo"
+        ],
+        "correct": 0,
+        "explanation": "Sea arch समुद्री तरंगों के अपरदन से बनता है।"
+    },
+    {
+        "question": "निम्नलिखित में से कौन-सा fluvial deposition landform है?",
+        "options": [
+            "Delta",
+            "Canyon",
+            "Gorge",
+            "Waterfall"
+        ],
+        "correct": 0,
+        "explanation": "Delta नदी द्वारा लाए गए अवसाद के निक्षेप से बनता है।"
+    },
+    {
+        "question": "निम्नलिखित में से कौन-सा ग्लेशियर द्वारा निक्षेपित स्थलरूप है?",
+        "options": [
+            "Drumlin",
+            "Cirque",
+            "Arete",
+            "Horn"
+        ],
+        "correct": 0,
+        "explanation": "Drumlin हिमानी निक्षेप स्थलरूप है।"
+    },
+    {
+        "question": "Yardang स्थलरूप किस प्रक्रिया से बनता है?",
+        "options": [
+            "Wind erosion",
+            "River erosion",
+            "Glacial erosion",
+            "Marine erosion"
+        ],
+        "correct": 0,
+        "explanation": "Yardang वायु अपरदन से बनने वाला स्थलरूप है।"
+    },
+    {
+        "question": "Loess का निर्माण किस प्रकार होता है?",
+        "options": [
+            "Wind deposition",
+            "River deposition",
+            "Glacial erosion",
+            "Marine deposition"
+        ],
+        "correct": 0,
+        "explanation": "Loess महीन धूल का वायु द्वारा निक्षेप है।"
+    },
+    {
+        "question": "निम्नलिखित में से कौन-सा karst landform है?",
+        "options": [
+            "Sinkhole",
+            "Drumlin",
+            "Barchan",
+            "Spit"
+        ],
+        "correct": 0,
+        "explanation": "Sinkhole कार्स्ट स्थलरूप है जो चूना पत्थर के घुलने से बनता है।"
+    },
+    {
+        "question": "Oxbow lake का निर्माण कैसे होता है?",
+        "options": [
+            "Meander cut-off",
+            "River deposition",
+            "Glacial erosion",
+            "Wind erosion"
+        ],
+        "correct": 0,
+        "explanation": "Meander के कटने से Oxbow lake बनती है।"
+    },
+    {
+        "question": "किस स्थलरूप का निर्माण हिमानी अपरदन से होता है?",
+        "options": [
+            "Arete",
+            "Drumlin",
+            "Eskers",
+            "Outwash plain"
+        ],
+        "correct": 0,
+        "explanation": "Arete दो cirques के बीच बनने वाली तीक्ष्ण धार है।"
+    },
+    {
+        "question": "Alluvial fan सामान्यतः कहाँ बनता है?",
+        "options": [
+            "Mountain foothills",
+            "River mouth",
+            "Sea coast",
+            "Glacial valley"
+        ],
+        "correct": 0,
+        "explanation": "Alluvial fan पर्वतीय ढाल के पास बनता है।"
+    },
+    {
+        "question": "निम्नलिखित में से कौन-सा coastal deposition landform है?",
+        "options": [
+            "Spit",
+            "Sea cliff",
+            "Sea cave",
+            "Sea stack"
+        ],
+        "correct": 0,
+        "explanation": "Spit समुद्री निक्षेप से बनता है।"
+    },
+    {
+        "question": "Badlands स्थलरूप मुख्यतः कहाँ पाए जाते हैं?",
+        "options": [
+            "Arid regions",
+            "Humid regions",
+            "Glacial regions",
+            "Coastal regions"
+        ],
+        "correct": 0,
+        "explanation": "Badlands शुष्क क्षेत्रों में तीव्र अपरदन से बनते हैं।"
+    },
+    {
+        "question": "Fjord किस प्रक्रिया का परिणाम है?",
+        "options": [
+            "Glacial erosion",
+            "River erosion",
+            "Wind erosion",
+            "Marine deposition"
+        ],
+        "correct": 0,
+        "explanation": "Fjord हिमानी घाटी में समुद्री जल भरने से बनता है।"
+    },
+    {
+        "question": "निम्नलिखित में से कौन-सा नदी अपरदन स्थलरूप है?",
+        "options": [
+            "Canyon",
+            "Delta",
+            "Alluvial fan",
+            "Floodplain"
+        ],
+        "correct": 0,
+        "explanation": "Canyon गहरी नदी घाटी है जो तीव्र अपरदन से बनती है।"
+    },
+    {
+        "question": "Lagoon किस प्रकार का स्थलरूप है?",
+        "options": [
+            "Coastal deposition",
+            "River erosion",
+            "Glacial erosion",
+            "Wind erosion"
+        ],
+        "correct": 0,
+        "explanation": "Lagoon समुद्र तट पर निक्षेप से बनने वाला स्थलरूप है।"
+    },
+    {
+        "question": "Tombolo का निर्माण किस प्रक्रिया से होता है?",
+        "options": [
+            "Marine deposition",
+            "Wind erosion",
+            "River erosion",
+            "Glacial erosion"
+        ],
+        "correct": 0,
+        "explanation": "Tombolo समुद्री निक्षेप से बनता है जो द्वीप को तट से जोड़ देता है।"
+    },
+    {
+        "question": "निम्नलिखित में से कौन-सा fluvial erosion landform है?",
+        "options": [
+            "Waterfall",
+            "Delta",
+            "Alluvial fan",
+            "Floodplain"
+        ],
+        "correct": 0,
+        "explanation": "Waterfall नदी अपरदन से बनता है।"
+    },
+    {
+        "question": "Glacial horn का निर्माण कैसे होता है?",
+        "options": [
+            "Multiple cirques erosion",
+            "River erosion",
+            "Wind erosion",
+            "Marine erosion"
+        ],
+        "correct": 0,
+        "explanation": "कई cirques के मिलने से horn बनता है।"
+    },
+    {
+        "question": "निम्नलिखित में से कौन-सा desert erosion landform है?",
+        "options": [
+            "Yardang",
+            "Drumlin",
+            "Cirque",
+            "Delta"
+        ],
+        "correct": 0,
+        "explanation": "Yardang वायु अपरदन से बनता है।"
+    },
+    {
+        "question": "River terrace किसका अवशेष होता है?",
+        "options": [
+            "Old floodplain",
+            "Glacial valley",
+            "Marine cliff",
+            "Sand dune"
+        ],
+        "correct": 0,
+        "explanation": "River terrace पुराने बाढ़ मैदान का अवशेष होता है।"
+    },
+    {
+        "question": "निम्नलिखित में से कौन-सा coastal erosion landform है?",
+        "options": [
+            "Sea cave",
+            "Spit",
+            "Lagoon",
+            "Tombolo"
+        ],
+        "correct": 0,
+        "explanation": "Sea cave समुद्री तरंगों के अपरदन से बनती है।"
+    },
+    {
+        "question": "निम्नलिखित में से किस स्थलरूप का निर्माण मुख्यतः ऊर्ध्वाधर नदी अपरदन से होता है?",
+        "options": [
+            "Canyon",
+            "Delta",
+            "Floodplain",
+            "Alluvial fan"
+        ],
+        "correct": 0,
+        "explanation": "Canyon गहरी और संकरी घाटी होती है जो नदी के तीव्र ऊर्ध्वाधर अपरदन से बनती है।"
+    },
+    {
+        "question": "निम्नलिखित में से कौन-सा स्थलरूप हिमानी अपरदन से संबंधित है?",
+        "options": [
+            "Arete",
+            "Drumlin",
+            "Outwash plain",
+            "Esker"
+        ],
+        "correct": 0,
+        "explanation": "Arete दो cirque के बीच बनने वाली तीक्ष्ण धार है जो हिमानी अपरदन से बनती है।"
+    },
+    {
+        "question": "निम्नलिखित में से कौन-सा वायु अपरदन स्थलरूप है?",
+        "options": [
+            "Deflation hollow",
+            "Drumlin",
+            "Cirque",
+            "Fjord"
+        ],
+        "correct": 0,
+        "explanation": "Deflation hollow वायु द्वारा अवसाद हटाने से बनने वाला स्थलरूप है।"
+    },
+    {
+        "question": "नदी की ढाल में अचानक परिवर्तन के कारण बनने वाले स्थलरूप को क्या कहते हैं?",
+        "options": [
+            "Knick point",
+            "Meander",
+            "Delta",
+            "Levee"
+        ],
+        "correct": 0,
+        "explanation": "Knick point नदी प्रोफाइल में अचानक ढाल परिवर्तन को दर्शाता है।"
+    },
+    {
+        "question": "निम्नलिखित में से कौन-सा Karst स्थलरूप है?",
+        "options": [
+            "Stalagmite",
+            "Drumlin",
+            "Yardang",
+            "Spit"
+        ],
+        "correct": 0,
+        "explanation": "Stalagmite गुफाओं में बनने वाला कार्स्ट निक्षेप है।"
+    },
+    {
+        "question": "निम्नलिखित में से कौन-सा नदी निक्षेप स्थलरूप है?",
+        "options": [
+            "Natural levee",
+            "Gorge",
+            "Canyon",
+            "Waterfall"
+        ],
+        "correct": 0,
+        "explanation": "Natural levee नदी के बाढ़ के समय अवसाद जमने से बनता है।"
+    },
+    {
+        "question": "निम्नलिखित में से कौन-सा समुद्री अपरदन स्थलरूप है?",
+        "options": [
+            "Sea stack",
+            "Delta",
+            "Lagoon",
+            "Tombolo"
+        ],
+        "correct": 0,
+        "explanation": "Sea stack समुद्री तरंगों के अपरदन से बनता है।"
+    },
+    {
+        "question": "निम्नलिखित में से कौन-सा हिमानी निक्षेप स्थलरूप है?",
+        "options": [
+            "Esker",
+            "Cirque",
+            "Horn",
+            "Arete"
+        ],
+        "correct": 0,
+        "explanation": "Esker हिमनद द्वारा निक्षेपित अवसाद से बनता है।"
+    },
+    {
+        "question": "Sand dune का निर्माण किस प्रक्रिया से होता है?",
+        "options": [
+            "Wind deposition",
+            "River erosion",
+            "Marine erosion",
+            "Glacial deposition"
+        ],
+        "correct": 0,
+        "explanation": "Sand dunes वायु द्वारा रेत के निक्षेप से बनते हैं।"
+    },
+    {
+        "question": "निम्नलिखित में से कौन-सा fluvial erosion landform है?",
+        "options": [
+            "Gorge",
+            "Delta",
+            "Floodplain",
+            "Alluvial fan"
+        ],
+        "correct": 0,
+        "explanation": "Gorge नदी के तीव्र अपरदन से बनने वाली गहरी घाटी है।"
+    },
+    {
+        "question": "निम्नलिखित में से कौन-सा desert deposition landform है?",
+        "options": [
+            "Sand dune",
+            "Yardang",
+            "Ventifact",
+            "Deflation hollow"
+        ],
+        "correct": 0,
+        "explanation": "Sand dune वायु निक्षेप का परिणाम है।"
+    },
+    {
+        "question": "निम्नलिखित में से कौन-सा karst erosion landform है?",
+        "options": [
+            "Lapiaz",
+            "Drumlin",
+            "Barchan",
+            "Spit"
+        ],
+        "correct": 0,
+        "explanation": "Lapiaz चूना पत्थर के घुलने से बनने वाला स्थलरूप है।"
+    },
+    {
+        "question": "Fjord किसका परिणाम है?",
+        "options": [
+            "Glacial erosion",
+            "River erosion",
+            "Wind erosion",
+            "Marine deposition"
+        ],
+        "correct": 0,
+        "explanation": "Fjord हिमानी घाटी में समुद्री जल भरने से बनता है।"
+    },
+    {
+        "question": "निम्नलिखित में से कौन-सा fluvial deposition landform है?",
+        "options": [
+            "Floodplain",
+            "Canyon",
+            "Waterfall",
+            "Rapids"
+        ],
+        "correct": 0,
+        "explanation": "Floodplain नदी द्वारा लाए गए अवसाद के निक्षेप से बनता है।"
+    },
+    {
+        "question": "Ventifact किस प्रक्रिया से बनता है?",
+        "options": [
+            "Wind abrasion",
+            "River erosion",
+            "Glacial erosion",
+            "Marine erosion"
+        ],
+        "correct": 0,
+        "explanation": "Ventifact वायु द्वारा रेत के घर्षण से बनता है।"
+    },
+    {
+        "question": "निम्नलिखित में से कौन-सा coastal deposition landform है?",
+        "options": [
+            "Barrier beach",
+            "Sea cave",
+            "Sea cliff",
+            "Sea arch"
+        ],
+        "correct": 0,
+        "explanation": "Barrier beach समुद्री निक्षेप से बनता है।"
+    },
+    {
+        "question": "Drumlin का निर्माण किससे होता है?",
+        "options": [
+            "Glacial deposition",
+            "River erosion",
+            "Wind erosion",
+            "Marine erosion"
+        ],
+        "correct": 0,
+        "explanation": "Drumlin हिमनद द्वारा निक्षेपित अवसाद से बनता है।"
+    },
+    {
+        "question": "निम्नलिखित में से कौन-सा glacial erosion landform है?",
+        "options": [
+            "U-shaped valley",
+            "Drumlin",
+            "Esker",
+            "Till plain"
+        ],
+        "correct": 0,
+        "explanation": "U-shaped valley हिमानी अपरदन का परिणाम है।"
+    },
+    {
+        "question": "Yardang का निर्माण किससे होता है?",
+        "options": [
+            "Wind erosion",
+            "River erosion",
+            "Glacial erosion",
+            "Marine deposition"
+        ],
+        "correct": 0,
+        "explanation": "Yardang शुष्क क्षेत्रों में वायु अपरदन से बनता है।"
+    },
+    {
+        "question": "निम्नलिखित में से कौन-सा karst deposition landform है?",
+        "options": [
+            "Stalactite",
+            "Sinkhole",
+            "Dolines",
+            "Uvala"
+        ],
+        "correct": 0,
+        "explanation": "Stalactite गुफा की छत से लटकने वाला कार्स्ट निक्षेप है।"
+    },
+    {
+        "question": "Alluvial fan किससे बनता है?",
+        "options": [
+            "River deposition",
+            "Wind erosion",
+            "Glacial erosion",
+            "Marine erosion"
+        ],
+        "correct": 0,
+        "explanation": "Alluvial fan नदी द्वारा लाए गए अवसाद के निक्षेप से बनता है।"
+    },
+    {
+        "question": "Sea cave किस प्रक्रिया से बनती है?",
+        "options": [
+            "Marine erosion",
+            "River erosion",
+            "Wind erosion",
+            "Glacial erosion"
+        ],
+        "correct": 0,
+        "explanation": "Sea cave समुद्री तरंगों के अपरदन से बनती है।"
+    },
+    {
+        "question": "Kame किस प्रकार का स्थलरूप है?",
+        "options": [
+            "Glacial deposition",
+            "River erosion",
+            "Wind erosion",
+            "Marine erosion"
+        ],
+        "correct": 0,
+        "explanation": "Kame हिमानी निक्षेप स्थलरूप है।"
+    },
+    {
+        "question": "Mesa स्थलरूप मुख्यतः कहाँ पाया जाता है?",
+        "options": [
+            "Arid regions",
+            "Humid regions",
+            "Glacial regions",
+            "Coastal regions"
+        ],
+        "correct": 0,
+        "explanation": "Mesa शुष्क क्षेत्रों में अपरदन से बनने वाला स्थलरूप है।"
+    },
+    {
+        "question": "Butte स्थलरूप किससे संबंधित है?",
+        "options": [
+            "Arid erosion",
+            "Glacial erosion",
+            "River deposition",
+            "Marine deposition"
+        ],
+        "correct": 0,
+        "explanation": "Butte शुष्क क्षेत्रों में अपरदन से बनने वाला स्थलरूप है।"
+    },
+    {
+        "question": "Pediment का निर्माण किससे होता है?",
+        "options": [
+            "Sheet erosion",
+            "Glacial erosion",
+            "River deposition",
+            "Marine erosion"
+        ],
+        "correct": 0,
+        "explanation": "Pediment शुष्क क्षेत्रों में शीट अपरदन से बनता है।"
+    },
+    {
+        "question": "Natural levee कहाँ बनता है?",
+        "options": [
+            "River banks",
+            "Sea coast",
+            "Desert",
+            "Glacier"
+        ],
+        "correct": 0,
+        "explanation": "Natural levee नदी के किनारे बाढ़ के समय अवसाद जमने से बनता है।"
+    },
+    {
+        "question": "Sea stack किससे बनता है?",
+        "options": [
+            "Marine erosion",
+            "River erosion",
+            "Wind deposition",
+            "Glacial deposition"
+        ],
+        "correct": 0,
+        "explanation": "Sea stack समुद्री तरंगों के अपरदन से बनता है।"
+    },
+    {
+        "question": "Karst topography मुख्यतः किस चट्टान में विकसित होती है?",
+        "options": [
+            "Limestone",
+            "Granite",
+            "Basalt",
+            "Sandstone"
+        ],
+        "correct": 0,
+        "explanation": "Limestone घुलनशील चट्टान है जिससे कार्स्ट स्थलरूप बनते हैं।"
+    },
+    {
+        "question": "Deflation basin किस प्रक्रिया से बनता है?",
+        "options": [
+            "Wind erosion",
+            "River erosion",
+            "Glacial erosion",
+            "Marine deposition"
+        ],
+        "correct": 0,
+        "explanation": "Deflation basin वायु द्वारा अवसाद हटाने से बनता है।"
+    },
+    {
+        "question": "निम्नलिखित में से किस स्थलरूप का निर्माण नदी के तीव्र ऊर्ध्वाधर अपरदन से होता है?",
+        "options": [
+            "Waterfall",
+            "Delta",
+            "Floodplain",
+            "Natural levee"
+        ],
+        "correct": 0,
+        "explanation": "Waterfall नदी के तीव्र ऊर्ध्वाधर अपरदन और ढाल परिवर्तन के कारण बनता है।"
+    },
+    {
+        "question": "निम्नलिखित में से कौन-सा हिमानी निक्षेप स्थलरूप है?",
+        "options": [
+            "Till plain",
+            "Cirque",
+            "Arete",
+            "Horn"
+        ],
+        "correct": 0,
+        "explanation": "Till plain हिमनद द्वारा जमा किए गए अवसाद से बनता है।"
+    },
+    {
+        "question": "निम्नलिखित में से कौन-सा मरुस्थलीय अपरदन स्थलरूप है?",
+        "options": [
+            "Inselberg",
+            "Delta",
+            "Fjord",
+            "Lagoon"
+        ],
+        "correct": 0,
+        "explanation": "Inselberg शुष्क क्षेत्रों में अपरदन से बनने वाली एकाकी चट्टानी पहाड़ी है।"
+    },
+    {
+        "question": "निम्नलिखित में से कौन-सा Aeolian erosion landform है?",
+        "options": [
+            "Zeugen",
+            "Drumlin",
+            "Esker",
+            "Outwash plain"
+        ],
+        "correct": 0,
+        "explanation": "Zeugen मरुस्थलीय क्षेत्रों में वायु अपरदन से बनने वाला स्थलरूप है।"
+    },
+    {
+        "question": "निम्नलिखित में से कौन-सा coastal erosion landform है?",
+        "options": [
+            "Wave-cut platform",
+            "Spit",
+            "Tombolo",
+            "Barrier beach"
+        ],
+        "correct": 0,
+        "explanation": "Wave-cut platform समुद्री तरंगों के अपरदन से बनता है।"
+    },
+    {
+        "question": "निम्नलिखित में से कौन-सा fluvial deposition landform है?",
+        "options": [
+            "Point bar",
+            "Gorge",
+            "Canyon",
+            "Waterfall"
+        ],
+        "correct": 0,
+        "explanation": "Point bar नदी के meander के अंदरूनी भाग में निक्षेप से बनता है।"
+    },
+    {
+        "question": "निम्नलिखित में से कौन-सा karst स्थलरूप है?",
+        "options": [
+            "Uvala",
+            "Drumlin",
+            "Yardang",
+            "Spit"
+        ],
+        "correct": 0,
+        "explanation": "Uvala कई doline के मिलन से बनने वाला कार्स्ट स्थलरूप है।"
+    },
+    {
+        "question": "निम्नलिखित में से कौन-सा glacial erosion landform है?",
+        "options": [
+            "Hanging valley",
+            "Drumlin",
+            "Kame",
+            "Esker"
+        ],
+        "correct": 0,
+        "explanation": "Hanging valley हिमानी अपरदन से बनती है।"
+    },
+    {
+        "question": "निम्नलिखित में से कौन-सा desert deposition landform है?",
+        "options": [
+            "Loess",
+            "Yardang",
+            "Ventifact",
+            "Deflation hollow"
+        ],
+        "correct": 0,
+        "explanation": "Loess वायु द्वारा जमा की गई महीन धूल का निक्षेप है।"
+    },
+    {
+        "question": "निम्नलिखित में से कौन-सा coastal deposition landform है?",
+        "options": [
+            "Lagoon",
+            "Sea cliff",
+            "Sea arch",
+            "Sea cave"
+        ],
+        "correct": 0,
+        "explanation": "Lagoon समुद्र तट पर निक्षेप से बनने वाला स्थलरूप है।"
+    },
+    {
+        "question": "निम्नलिखित में से कौन-सा fluvial erosion landform है?",
+        "options": [
+            "Pothole",
+            "Delta",
+            "Alluvial fan",
+            "Floodplain"
+        ],
+        "correct": 0,
+        "explanation": "Pothole नदी तल में घूर्णनशील कंकड़ों के कारण बनने वाला गड्ढा है।"
+    },
+    {
+        "question": "निम्नलिखित में से कौन-सा हिमानी निक्षेप स्थलरूप है?",
+        "options": [
+            "Terminal moraine",
+            "Cirque",
+            "Arete",
+            "Horn"
+        ],
+        "correct": 0,
+        "explanation": "Terminal moraine हिमनद द्वारा अग्रभाग पर जमा अवसाद से बनता है।"
+    },
+    {
+        "question": "निम्नलिखित में से कौन-सा desert erosion landform है?",
+        "options": [
+            "Pediplain",
+            "Delta",
+            "Lagoon",
+            "Fjord"
+        ],
+        "correct": 0,
+        "explanation": "Pediplain शुष्क क्षेत्रों में दीर्घकालीन अपरदन से बनता है।"
+    },
+    {
+        "question": "निम्नलिखित में से कौन-सा coastal erosion landform है?",
+        "options": [
+            "Blowhole",
+            "Spit",
+            "Lagoon",
+            "Tombolo"
+        ],
+        "correct": 0,
+        "explanation": "Blowhole समुद्री तरंगों के अपरदन से बनने वाला छिद्र है।"
+    },
+    {
+        "question": "निम्नलिखित में से कौन-सा fluvial deposition landform है?",
+        "options": [
+            "Alluvial terrace",
+            "Canyon",
+            "Gorge",
+            "Rapids"
+        ],
+        "correct": 0,
+        "explanation": "Alluvial terrace पुराने नदी निक्षेप का अवशेष है।"
+    },
+    {
+        "question": "निम्नलिखित में से कौन-सा karst स्थलरूप है?",
+        "options": [
+            "Polje",
+            "Drumlin",
+            "Yardang",
+            "Esker"
+        ],
+        "correct": 0,
+        "explanation": "Polje बड़ा कार्स्ट अवसाद है जो चूना पत्थर क्षेत्रों में बनता है।"
+    },
+    {
+        "question": "निम्नलिखित में से कौन-सा glacial deposition landform है?",
+        "options": [
+            "Medial moraine",
+            "Cirque",
+            "Arete",
+            "Horn"
+        ],
+        "correct": 0,
+        "explanation": "Medial moraine दो हिमनदों के मिलने से बनने वाला निक्षेप स्थलरूप है।"
+    },
+    {
+        "question": "निम्नलिखित में से कौन-सा desert erosion landform है?",
+        "options": [
+            "Rock pedestal",
+            "Delta",
+            "Lagoon",
+            "Fjord"
+        ],
+        "correct": 0,
+        "explanation": "Rock pedestal वायु अपरदन से बनने वाला स्तंभाकार स्थलरूप है।"
+    },
+    {
+        "question": "निम्नलिखित में से कौन-सा coastal deposition landform है?",
+        "options": [
+            "Sand spit",
+            "Sea cave",
+            "Sea cliff",
+            "Wave-cut platform"
+        ],
+        "correct": 0,
+        "explanation": "Sand spit समुद्री निक्षेप से बनने वाला लंबा संकीर्ण स्थलरूप है।"
+    },
+    {
+        "question": "निम्नलिखित में से कौन-सा fluvial erosion landform है?",
+        "options": [
+            "Incised meander",
+            "Delta",
+            "Floodplain",
+            "Natural levee"
+        ],
+        "correct": 0,
+        "explanation": "Incised meander गहरी घाटियों में विकसित meander है जो अपरदन से बनता है।"
+    }
+]
