@@ -473,6 +473,62 @@
       "icon": "🎯",
       "questionCount": 60,
       "type": "previous_year"
+    },
+    {
+      "id": "kvs_pgt_geo_2023",
+      "name": "KVS PGT Geography 2023 (Actual PYQ)",
+      "file": "uppsc_pgt/KVS_PGT_Geography_2023.json",
+      "icon": "📝",
+      "questionCount": 61,
+      "type": "previous_year"
+    },
+    {
+      "id": "uppsc_pgt_practice_03",
+      "name": "UPPSC PGT Practice Set 03",
+      "file": "uppsc_pgt/UPPSC_PGT_Practice_Set_03.json",
+      "icon": "🎯",
+      "questionCount": 49,
+      "type": "previous_year"
+    },
+    {
+      "id": "uppsc_pgt_sim_01",
+      "name": "UPPSC PGT Practice Paper 01 (Full Mock)",
+      "file": "uppsc_pgt/UPPSC_PGT_Simulation_01.json",
+      "icon": "📋",
+      "questionCount": 125,
+      "type": "previous_year"
+    },
+    {
+      "id": "uppsc_pgt_sim_02",
+      "name": "UPPSC PGT Practice Paper 02 (Full Mock)",
+      "file": "uppsc_pgt/UPPSC_PGT_Simulation_02.json",
+      "icon": "📋",
+      "questionCount": 125,
+      "type": "previous_year"
+    },
+    {
+      "id": "regional_geo_01",
+      "name": "Regional Geography Set 01 (America, Russia, Europe)",
+      "file": "uppsc_pgt/Regional_Geography_Set_01.json",
+      "icon": "🌍",
+      "questionCount": 50,
+      "type": "previous_year"
+    },
+    {
+      "id": "regional_geo_02",
+      "name": "Regional Geography Set 02 (Asia, Japan, China, SE Asia)",
+      "file": "uppsc_pgt/Regional_Geography_Set_02.json",
+      "icon": "🌏",
+      "questionCount": 50,
+      "type": "previous_year"
+    },
+    {
+      "id": "regional_geo_03",
+      "name": "Regional Geography Set 03 (Africa, S. America, Oceania)",
+      "file": "uppsc_pgt/Regional_Geography_Set_03.json",
+      "icon": "🌎",
+      "questionCount": 50,
+      "type": "previous_year"
     }
   ]
 }
