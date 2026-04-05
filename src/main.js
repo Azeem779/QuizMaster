@@ -97,12 +97,27 @@ notesStartQuizBtn.addEventListener("click", () => {
 });
 
 // Topic selection
+// Helper to clear all topic dropdowns except the active one
+function clearOtherDropdowns(activeId) {
+  const allDropdowns = ["topicSelect", "topicSelect100", "topicSelectStatement", "topicSelectGeographical", "topicSelectPYQ"];
+  allDropdowns.forEach(id => {
+    if (id !== activeId && $(id)) $(id).value = "";
+  });
+}
+
+// Topic selection (Previous Year Set)
+if ($("topicSelectPYQ")) {
+  $("topicSelectPYQ").addEventListener("change", (e) => {
+    state.selectedTopic = e.target.value;
+    clearOtherDropdowns("topicSelectPYQ");
+    updateTopicSelection();
+  });
+}
+
 // Topic selection (Regular)
 topicSelect.addEventListener("change", (e) => {
   state.selectedTopic = e.target.value;
-  if ($("topicSelect100")) $("topicSelect100").value = "";
-  if ($("topicSelectStatement")) $("topicSelectStatement").value = "";
-  if ($("topicSelectGeographical")) $("topicSelectGeographical").value = "";
+  clearOtherDropdowns("topicSelect");
   updateTopicSelection();
 });
 
@@ -110,9 +125,7 @@ topicSelect.addEventListener("change", (e) => {
 if ($("topicSelect100")) {
   $("topicSelect100").addEventListener("change", (e) => {
     state.selectedTopic = e.target.value;
-    topicSelect.value = "";
-    if ($("topicSelectStatement")) $("topicSelectStatement").value = "";
-    if ($("topicSelectGeographical")) $("topicSelectGeographical").value = "";
+    clearOtherDropdowns("topicSelect100");
     updateTopicSelection();
   });
 }
@@ -121,9 +134,7 @@ if ($("topicSelect100")) {
 if ($("topicSelectStatement")) {
   $("topicSelectStatement").addEventListener("change", (e) => {
     state.selectedTopic = e.target.value;
-    topicSelect.value = "";
-    if ($("topicSelect100")) $("topicSelect100").value = "";
-    if ($("topicSelectGeographical")) $("topicSelectGeographical").value = "";
+    clearOtherDropdowns("topicSelectStatement");
     updateTopicSelection();
   });
 }
@@ -132,9 +143,7 @@ if ($("topicSelectStatement")) {
 if ($("topicSelectGeographical")) {
   $("topicSelectGeographical").addEventListener("change", (e) => {
     state.selectedTopic = e.target.value;
-    topicSelect.value = "";
-    if ($("topicSelect100")) $("topicSelect100").value = "";
-    if ($("topicSelectStatement")) $("topicSelectStatement").value = "";
+    clearOtherDropdowns("topicSelectGeographical");
     updateTopicSelection();
   });
 }

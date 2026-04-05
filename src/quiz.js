@@ -60,6 +60,7 @@ function populateTopicDropdown() {
   const topicSelect100 = $("topicSelect100");
   const topicSelectStatement = $("topicSelectStatement");
   const topicSelectGeographical = $("topicSelectGeographical");
+  const topicSelectPYQ = $("topicSelectPYQ");
 
   topicSelect.innerHTML =
     '<option value="" disabled selected>-- Select a topic --</option>';
@@ -75,8 +76,13 @@ function populateTopicDropdown() {
     topicSelectGeographical.innerHTML =
       '<option value="" disabled selected>-- Select a Geographical Thoughts topic --</option>';
   }
+  if (topicSelectPYQ) {
+    topicSelectPYQ.innerHTML =
+      '<option value="" disabled selected>-- Select a Previous Year Set --</option>';
+  }
 
   state.topics.forEach((topic) => {
+    const isPYQ = topic.type === "previous_year";
     const isStatement = topic.type === "statement" || topic.name.includes("Statement");
     const is100Series = topic.name.includes("100");
     const isGeographical = topic.type === "geographical_thoughts_test";
@@ -84,7 +90,9 @@ function populateTopicDropdown() {
     option.value = topic.id;
     option.textContent = `${topic.icon} ${topic.name} (${topic.questionCount} questions)`;
 
-    if (isStatement && topicSelectStatement) {
+    if (isPYQ && topicSelectPYQ) {
+      topicSelectPYQ.appendChild(option);
+    } else if (isStatement && topicSelectStatement) {
       topicSelectStatement.appendChild(option);
     } else if (is100Series && topicSelect100) {
       topicSelect100.appendChild(option);

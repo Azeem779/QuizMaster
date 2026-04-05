@@ -411,6 +411,22 @@
       "type": "statement"
     },
     {
+      "id": "indian_geo_statement_01",
+      "name": "Indian Geography Statement Based - Set 01",
+      "file": "statement_series/Indian_Geography_Statement_Based_Series_01.json",
+      "icon": "🇮🇳",
+      "questionCount": 60,
+      "type": "statement"
+    },
+    {
+      "id": "indian_geo_statement_02",
+      "name": "Indian Geography Statement Based - Set 02",
+      "file": "statement_series/Indian_Geography_Statement_Based_Series_02.json",
+      "icon": "🇮🇳",
+      "questionCount": 60,
+      "type": "statement"
+    },
+    {
       "id": "geo_thoughts_01",
       "name": "Geographical Thoughts - Part 1",
       "file": "geographical_thoughts_topic/geographical_thoughts_mcqs.json",
@@ -433,6 +449,30 @@
       "icon": "🧠",
       "questionCount": 50,
       "type": "geographical_thoughts_test"
+    },
+    {
+      "id": "uppsc_pgt_geo_2021",
+      "name": "UPPSC PGT Geography 2021 (Actual PYQ)",
+      "file": "uppsc_pgt/UPPSC_PGT_Geography_2021.json",
+      "icon": "📝",
+      "questionCount": 124,
+      "type": "previous_year"
+    },
+    {
+      "id": "uppsc_pgt_practice_01",
+      "name": "UPPSC PGT Practice Set 01",
+      "file": "uppsc_pgt/UPPSC_PGT_Practice_Set_01.json",
+      "icon": "🎯",
+      "questionCount": 61,
+      "type": "previous_year"
+    },
+    {
+      "id": "uppsc_pgt_practice_02",
+      "name": "UPPSC PGT Practice Set 02",
+      "file": "uppsc_pgt/UPPSC_PGT_Practice_Set_02.json",
+      "icon": "🎯",
+      "questionCount": 60,
+      "type": "previous_year"
     }
   ]
 }
