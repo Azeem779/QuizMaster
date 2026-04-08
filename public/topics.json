@@ -453,10 +453,10 @@
     {
       "id": "uppsc_pgt_geo_2021",
       "name": "UPPSC PGT Geography 2021 (Actual PYQ)",
-      "file": "uppsc_pgt/UPPSC_PGT_Geography_2021.json",
+      "file": "actual_pyq/UPPSC_PGT_Geography_2021.json",
       "icon": "📝",
       "questionCount": 124,
-      "type": "previous_year"
+      "type": "actual_pyq"
     },
     {
       "id": "uppsc_pgt_practice_01",
@@ -529,6 +529,54 @@
       "icon": "🌎",
       "questionCount": 50,
       "type": "previous_year"
+    },
+    {
+      "id": "uppsc_pgt_practice_04",
+      "name": "UPPSC PGT Practice Set 04",
+      "file": "uppsc_pgt/UPPSC_PGT_Practice_Set_04.json",
+      "icon": "🎯",
+      "questionCount": 50,
+      "type": "previous_year"
+    },
+    {
+      "id": "uppsc_pgt_practice_05",
+      "name": "UPPSC PGT Practice Set 05",
+      "file": "uppsc_pgt/UPPSC_PGT_Practice_Set_05.json",
+      "icon": "🎯",
+      "questionCount": 50,
+      "type": "previous_year"
+    },
+    {
+      "id": "uppsc_pgt_geo_2016",
+      "name": "UPPSC PGT Geography 2016 (Actual PYQ)",
+      "file": "actual_pyq/UPPSC_PGT_Geography_2016.json",
+      "icon": "📝",
+      "questionCount": 125,
+      "type": "actual_pyq"
+    },
+    {
+      "id": "uppsc_pgt_geo_2013",
+      "name": "UPPSC PGT Geography 2013 (Actual PYQ)",
+      "file": "actual_pyq/UPPSC_PGT_Geography_2013.json",
+      "icon": "📝",
+      "questionCount": 125,
+      "type": "actual_pyq"
+    },
+    {
+      "id": "uppsc_pgt_geo_2011",
+      "name": "UPPSC PGT Geography 2011 (Actual PYQ)",
+      "file": "actual_pyq/UPPSC_PGT_Geography_2011.json",
+      "icon": "📝",
+      "questionCount": 125,
+      "type": "actual_pyq"
+    },
+    {
+      "id": "uppsc_pgt_geo_2010",
+      "name": "UPPSC PGT Geography 2010 (Actual PYQ)",
+      "file": "actual_pyq/UPPSC_PGT_Geography_2010.json",
+      "icon": "📝",
+      "questionCount": 125,
+      "type": "actual_pyq"
     }
   ]
 }

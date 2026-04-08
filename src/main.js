@@ -99,9 +99,18 @@ notesStartQuizBtn.addEventListener("click", () => {
 // Topic selection
 // Helper to clear all topic dropdowns except the active one
 function clearOtherDropdowns(activeId) {
-  const allDropdowns = ["topicSelect", "topicSelect100", "topicSelectStatement", "topicSelectGeographical", "topicSelectPYQ"];
+  const allDropdowns = ["topicSelect", "topicSelect100", "topicSelectStatement", "topicSelectGeographical", "topicSelectPYQ", "topicSelectActualPYQ"];
   allDropdowns.forEach(id => {
     if (id !== activeId && $(id)) $(id).value = "";
+  });
+}
+
+// Topic selection (Actual PYQ Papers)
+if ($("topicSelectActualPYQ")) {
+  $("topicSelectActualPYQ").addEventListener("change", (e) => {
+    state.selectedTopic = e.target.value;
+    clearOtherDropdowns("topicSelectActualPYQ");
+    updateTopicSelection();
   });
 }
 
