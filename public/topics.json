@@ -577,6 +577,38 @@
       "icon": "📝",
       "questionCount": 125,
       "type": "actual_pyq"
+    },
+    {
+      "id": "uppsc_pgt_geo_2009",
+      "name": "UPPSC PGT Geography 2009 (Actual PYQ)",
+      "file": "actual_pyq/UPPSC_PGT_Geography_2009.json",
+      "icon": "📝",
+      "questionCount": 125,
+      "type": "actual_pyq"
+    },
+    {
+      "id": "uppsc_pgt_geo_2006",
+      "name": "UPPSC PGT Geography 2006 (Actual PYQ)",
+      "file": "actual_pyq/UPPSC_PGT_Geography_2006.json",
+      "icon": "📝",
+      "questionCount": 125,
+      "type": "actual_pyq"
+    },
+    {
+      "id": "uppsc_pgt_geo_2004",
+      "name": "UPPSC PGT Geography 2004 (Actual PYQ)",
+      "file": "actual_pyq/UPPSC_PGT_Geography_2004.json",
+      "icon": "📝",
+      "questionCount": 125,
+      "type": "actual_pyq"
+    },
+    {
+      "id": "uppsc_pgt_geo_2003",
+      "name": "UPPSC PGT Geography 2003 (Actual PYQ)",
+      "file": "actual_pyq/UPPSC_PGT_Geography_2003.json",
+      "icon": "📝",
+      "questionCount": 85,
+      "type": "actual_pyq"
     }
   ]
 }
